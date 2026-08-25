@@ -1,0 +1,4275 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " Welcome back to 100 days of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 3.0,
+            "end": 8.0,
+            "text": " In today's video we will see comments, escape sequence characters and print statement"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 8.0,
+            "end": 12.0,
+            "text": " Whenever we do coding in Python programming language or any language"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 12.0,
+            "end": 16.0,
+            "text": " Sometimes we want to leave some text in that program which is not executed"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 16.0,
+            "end": 19.0,
+            "text": " Whatever we write in our program is executed by Python interpreter"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 19.0,
+            "end": 24.0,
+            "text": " But sometimes we want to write some lines in our program which is not executed"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 24.0,
+            "end": 26.0,
+            "text": " For example if I am writing a program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 26.0,
+            "end": 30.0,
+            "text": " Then maybe after 6 months I will forget what is happening in that program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 30.0,
+            "end": 34.0,
+            "text": " So for me it will be natural to write some lines in my program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 34.0,
+            "end": 40.0,
+            "text": " I want to add some lines which will tell future harry what program he wrote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 40.0,
+            "end": 46.0,
+            "text": " Or if I am working with my friend Shivam or with my friend Rohan"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 46.0,
+            "end": 50.0,
+            "text": " Then I have to tell them what I am doing in my program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 50.0,
+            "end": 52.0,
+            "text": " How my program is working"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 52.0,
+            "end": 54.0,
+            "text": " In this way I will use comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 54.0,
+            "end": 56.0,
+            "text": " Escape sequence characters of Python"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " Print statement we will see in this video"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " Let's go to computer screen and let's get started"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 70.0,
+            "end": 72.0,
+            "text": " So what I will do here is"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 72.0,
+            "end": 76.0,
+            "text": " I am going to open my file main.py"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 76.0,
+            "end": 80.0,
+            "text": " So I am going to files and I will open main.py here as always"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 80.0,
+            "end": 85.0,
+            "text": " And here my main.py output is going to be"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 85.0,
+            "end": 87.0,
+            "text": " That you will see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 87.0,
+            "end": 90.0,
+            "text": " So if I am writing here print hey I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 90.0,
+            "end": 93.0,
+            "text": " So there is no doubt that I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 93.0,
+            "end": 96.0,
+            "text": " So here print hey I am a good boy will be printed"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 96.0,
+            "end": 100.0,
+            "text": " In fact in print statement in double quotes whatever you will give"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 100.0,
+            "end": 102.0,
+            "text": " You will get to see here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 102.0,
+            "end": 105.0,
+            "text": " So here I got to see hey I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 105.0,
+            "end": 109.0,
+            "text": " And here you see if I am writing here hey I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 109.0,
+            "end": 113.0,
+            "text": " Suppose I hit enter here and write and this viewer"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 113.0,
+            "end": 117.0,
+            "text": " Is also a good boy slash girl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 117.0,
+            "end": 119.0,
+            "text": " So if I will run this here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 119.0,
+            "end": 121.0,
+            "text": " So what red line I am getting to see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 121.0,
+            "end": 123.0,
+            "text": " This is a sign of danger"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " What kind of error is this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 125.0,
+            "end": 127.0,
+            "text": " URL while scanning string literal"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 127.0,
+            "end": 129.0,
+            "text": " Now I will tell you what does it mean"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 129.0,
+            "end": 131.0,
+            "text": " Python is basically saying that you know what"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 131.0,
+            "end": 134.0,
+            "text": " You wrote print here and you started double quotes"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 134.0,
+            "end": 136.0,
+            "text": " But you hit enter here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 136.0,
+            "end": 138.0,
+            "text": " I did not like it at all"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 138.0,
+            "end": 139.0,
+            "text": " I didn't like it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 139.0,
+            "end": 141.0,
+            "text": " So you will say that what should I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 141.0,
+            "end": 143.0,
+            "text": " I want a new line of boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 143.0,
+            "end": 146.0,
+            "text": " After that python says to you that it is fine"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " You guys want a new line right"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 148.0,
+            "end": 151.0,
+            "text": " So you guys do the use of escape sequence characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 151.0,
+            "end": 155.0,
+            "text": " Here you have to put backslash n like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 155.0,
+            "end": 158.0,
+            "text": " And you don't have to hit this new line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 158.0,
+            "end": 161.0,
+            "text": " Just write backslash n python will take care of it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 161.0,
+            "end": 163.0,
+            "text": " So you guys will say backslash n is fine"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " I am a good boy wrote backslash n"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 165.0,
+            "end": 167.0,
+            "text": " You will run the code as it is"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 167.0,
+            "end": 169.0,
+            "text": " And you will see I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 169.0,
+            "end": 172.0,
+            "text": " And after that this viewer is also a good boy slash girl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 172.0,
+            "end": 175.0,
+            "text": " And after that what was this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 175.0,
+            "end": 176.0,
+            "text": " What was backslash n"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 176.0,
+            "end": 178.0,
+            "text": " This was an escape sequence character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 178.0,
+            "end": 180.0,
+            "text": " I will talk about this today"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 180.0,
+            "end": 183.0,
+            "text": " And I will tell you what are these escape sequence characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 183.0,
+            "end": 186.0,
+            "text": " And what are these escape sequence characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 186.0,
+            "end": 189.0,
+            "text": " But before that I want to tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 189.0,
+            "end": 190.0,
+            "text": " What are the comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 190.0,
+            "end": 192.0,
+            "text": " Suppose I am working on a codebase"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 192.0,
+            "end": 195.0,
+            "text": " I am creating code with harry.com"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 195.0,
+            "end": 197.0,
+            "text": " And we are making that website with a lot of noise"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 197.0,
+            "end": 200.0,
+            "text": " Both of them are working on it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 200.0,
+            "end": 202.0,
+            "text": " Suppose I want to tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 202.0,
+            "end": 206.0,
+            "text": " That there is a new design coming up on the homepage of code with harry.com"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 206.0,
+            "end": 208.0,
+            "text": " And I will bring it after two days"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 208.0,
+            "end": 210.0,
+            "text": " And suppose I am going to comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 210.0,
+            "end": 211.0,
+            "text": " That don't change this design"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 211.0,
+            "end": 213.0,
+            "text": " Don't remove this line from here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 213.0,
+            "end": 214.0,
+            "text": " I want to write here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 214.0,
+            "end": 220.0,
+            "text": " Hey harry please don't remove this line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 220.0,
+            "end": 221.0,
+            "text": " Suppose I want to say this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 221.0,
+            "end": 223.0,
+            "text": " I say harry don't remove this line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 223.0,
+            "end": 225.0,
+            "text": " I am working on it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 225.0,
+            "end": 228.0,
+            "text": " For this line I want to keep this in codebase"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 228.0,
+            "end": 229.0,
+            "text": " But you guys are seeing here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " Python Devtan is angry"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 231.0,
+            "end": 233.0,
+            "text": " Nagraj is saying that what is going on"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 233.0,
+            "end": 235.0,
+            "text": " Where did this invalid syntax come from"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 235.0,
+            "end": 236.0,
+            "text": " I understand print"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 236.0,
+            "end": 238.0,
+            "text": " I understand a lot of other syntax"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 238.0,
+            "end": 241.0,
+            "text": " But this hey harry please don't remove this line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 241.0,
+            "end": 242.0,
+            "text": " I didn't like it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 242.0,
+            "end": 243.0,
+            "text": " Python says this to us"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 243.0,
+            "end": 244.0,
+            "text": " So we will run this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 244.0,
+            "end": 246.0,
+            "text": " So obviously we will get to see the error in this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 246.0,
+            "end": 248.0,
+            "text": " There is no doubt and you will also know"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 248.0,
+            "end": 250.0,
+            "text": " Now what is this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 250.0,
+            "end": 252.0,
+            "text": " But I still want to keep this line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 252.0,
+            "end": 253.0,
+            "text": " Please I say to python please"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 253.0,
+            "end": 255.0,
+            "text": " Python says okay don't cry like a child"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 255.0,
+            "end": 257.0,
+            "text": " Yes don't cry like a child"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 257.0,
+            "end": 259.0,
+            "text": " I will tell you how to keep it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " Python says that look there is a comment inside me"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 261.0,
+            "end": 263.0,
+            "text": " Comments means that you can keep any text"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 263.0,
+            "end": 265.0,
+            "text": " I don't care about that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " You will say wow"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 267.0,
+            "end": 269.0,
+            "text": " Python you are so good"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 269.0,
+            "end": 271.0,
+            "text": " Python says yes I am so good"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 271.0,
+            "end": 273.0,
+            "text": " What should I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 273.0,
+            "end": 276.0,
+            "text": " Python says you put a character like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 276.0,
+            "end": 278.0,
+            "text": " And this will become a comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 278.0,
+            "end": 279.0,
+            "text": " What will become"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 279.0,
+            "end": 280.0,
+            "text": " This will become a comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 280.0,
+            "end": 282.0,
+            "text": " And after this if you have marked any line as comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 282.0,
+            "end": 284.0,
+            "text": " First of all it is replating for you guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " Syntax highlighting"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 286.0,
+            "end": 288.0,
+            "text": " In any id you will write syntax highlighting"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 288.0,
+            "end": 290.0,
+            "text": " In this case I have this comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " This comment is showing in green colour"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 292.0,
+            "end": 294.0,
+            "text": " And see here this syntax highlighting is going on"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 294.0,
+            "end": 296.0,
+            "text": " I have written print it is showing in yellow colour"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 296.0,
+            "end": 299.0,
+            "text": " After this the string literal is showing in some orange colour"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 299.0,
+            "end": 303.0,
+            "text": " Then these brackets are also showing in different colour"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " Error is showing in red colour"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " So this is syntax highlighting"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 307.0,
+            "end": 310.0,
+            "text": " Which is done by any id or any other id"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 310.0,
+            "end": 312.0,
+            "text": " Hey harry please don't remove this line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 312.0,
+            "end": 314.0,
+            "text": " Now let's run it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " And now our program is running"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 316.0,
+            "end": 320.0,
+            "text": " That means I can write some text in my program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " I can write some information"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 322.0,
+            "end": 324.0,
+            "text": " For example I want to mark that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 324.0,
+            "end": 326.0,
+            "text": " This program's author is harry"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 326.0,
+            "end": 329.0,
+            "text": " And for example I want to mark this thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 329.0,
+            "end": 332.0,
+            "text": " That this course is 100 days of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 332.0,
+            "end": 333.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 333.0,
+            "end": 335.0,
+            "text": " For example I want to write this thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 335.0,
+            "end": 336.0,
+            "text": " So I can write"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 336.0,
+            "end": 337.0,
+            "text": " I can write here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " Now I will tell you guys a secret"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 339.0,
+            "end": 340.0,
+            "text": " Ok what is that secret"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 340.0,
+            "end": 341.0,
+            "text": " Now that is not a secret"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 341.0,
+            "end": 342.0,
+            "text": " Because I have told you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 342.0,
+            "end": 344.0,
+            "text": " You guys can select multiple lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 344.0,
+            "end": 347.0,
+            "text": " And control or command if you are in mac"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " Control plus forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " As you will press this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 351.0,
+            "end": 354.0,
+            "text": " You can comment or uncomment any code base"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 354.0,
+            "end": 358.0,
+            "text": " So I will show you guys comment out many lines in this way"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 358.0,
+            "end": 359.0,
+            "text": " So don't ask me how I did it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 359.0,
+            "end": 363.0,
+            "text": " Because I must have done it with control plus forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " So control plus forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 365.0,
+            "end": 368.0,
+            "text": " You guys can use this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 368.0,
+            "end": 369.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 369.0,
+            "end": 372.0,
+            "text": " Any one line or multiple lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 372.0,
+            "end": 374.0,
+            "text": " Hey what happened to Siri"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 374.0,
+            "end": 375.0,
+            "text": " Siri no I am not talking to you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 375.0,
+            "end": 377.0,
+            "text": " So here I was telling you that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 377.0,
+            "end": 378.0,
+            "text": " These lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 378.0,
+            "end": 379.0,
+            "text": " Multiple lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 379.0,
+            "end": 382.0,
+            "text": " You can mark them as comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 382.0,
+            "end": 384.0,
+            "text": " Or you can uncomment them too"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 384.0,
+            "end": 385.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 385.0,
+            "end": 386.0,
+            "text": " Ok this is very good"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 386.0,
+            "end": 388.0,
+            "text": " So here I have written the same thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " That a comment is a part of coding file"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 390.0,
+            "end": 393.0,
+            "text": " That the programmer does not want to execute"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 393.0,
+            "end": 395.0,
+            "text": " Rather the programmer uses it to"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 395.0,
+            "end": 397.0,
+            "text": " Either explain a block of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 397.0,
+            "end": 399.0,
+            "text": " Or to avoid the execution of a specific part of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 399.0,
+            "end": 400.0,
+            "text": " While testing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 400.0,
+            "end": 401.0,
+            "text": " Do you understand this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 401.0,
+            "end": 402.0,
+            "text": " This means"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 402.0,
+            "end": 405.0,
+            "text": " That suppose I write a comment here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 405.0,
+            "end": 406.0,
+            "text": " Suppose I write code only"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 406.0,
+            "end": 407.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 407.0,
+            "end": 409.0,
+            "text": " Suppose I want to write this too"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 409.0,
+            "end": 412.0,
+            "text": " Print hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 412.0,
+            "end": 413.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " Now suppose I show my boss this program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 415.0,
+            "end": 417.0,
+            "text": " I say boss I wrote this program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 417.0,
+            "end": 418.0,
+            "text": " How is it looking"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 418.0,
+            "end": 419.0,
+            "text": " I wrote this and this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 419.0,
+            "end": 421.0,
+            "text": " Boss says this is very good"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 421.0,
+            "end": 422.0,
+            "text": " No I don't like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 422.0,
+            "end": 423.0,
+            "text": " Let's remove the hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 423.0,
+            "end": 424.0,
+            "text": " I will say ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 424.0,
+            "end": 427.0,
+            "text": " So I will select and do control forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 427.0,
+            "end": 429.0,
+            "text": " And now I can remove this code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 429.0,
+            "end": 431.0,
+            "text": " Now suppose my boss's boss"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 431.0,
+            "end": 432.0,
+            "text": " Says to my boss"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 432.0,
+            "end": 433.0,
+            "text": " What is going on"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 433.0,
+            "end": 434.0,
+            "text": " Why did you remove the hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 434.0,
+            "end": 435.0,
+            "text": " It was looking so good"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 435.0,
+            "end": 436.0,
+            "text": " So I will remove it again"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 436.0,
+            "end": 438.0,
+            "text": " I can do this again"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 438.0,
+            "end": 439.0,
+            "text": " And hello word will come again"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 439.0,
+            "end": 440.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 440.0,
+            "end": 442.0,
+            "text": " So this is how hello word can be done"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 442.0,
+            "end": 444.0,
+            "text": " Comment or uncomment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 444.0,
+            "end": 445.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 445.0,
+            "end": 446.0,
+            "text": " So I have written the same thing here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 446.0,
+            "end": 447.0,
+            "text": " I have given you an example"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 447.0,
+            "end": 448.0,
+            "text": " You don't even need to write code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 448.0,
+            "end": 450.0,
+            "text": " Copy and paste it from here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 450.0,
+            "end": 451.0,
+            "text": " Run it like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 451.0,
+            "end": 452.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 452.0,
+            "end": 453.0,
+            "text": " As you do this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 453.0,
+            "end": 454.0,
+            "text": " Now see here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 454.0,
+            "end": 458.0,
+            "text": " You will not get to see this is a single line comment error"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 458.0,
+            "end": 460.0,
+            "text": " You will get to see this is a print statement"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 460.0,
+            "end": 461.0,
+            "text": " I have given one more example here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 461.0,
+            "end": 464.0,
+            "text": " You can write a comment after a line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 464.0,
+            "end": 465.0,
+            "text": " That means"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 465.0,
+            "end": 467.0,
+            "text": " Suppose you have written something like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 467.0,
+            "end": 468.0,
+            "text": " I am pasting it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 468.0,
+            "end": 472.0,
+            "text": " And I will do something like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 472.0,
+            "end": 473.0,
+            "text": " You see I have written print"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 473.0,
+            "end": 474.0,
+            "text": " And after this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 474.0,
+            "end": 475.0,
+            "text": " What can I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 475.0,
+            "end": 477.0,
+            "text": " Actually I removed this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 477.0,
+            "end": 478.0,
+            "text": " I should have used a bracket"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 478.0,
+            "end": 479.0,
+            "text": " Now see you guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 479.0,
+            "end": 481.0,
+            "text": " As soon as I write print here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 481.0,
+            "end": 483.0,
+            "text": " And after this I write hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 483.0,
+            "end": 484.0,
+            "text": " And after this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 484.0,
+            "end": 486.0,
+            "text": " I can write any comment here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 486.0,
+            "end": 488.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 488.0,
+            "end": 490.0,
+            "text": " That means my code will be executed"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 490.0,
+            "end": 492.0,
+            "text": " And as soon as it will get this pound symbol"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 492.0,
+            "end": 493.0,
+            "text": " It will say ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 493.0,
+            "end": 494.0,
+            "text": " I understood"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 494.0,
+            "end": 495.0,
+            "text": " Whatever you have written I will execute it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 495.0,
+            "end": 496.0,
+            "text": " If you don't want to do it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 496.0,
+            "end": 497.0,
+            "text": " Then I will ignore it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 497.0,
+            "end": 498.0,
+            "text": " So Python interpreter"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 498.0,
+            "end": 501.0,
+            "text": " Will ignore this printing hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 501.0,
+            "end": 503.0,
+            "text": " What happens if this doesn't happen"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 503.0,
+            "end": 505.0,
+            "text": " Obviously error comes"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 505.0,
+            "end": 506.0,
+            "text": " You guys also know"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 506.0,
+            "end": 507.0,
+            "text": " What will come"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 507.0,
+            "end": 508.0,
+            "text": " Syntax error will come"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 508.0,
+            "end": 509.0,
+            "text": " It will be said that what is going on"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 509.0,
+            "end": 510.0,
+            "text": " What is this printing hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 510.0,
+            "end": 512.0,
+            "text": " Print hello word was fine"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 512.0,
+            "end": 513.0,
+            "text": " Python God will say"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 513.0,
+            "end": 514.0,
+            "text": " But he will say"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 514.0,
+            "end": 516.0,
+            "text": " What did you put in printing hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 516.0,
+            "end": 517.0,
+            "text": " I didn't like it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 517.0,
+            "end": 518.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 518.0,
+            "end": 519.0,
+            "text": " Which will be such a thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 519.0,
+            "end": 520.0,
+            "text": " So you guys can see here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 520.0,
+            "end": 524.0,
+            "text": " That as soon as I will put pound symbol here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 524.0,
+            "end": 526.0,
+            "text": " And after this I will run"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 526.0,
+            "end": 527.0,
+            "text": " Then it will work"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 527.0,
+            "end": 528.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 528.0,
+            "end": 529.0,
+            "text": " You can see it worked"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 529.0,
+            "end": 530.0,
+            "text": " Now see here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 530.0,
+            "end": 531.0,
+            "text": " What can I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 531.0,
+            "end": 533.0,
+            "text": " That I can comment out the code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 533.0,
+            "end": 534.0,
+            "text": " I have already told you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 534.0,
+            "end": 536.0,
+            "text": " But one more thing I want to tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 536.0,
+            "end": 538.0,
+            "text": " That how will you write multi line comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 538.0,
+            "end": 540.0,
+            "text": " Now I will tell you the story of multi line comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 540.0,
+            "end": 542.0,
+            "text": " Suppose someone told me"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 542.0,
+            "end": 544.0,
+            "text": " That"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 544.0,
+            "end": 546.0,
+            "text": " Let's take this example"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 546.0,
+            "end": 547.0,
+            "text": " I will uncomment it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 547.0,
+            "end": 548.0,
+            "text": " Suppose someone told me"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 548.0,
+            "end": 550.0,
+            "text": " That uncomment these three lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 550.0,
+            "end": 551.0,
+            "text": " I have two ways"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 551.0,
+            "end": 553.0,
+            "text": " Now because I am living in modern world nowadays"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 553.0,
+            "end": 555.0,
+            "text": " I have IDE"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 555.0,
+            "end": 556.0,
+            "text": " I have replit"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 556.0,
+            "end": 557.0,
+            "text": " I have modern IDEs"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 557.0,
+            "end": 558.0,
+            "text": " So I will select and"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 558.0,
+            "end": 559.0,
+            "text": " Control forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 559.0,
+            "end": 560.0,
+            "text": " This shortcut is provided"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 560.0,
+            "end": 561.0,
+            "text": " Through replit"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 561.0,
+            "end": 562.0,
+            "text": " Through VS code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 562.0,
+            "end": 563.0,
+            "text": " Through modern IDEs"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 563.0,
+            "end": 564.0,
+            "text": " Which will help you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 564.0,
+            "end": 565.0,
+            "text": " To comment or uncomment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 565.0,
+            "end": 566.0,
+            "text": " But if I can't do this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 566.0,
+            "end": 567.0,
+            "text": " Then what will I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 567.0,
+            "end": 568.0,
+            "text": " So for my convenience"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 568.0,
+            "end": 569.0,
+            "text": " I will put triple single quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 569.0,
+            "end": 570.0,
+            "text": " And whatever I write in it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 570.0,
+            "end": 571.0,
+            "text": " I will press alt"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 571.0,
+            "end": 572.0,
+            "text": " And down arrow"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 572.0,
+            "end": 573.0,
+            "text": " By the way to move the line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 573.0,
+            "end": 574.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 574.0,
+            "end": 575.0,
+            "text": " So you guys learn this shortcut too"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 575.0,
+            "end": 576.0,
+            "text": " And now"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 576.0,
+            "end": 577.0,
+            "text": " I will tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 577.0,
+            "end": 578.0,
+            "text": " How to write multiple line comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 578.0,
+            "end": 579.0,
+            "text": " So if you have multiple line comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 579.0,
+            "end": 580.0,
+            "text": " Then you can write multiple line comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 580.0,
+            "end": 581.0,
+            "text": " So you can write multiple line comments"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 581.0,
+            "end": 582.0,
+            "text": " And then"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 582.0,
+            "end": 583.0,
+            "text": " You guys learn this too"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 583.0,
+            "end": 584.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 584.0,
+            "end": 585.0,
+            "text": " All the shortcuts of VS code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 585.0,
+            "end": 586.0,
+            "text": " Work in replit"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 586.0,
+            "end": 588.0,
+            "text": " So you guys won't face any problem"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 588.0,
+            "end": 589.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 589.0,
+            "end": 590.0,
+            "text": " And if you want to learn"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 590.0,
+            "end": 591.0,
+            "text": " The shortcuts of VS code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 591.0,
+            "end": 592.0,
+            "text": " Then you guys can"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 592.0,
+            "end": 593.0,
+            "text": " Search Google"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 593.0,
+            "end": 594.0,
+            "text": " I have a video of VS code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 594.0,
+            "end": 595.0,
+            "text": " You can watch that too"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 595.0,
+            "end": 596.0,
+            "text": " But now"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 596.0,
+            "end": 597.0,
+            "text": " We will focus on Python"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 597.0,
+            "end": 598.0,
+            "text": " So if I will enclose"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 598.0,
+            "end": 600.0,
+            "text": " Anything in triple single quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 600.0,
+            "end": 601.0,
+            "text": " Then it will become"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 601.0,
+            "end": 602.0,
+            "text": " Multi line comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 602.0,
+            "end": 604.0,
+            "text": " What was written before this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 604.0,
+            "end": 605.0,
+            "text": " Was not multi line comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 605.0,
+            "end": 606.0,
+            "text": " Obviously"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 606.0,
+            "end": 607.0,
+            "text": " That was also a kind of"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 607.0,
+            "end": 608.0,
+            "text": " Multi line comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 608.0,
+            "end": 609.0,
+            "text": " So I wrote that here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 609.0,
+            "end": 610.0,
+            "text": " That you can use pound symbol"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 610.0,
+            "end": 611.0,
+            "text": " To put multi line comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 611.0,
+            "end": 612.0,
+            "text": " You can put"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 612.0,
+            "end": 613.0,
+            "text": " But"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 613.0,
+            "end": 614.0,
+            "text": " This method"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 614.0,
+            "end": 615.0,
+            "text": " Triple single quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 615.0,
+            "end": 616.0,
+            "text": " Or triple double quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 616.0,
+            "end": 617.0,
+            "text": " You guys can also put"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 617.0,
+            "end": 618.0,
+            "text": " I will tell you this too"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 618.0,
+            "end": 619.0,
+            "text": " Triple single quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 619.0,
+            "end": 620.0,
+            "text": " Program is working"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 620.0,
+            "end": 621.0,
+            "text": " But triple double quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 621.0,
+            "end": 622.0,
+            "text": " Will also work"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 622.0,
+            "end": 623.0,
+            "text": " One two three"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 623.0,
+            "end": 624.0,
+            "text": " I have put triple double quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 624.0,
+            "end": 625.0,
+            "text": " And I will do one more thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 625.0,
+            "end": 626.0,
+            "text": " I will press shift and"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 626.0,
+            "end": 627.0,
+            "text": " Ctrl X"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 627.0,
+            "end": 628.0,
+            "text": " I will press"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 628.0,
+            "end": 629.0,
+            "text": " Ctrl V"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 629.0,
+            "end": 630.0,
+            "text": " By selecting"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 630.0,
+            "end": 631.0,
+            "text": " And now I will run"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 631.0,
+            "end": 632.0,
+            "text": " So"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 632.0,
+            "end": 633.0,
+            "text": " After that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 633.0,
+            "end": 634.0,
+            "text": " It will work"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 634.0,
+            "end": 635.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 635.0,
+            "end": 636.0,
+            "text": " Are you seeing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 636.0,
+            "end": 637.0,
+            "text": " Here it works"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 637.0,
+            "end": 638.0,
+            "text": " Very good"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 638.0,
+            "end": 639.0,
+            "text": " It is fun"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 639.0,
+            "end": 640.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 640.0,
+            "end": 641.0,
+            "text": " Now here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 641.0,
+            "end": 642.0,
+            "text": " We can comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 642.0,
+            "end": 643.0,
+            "text": " And uncomment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 643.0,
+            "end": 644.0,
+            "text": " Anything"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 644.0,
+            "end": 645.0,
+            "text": " If I have written any line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 645.0,
+            "end": 646.0,
+            "text": " Or multiple lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 646.0,
+            "end": 647.0,
+            "text": " I will select them"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 647.0,
+            "end": 648.0,
+            "text": " And press Ctrl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 648.0,
+            "end": 649.0,
+            "text": " Or command"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 649.0,
+            "end": 650.0,
+            "text": " Plus forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 650.0,
+            "end": 651.0,
+            "text": " So I"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 651.0,
+            "end": 652.0,
+            "text": " Can use"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 652.0,
+            "end": 653.0,
+            "text": " To comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 653.0,
+            "end": 654.0,
+            "text": " This shortcut"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 654.0,
+            "end": 655.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 655.0,
+            "end": 656.0,
+            "text": " I hope"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 656.0,
+            "end": 657.0,
+            "text": " You guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 657.0,
+            "end": 658.0,
+            "text": " Understand"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 658.0,
+            "end": 659.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 659.0,
+            "end": 660.0,
+            "text": " Let's talk about"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 660.0,
+            "end": 661.0,
+            "text": " Escape sequence characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 661.0,
+            "end": 662.0,
+            "text": " If you guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 662.0,
+            "end": 663.0,
+            "text": " Have to"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 663.0,
+            "end": 664.0,
+            "text": " Insert characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 664.0,
+            "end": 665.0,
+            "text": " In a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 665.0,
+            "end": 666.0,
+            "text": " For example"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 666.0,
+            "end": 667.0,
+            "text": " Here it is written"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 667.0,
+            "end": 668.0,
+            "text": " Hey I am"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 668.0,
+            "end": 669.0,
+            "text": " A good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 669.0,
+            "end": 670.0,
+            "text": " And after that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 670.0,
+            "end": 671.0,
+            "text": " If I have to insert"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 671.0,
+            "end": 672.0,
+            "text": " A character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 672.0,
+            "end": 673.0,
+            "text": " Let's say"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 673.0,
+            "end": 674.0,
+            "text": " Newline character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 674.0,
+            "end": 675.0,
+            "text": " So how will I do that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 675.0,
+            "end": 676.0,
+            "text": " I will do one thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 676.0,
+            "end": 677.0,
+            "text": " That I will comment out this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 677.0,
+            "end": 678.0,
+            "text": " So that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 678.0,
+            "end": 679.0,
+            "text": " You guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 679.0,
+            "end": 680.0,
+            "text": " Will see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 680.0,
+            "end": 681.0,
+            "text": " The output of this print statement"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 681.0,
+            "end": 682.0,
+            "text": " You guys understood"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 682.0,
+            "end": 683.0,
+            "text": " Why I did this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 683.0,
+            "end": 684.0,
+            "text": " So that you guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 684.0,
+            "end": 685.0,
+            "text": " Stay focused"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 685.0,
+            "end": 686.0,
+            "text": " In this print statement"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 686.0,
+            "end": 687.0,
+            "text": " Hey I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 687.0,
+            "end": 688.0,
+            "text": " And this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 688.0,
+            "end": 689.0,
+            "text": " Viewer is also"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 689.0,
+            "end": 690.0,
+            "text": " A good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 690.0,
+            "end": 691.0,
+            "text": " Slash girl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 691.0,
+            "end": 692.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 692.0,
+            "end": 693.0,
+            "text": " Now see here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 693.0,
+            "end": 694.0,
+            "text": " This tutorial"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 694.0,
+            "end": 695.0,
+            "text": " Which I have written"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 695.0,
+            "end": 696.0,
+            "text": " What have I written in this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 696.0,
+            "end": 697.0,
+            "text": " I have written"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 697.0,
+            "end": 698.0,
+            "text": " To insert characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 698.0,
+            "end": 699.0,
+            "text": " That cannot directly be"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 699.0,
+            "end": 700.0,
+            "text": " Used in a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 700.0,
+            "end": 701.0,
+            "text": " So now"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 701.0,
+            "end": 702.0,
+            "text": " We will use"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 702.0,
+            "end": 703.0,
+            "text": " Escape sequence character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 703.0,
+            "end": 704.0,
+            "text": " So now"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 704.0,
+            "end": 705.0,
+            "text": " One thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 705.0,
+            "end": 706.0,
+            "text": " That a character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 706.0,
+            "end": 707.0,
+            "text": " Which cannot be used"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 707.0,
+            "end": 708.0,
+            "text": " In a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 708.0,
+            "end": 709.0,
+            "text": " Can be used"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 709.0,
+            "end": 710.0,
+            "text": " In an escape sequence"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 710.0,
+            "end": 711.0,
+            "text": " Character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 711.0,
+            "end": 712.0,
+            "text": " For example"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 712.0,
+            "end": 713.0,
+            "text": " If I enter"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 713.0,
+            "end": 714.0,
+            "text": " A newline character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 714.0,
+            "end": 715.0,
+            "text": " Literally"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 715.0,
+            "end": 716.0,
+            "text": " Then there will be an error"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 716.0,
+            "end": 717.0,
+            "text": " Because"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 717.0,
+            "end": 718.0,
+            "text": " Python will not be able"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 718.0,
+            "end": 719.0,
+            "text": " To parse this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 719.0,
+            "end": 720.0,
+            "text": " If you have inserted"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 720.0,
+            "end": 721.0,
+            "text": " Newline in a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 721.0,
+            "end": 722.0,
+            "text": " Literally"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 722.0,
+            "end": 723.0,
+            "text": " Then it will not be able"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 723.0,
+            "end": 724.0,
+            "text": " To parse"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 724.0,
+            "end": 725.0,
+            "text": " So we insert"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 725.0,
+            "end": 726.0,
+            "text": " Newline character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 726.0,
+            "end": 727.0,
+            "text": " Backslash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 727.0,
+            "end": 728.0,
+            "text": " Plus n"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 728.0,
+            "end": 729.0,
+            "text": " Which is a newline character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 729.0,
+            "end": 730.0,
+            "text": " It is an escape sequence character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 730.0,
+            "end": 731.0,
+            "text": " Which you can insert"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 731.0,
+            "end": 732.0,
+            "text": " Any time"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 732.0,
+            "end": 733.0,
+            "text": " In a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 733.0,
+            "end": 734.0,
+            "text": " So you will get to see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 734.0,
+            "end": 735.0,
+            "text": " Newline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 735.0,
+            "end": 736.0,
+            "text": " In some way"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 736.0,
+            "end": 737.0,
+            "text": " So if I run this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 737.0,
+            "end": 738.0,
+            "text": " Then"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 738.0,
+            "end": 739.0,
+            "text": " Hey I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 739.0,
+            "end": 740.0,
+            "text": " Will be done in a newline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 740.0,
+            "end": 741.0,
+            "text": " What about"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 741.0,
+            "end": 742.0,
+            "text": " I"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 742.0,
+            "end": 743.0,
+            "text": " Hey I am a good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 743.0,
+            "end": 744.0,
+            "text": " Want to enclose"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 744.0,
+            "end": 745.0,
+            "text": " In double code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 745.0,
+            "end": 746.0,
+            "text": " In some way"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 746.0,
+            "end": 747.0,
+            "text": " This should work"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 747.0,
+            "end": 748.0,
+            "text": " What is the problem"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 748.0,
+            "end": 749.0,
+            "text": " You will think like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 749.0,
+            "end": 750.0,
+            "text": " If you think like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 750.0,
+            "end": 751.0,
+            "text": " Then"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 751.0,
+            "end": 752.0,
+            "text": " Are you seeing this redline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 752.0,
+            "end": 753.0,
+            "text": " Replit has given a sign"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 753.0,
+            "end": 754.0,
+            "text": " It has set a warning"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 754.0,
+            "end": 755.0,
+            "text": " Tantantantantan"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 755.0,
+            "end": 756.0,
+            "text": " Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 756.0,
+            "end": 757.0,
+            "text": " So ID"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 757.0,
+            "end": 758.0,
+            "text": " It recorded the warning"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 758.0,
+            "end": 759.0,
+            "text": " There were signals"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 759.0,
+            "end": 779.4,
+            "text": " It has set"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 779.4,
+            "end": 781.0,
+            "text": "\u0430\u043b\u044c\u043d\u044b\u0435"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 781.0,
+            "end": 782.0,
+            "text": " you are see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 782.0,
+            "end": 783.2,
+            "text": " Next"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 783.2,
+            "end": 784.2,
+            "text": " Let's see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 784.2,
+            "end": 785.16,
+            "text": " Newline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 785.16,
+            "end": 786.16,
+            "text": " I think"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 786.16,
+            "end": 786.92,
+            "text": " Like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 786.92,
+            "end": 788.92,
+            "text": " double quote means it will be ending here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 788.92,
+            "end": 790.92,
+            "text": " Okay, it is ending here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 790.92,
+            "end": 793.92,
+            "text": " Then what is this? This is invalid syntax for Python."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 793.92,
+            "end": 796.92,
+            "text": " Because if this double quote comes from here and makes a string,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 796.92,
+            "end": 798.92,
+            "text": " then what is this good boy after this?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 798.92,
+            "end": 800.92,
+            "text": " So here you will get to see the error."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 800.92,
+            "end": 804.92,
+            "text": " So to avoid this, we don't use double quote character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 804.92,
+            "end": 810.92,
+            "text": " We use backslash double quote which is a double quote escape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 810.92,
+            "end": 813.92,
+            "text": " So this is a character, this is a character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 813.92,
+            "end": 816.92,
+            "text": " Now I will run this. So here I will see only double quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 816.92,
+            "end": 819.92,
+            "text": " See I am a good boy is coming in double quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 819.92,
+            "end": 821.92,
+            "text": " Did you see backslash here? No, you didn't."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 821.92,
+            "end": 825.92,
+            "text": " But I used backslash. Why did I do that?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 825.92,
+            "end": 829.92,
+            "text": " Because I wanted to use backslash double quote which is one character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 829.92,
+            "end": 831.92,
+            "text": " It looks like two but it is one character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 831.92,
+            "end": 835.92,
+            "text": " Backslash double quote which produces a single double quote in output."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 835.92,
+            "end": 838.92,
+            "text": " What happens is an escape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 838.92,
+            "end": 843.92,
+            "text": " An escape sequence character is a backslash followed by the character you want to insert."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 843.92,
+            "end": 847.92,
+            "text": " An example of a character that cannot be directly used as a string."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 847.92,
+            "end": 848.92,
+            "text": " I have given it here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 848.92,
+            "end": 854.92,
+            "text": " If the string in your print is made in this way in single quote,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 854.92,
+            "end": 856.92,
+            "text": " then you cannot use single quote also."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 856.92,
+            "end": 857.92,
+            "text": " Do you understand?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 857.92,
+            "end": 860.92,
+            "text": " Now we will read these things in more detail in the chapter on strings."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 860.92,
+            "end": 864.92,
+            "text": " But if I put it in single quote, I cannot put single quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 864.92,
+            "end": 866.92,
+            "text": " I will have to put backslash single quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 866.92,
+            "end": 868.92,
+            "text": " See, there is an error."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 868.92,
+            "end": 870.92,
+            "text": " I will put backslash single quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 870.92,
+            "end": 871.92,
+            "text": " So this single quote will come."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 871.92,
+            "end": 872.92,
+            "text": " After hey I am."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 872.92,
+            "end": 873.92,
+            "text": " A single quote came."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 873.92,
+            "end": 876.92,
+            "text": " So I can put single quote in strings like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 876.92,
+            "end": 878.92,
+            "text": " So this was our escape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 878.92,
+            "end": 880.92,
+            "text": " I hope you understood."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 880.92,
+            "end": 883.92,
+            "text": " Now I want to tell you about print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 883.92,
+            "end": 884.92,
+            "text": " Some other things."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 884.92,
+            "end": 890.92,
+            "text": " The first thing I want to tell you is that in print you can give multiple values."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 890.92,
+            "end": 893.92,
+            "text": " Like I can give here hey, six and seven."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 893.92,
+            "end": 894.92,
+            "text": " I can give these three values."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 894.92,
+            "end": 896.92,
+            "text": " If I run it, I will get to see all three."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 896.92,
+            "end": 898.92,
+            "text": " Hey, six and seven."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 898.92,
+            "end": 900.92,
+            "text": " As you can see in your computer screen."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 900.92,
+            "end": 901.92,
+            "text": " You can see."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 901.92,
+            "end": 905.92,
+            "text": " Now after this, one more parameter of this is separator."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 905.92,
+            "end": 907.92,
+            "text": " I am here scp is equal to."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 907.92,
+            "end": 909.92,
+            "text": " If I put this character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 909.92,
+            "end": 911.92,
+            "text": " And now I run it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 911.92,
+            "end": 914.92,
+            "text": " So you will see that when I put scp is equal to this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 914.92,
+            "end": 916.92,
+            "text": " So this will be separated from tilde character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 916.92,
+            "end": 918.92,
+            "text": " As you can see here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 918.92,
+            "end": 920.92,
+            "text": " After hey, one tilde came."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 920.92,
+            "end": 921.92,
+            "text": " Then after that, another tilde came."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 921.92,
+            "end": 927.92,
+            "text": " So if you want to join any three things with a given separator, you can do it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 927.92,
+            "end": 928.92,
+            "text": " Like I just did."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 928.92,
+            "end": 929.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 929.92,
+            "end": 930.92,
+            "text": " You can do this thing."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 930.92,
+            "end": 932.92,
+            "text": " After this, there is one more parameter."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 932.92,
+            "end": 933.92,
+            "text": " End is equal to."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 933.92,
+            "end": 938.92,
+            "text": " Suppose here instead of end is equal to, I write 009."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 938.92,
+            "end": 939.92,
+            "text": " What does this mean?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 939.92,
+            "end": 943.92,
+            "text": " This means that if I write another print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 943.92,
+            "end": 946.92,
+            "text": " And suppose I write print harry in it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 946.92,
+            "end": 947.92,
+            "text": " And I run it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 947.92,
+            "end": 950.92,
+            "text": " So you see that hey, six, seven will come."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 950.92,
+            "end": 955.92,
+            "text": " After that, whatever is the next print statement, 009 will come before that."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 955.92,
+            "end": 957.92,
+            "text": " Ideally, we write end is equal to."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 957.92,
+            "end": 958.92,
+            "text": " Suppose 009 backslash n."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 958.92,
+            "end": 959.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 959.92,
+            "end": 961.92,
+            "text": " By the way, we put backslash n and end is equal to."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 961.92,
+            "end": 963.92,
+            "text": " We can also put null."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 963.92,
+            "end": 965.92,
+            "text": " By default, backslash n is there."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 965.92,
+            "end": 966.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 966.92,
+            "end": 967.92,
+            "text": " We can also put end is equal to null."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 967.92,
+            "end": 968.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 968.92,
+            "end": 969.92,
+            "text": " You should also know this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 969.92,
+            "end": 972.92,
+            "text": " Now here I put 009 backslash n."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 972.92,
+            "end": 979.92,
+            "text": " So whenever I run the next print statement, 009 backslash n will be appended in this print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 979.92,
+            "end": 981.92,
+            "text": " What is the difference between sep and end?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 981.92,
+            "end": 986.92,
+            "text": " Sep means that the multiple values given in one print statement, what will be separated from that."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 986.92,
+            "end": 990.92,
+            "text": " The default separator is space."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 990.92,
+            "end": 993.92,
+            "text": " As I have written here that the default separator is space."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 993.92,
+            "end": 994.92,
+            "text": " Then what does end mean?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 994.92,
+            "end": 996.92,
+            "text": " Specify what to print at the end."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 996.92,
+            "end": 999.92,
+            "text": " When this print statement will end, then what will be printed?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 999.92,
+            "end": 1000.92,
+            "text": " You can write anything here."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1000.92,
+            "end": 1001.92,
+            "text": " It will be printed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1001.92,
+            "end": 1003.92,
+            "text": " By default, there is a new line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1003.92,
+            "end": 1004.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1004.92,
+            "end": 1009.92,
+            "text": " If you want to override this behavior that you go from one print to another print, then there should not be a new line."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1009.92,
+            "end": 1012.92,
+            "text": " As you see, I ran this print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1012.92,
+            "end": 1014.92,
+            "text": " After that, a new line was automatically printed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1014.92,
+            "end": 1015.92,
+            "text": " Then after that, a new line was also printed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1015.92,
+            "end": 1017.92,
+            "text": " After that, a new line was automatically printed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1017.92,
+            "end": 1019.92,
+            "text": " It happens if I don't put end is equal to this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1019.92,
+            "end": 1023.92,
+            "text": " But because I have put end is equal to 009 backslash n,"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1023.92,
+            "end": 1027.92,
+            "text": " that's why it will be printed after this print statement."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1027.92,
+            "end": 1029.92,
+            "text": " And sep is the separator."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1029.92,
+            "end": 1032.92,
+            "text": " That you have given multiple values in one print, so what is between them?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1032.92,
+            "end": 1033.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1033.92,
+            "end": 1034.92,
+            "text": " Great."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1034.92,
+            "end": 1035.92,
+            "text": " Now after this, there is one more argument."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1035.92,
+            "end": 1036.92,
+            "text": " File."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1036.92,
+            "end": 1038.92,
+            "text": " And you guys keep this in mind."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1038.92,
+            "end": 1044.92,
+            "text": " I wrote this because I want you to know that you can write print statements on file too."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1044.92,
+            "end": 1046.92,
+            "text": " An object with a write method."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1046.92,
+            "end": 1048.92,
+            "text": " Default is sys.stdout."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1048.92,
+            "end": 1050.92,
+            "text": " That means it will write on stdout."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1050.92,
+            "end": 1052.92,
+            "text": " Wherever you are running, it will show you on the console."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1052.92,
+            "end": 1056.92,
+            "text": " We will talk about this fourth argument later."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1056.92,
+            "end": 1059.92,
+            "text": " I will come to this in detail in the coming videos."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1059.92,
+            "end": 1061.92,
+            "text": " As we will progress in this course."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1061.92,
+            "end": 1062.92,
+            "text": " Now here I have written one more thing."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1062.92,
+            "end": 1064.92,
+            "text": " Parameters 2 and 4 are optional."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1064.92,
+            "end": 1066.92,
+            "text": " 2 and 4 parameters are optional."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1066.92,
+            "end": 1071.92,
+            "text": " That means you don't need to put separator, end and all these things."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1071.92,
+            "end": 1072.92,
+            "text": " You don't need to write file too."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1072.92,
+            "end": 1073.92,
+            "text": " Without this, your print statement is also not there."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1074.92,
+            "end": 1077.92,
+            "text": " As we have seen, we have not put separator."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1077.92,
+            "end": 1078.92,
+            "text": " Neither we have put end."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1078.92,
+            "end": 1080.92,
+            "text": " Neither we have given multiple values."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1080.92,
+            "end": 1081.92,
+            "text": " You can give single value too."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1081.92,
+            "end": 1084.92,
+            "text": " But even if you give multiple values, it will work."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1084.92,
+            "end": 1085.92,
+            "text": " Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1085.92,
+            "end": 1087.92,
+            "text": " I hope you are enjoying it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1087.92,
+            "end": 1090.92,
+            "text": " If you have not accessed this code yet, then do it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1090.92,
+            "end": 1092.92,
+            "text": " Everyone do bookmark the playlist."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1092.92,
+            "end": 1094.92,
+            "text": " All the videos are going to be added in that playlist."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1094.92,
+            "end": 1095.92,
+            "text": " Click on it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1095.92,
+            "end": 1098.92,
+            "text": " Click here and bookmark this playlist."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1098.92,
+            "end": 1100.92,
+            "text": " And click here and save it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1100.92,
+            "end": 1102.92,
+            "text": " That's all for this video guys."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1102.92,
+            "end": 1103.92,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1104.92,
+            "end": 1107.92,
+            "text": " And I will see you next time."
+        }
+    ],
+    "text": " Welcome back to 100 days of code In today's video we will see comments, escape sequence characters and print statement Whenever we do coding in Python programming language or any language Sometimes we want to leave some text in that program which is not executed Whatever we write in our program is executed by Python interpreter But sometimes we want to write some lines in our program which is not executed For example if I am writing a program Then maybe after 6 months I will forget what is happening in that program So for me it will be natural to write some lines in my program I want to add some lines which will tell future harry what program he wrote Or if I am working with my friend Shivam or with my friend Rohan Then I have to tell them what I am doing in my program How my program is working In this way I will use comments Escape sequence characters of Python Print statement we will see in this video Let's go to computer screen and let's get started So what I will do here is I am going to open my file main.py So I am going to files and I will open main.py here as always And here my main.py output is going to be That you will see So if I am writing here print hey I am a good boy So there is no doubt that I am a good boy So here print hey I am a good boy will be printed In fact in print statement in double quotes whatever you will give You will get to see here So here I got to see hey I am a good boy And here you see if I am writing here hey I am a good boy Suppose I hit enter here and write and this viewer Is also a good boy slash girl So if I will run this here So what red line I am getting to see This is a sign of danger What kind of error is this URL while scanning string literal Now I will tell you what does it mean Python is basically saying that you know what You wrote print here and you started double quotes But you hit enter here I did not like it at all I didn't like it So you will say that what should I do I want a new line of boy After that python says to you that it is fine You guys want a new line right So you guys do the use of escape sequence characters Here you have to put backslash n like this And you don't have to hit this new line Just write backslash n python will take care of it So you guys will say backslash n is fine I am a good boy wrote backslash n You will run the code as it is And you will see I am a good boy And after that this viewer is also a good boy slash girl And after that what was this What was backslash n This was an escape sequence character I will talk about this today And I will tell you what are these escape sequence characters And what are these escape sequence characters But before that I want to tell you What are the comments Suppose I am working on a codebase I am creating code with harry.com And we are making that website with a lot of noise Both of them are working on it Suppose I want to tell you That there is a new design coming up on the homepage of code with harry.com And I will bring it after two days And suppose I am going to comment That don't change this design Don't remove this line from here I want to write here Hey harry please don't remove this line Suppose I want to say this I say harry don't remove this line I am working on it For this line I want to keep this in codebase But you guys are seeing here Python Devtan is angry Nagraj is saying that what is going on Where did this invalid syntax come from I understand print I understand a lot of other syntax But this hey harry please don't remove this line I didn't like it Python says this to us So we will run this So obviously we will get to see the error in this There is no doubt and you will also know Now what is this But I still want to keep this line Please I say to python please Python says okay don't cry like a child Yes don't cry like a child I will tell you how to keep it Python says that look there is a comment inside me Comments means that you can keep any text I don't care about that You will say wow Python you are so good Python says yes I am so good What should I do Python says you put a character like this And this will become a comment What will become This will become a comment And after this if you have marked any line as comment First of all it is replating for you guys Syntax highlighting In any id you will write syntax highlighting In this case I have this comment This comment is showing in green colour And see here this syntax highlighting is going on I have written print it is showing in yellow colour After this the string literal is showing in some orange colour Then these brackets are also showing in different colour Error is showing in red colour So this is syntax highlighting Which is done by any id or any other id Hey harry please don't remove this line Now let's run it And now our program is running That means I can write some text in my program I can write some information For example I want to mark that This program's author is harry And for example I want to mark this thing That this course is 100 days of code Ok For example I want to write this thing So I can write I can write here Now I will tell you guys a secret Ok what is that secret Now that is not a secret Because I have told you You guys can select multiple lines And control or command if you are in mac Control plus forward slash As you will press this You can comment or uncomment any code base So I will show you guys comment out many lines in this way So don't ask me how I did it Because I must have done it with control plus forward slash So control plus forward slash You guys can use this Ok Any one line or multiple lines Hey what happened to Siri Siri no I am not talking to you So here I was telling you that These lines Multiple lines You can mark them as comments Or you can uncomment them too Ok Ok this is very good So here I have written the same thing That a comment is a part of coding file That the programmer does not want to execute Rather the programmer uses it to Either explain a block of code Or to avoid the execution of a specific part of code While testing Do you understand this This means That suppose I write a comment here Suppose I write code only Ok Suppose I want to write this too Print hello word Ok Now suppose I show my boss this program I say boss I wrote this program How is it looking I wrote this and this Boss says this is very good No I don't like this Let's remove the hello word I will say ok So I will select and do control forward slash And now I can remove this code Now suppose my boss's boss Says to my boss What is going on Why did you remove the hello word It was looking so good So I will remove it again I can do this again And hello word will come again Ok So this is how hello word can be done Comment or uncomment Ok So I have written the same thing here I have given you an example You don't even need to write code Copy and paste it from here Run it like this Ok As you do this Now see here You will not get to see this is a single line comment error You will get to see this is a print statement I have given one more example here You can write a comment after a line That means Suppose you have written something like this I am pasting it And I will do something like this You see I have written print And after this What can I do Actually I removed this I should have used a bracket Now see you guys As soon as I write print here And after this I write hello word And after this I can write any comment here Ok That means my code will be executed And as soon as it will get this pound symbol It will say ok I understood Whatever you have written I will execute it If you don't want to do it Then I will ignore it So Python interpreter Will ignore this printing hello word What happens if this doesn't happen Obviously error comes You guys also know What will come Syntax error will come It will be said that what is going on What is this printing hello word Print hello word was fine Python God will say But he will say What did you put in printing hello word I didn't like it Ok Which will be such a thing So you guys can see here That as soon as I will put pound symbol here And after this I will run Then it will work Ok You can see it worked Now see here What can I do That I can comment out the code I have already told you But one more thing I want to tell you That how will you write multi line comments Now I will tell you the story of multi line comments Suppose someone told me That Let's take this example I will uncomment it Suppose someone told me That uncomment these three lines I have two ways Now because I am living in modern world nowadays I have IDE I have replit I have modern IDEs So I will select and Control forward slash This shortcut is provided Through replit Through VS code Through modern IDEs Which will help you To comment or uncomment But if I can't do this Then what will I do So for my convenience I will put triple single quote And whatever I write in it I will press alt And down arrow By the way to move the line Ok So you guys learn this shortcut too And now I will tell you How to write multiple line comments So if you have multiple line comments Then you can write multiple line comments So you can write multiple line comments And then You guys learn this too Ok All the shortcuts of VS code Work in replit So you guys won't face any problem Ok And if you want to learn The shortcuts of VS code Then you guys can Search Google I have a video of VS code You can watch that too But now We will focus on Python So if I will enclose Anything in triple single quote Then it will become Multi line comment What was written before this Was not multi line comment Obviously That was also a kind of Multi line comment So I wrote that here That you can use pound symbol To put multi line comment You can put But This method Triple single quote Or triple double quote You guys can also put I will tell you this too Triple single quote Program is working But triple double quote Will also work One two three I have put triple double quote And I will do one more thing I will press shift and Ctrl X I will press Ctrl V By selecting And now I will run So After that It will work Ok Are you seeing Here it works Very good It is fun Ok Now here We can comment And uncomment Anything If I have written any line Or multiple lines I will select them And press Ctrl Or command Plus forward slash So I Can use To comment This shortcut Ok I hope You guys Understand Ok Let's talk about Escape sequence characters If you guys Have to Insert characters In a string For example Here it is written Hey I am A good boy And after that If I have to insert A character Let's say Newline character So how will I do that I will do one thing That I will comment out this So that You guys Will see The output of this print statement You guys understood Why I did this So that you guys Stay focused In this print statement Hey I am a good boy And this Viewer is also A good boy Slash girl Ok Now see here This tutorial Which I have written What have I written in this I have written To insert characters That cannot directly be Used in a string So now We will use Escape sequence character So now One thing That a character Which cannot be used In a string Can be used In an escape sequence Character For example If I enter A newline character Literally Then there will be an error Because Python will not be able To parse this If you have inserted Newline in a string Literally Then it will not be able To parse So we insert Newline character Backslash Plus n Which is a newline character It is an escape sequence character Which you can insert Any time In a string So you will get to see Newline In some way So if I run this Then Hey I am a good boy Will be done in a newline What about I Hey I am a good boy Want to enclose In double code In some way This should work What is the problem You will think like this If you think like this Then Are you seeing this redline Replit has given a sign It has set a warning Tantantantantan Ok So ID It recorded the warning There were signals It has set\u0430\u043b\u044c\u043d\u044b\u0435 you are see Next Let's see Newline I think Like this double quote means it will be ending here. Okay, it is ending here. Then what is this? This is invalid syntax for Python. Because if this double quote comes from here and makes a string, then what is this good boy after this? So here you will get to see the error. So to avoid this, we don't use double quote character. We use backslash double quote which is a double quote escape sequence character. So this is a character, this is a character. Now I will run this. So here I will see only double quote. See I am a good boy is coming in double quote. Did you see backslash here? No, you didn't. But I used backslash. Why did I do that? Because I wanted to use backslash double quote which is one character. It looks like two but it is one character. Backslash double quote which produces a single double quote in output. What happens is an escape sequence character. An escape sequence character is a backslash followed by the character you want to insert. An example of a character that cannot be directly used as a string. I have given it here. If the string in your print is made in this way in single quote, then you cannot use single quote also. Do you understand? Now we will read these things in more detail in the chapter on strings. But if I put it in single quote, I cannot put single quote. I will have to put backslash single quote. See, there is an error. I will put backslash single quote. So this single quote will come. After hey I am. A single quote came. So I can put single quote in strings like this. So this was our escape sequence character. I hope you understood. Now I want to tell you about print statement. Some other things. The first thing I want to tell you is that in print you can give multiple values. Like I can give here hey, six and seven. I can give these three values. If I run it, I will get to see all three. Hey, six and seven. As you can see in your computer screen. You can see. Now after this, one more parameter of this is separator. I am here scp is equal to. If I put this character. And now I run it. So you will see that when I put scp is equal to this. So this will be separated from tilde character. As you can see here. After hey, one tilde came. Then after that, another tilde came. So if you want to join any three things with a given separator, you can do it like this. Like I just did. Okay. You can do this thing. After this, there is one more parameter. End is equal to. Suppose here instead of end is equal to, I write 009. What does this mean? This means that if I write another print statement. And suppose I write print harry in it. And I run it. So you see that hey, six, seven will come. After that, whatever is the next print statement, 009 will come before that. Ideally, we write end is equal to. Suppose 009 backslash n. Okay. By the way, we put backslash n and end is equal to. We can also put null. By default, backslash n is there. Okay. We can also put end is equal to null. Okay. You should also know this. Now here I put 009 backslash n. So whenever I run the next print statement, 009 backslash n will be appended in this print statement. What is the difference between sep and end? Sep means that the multiple values given in one print statement, what will be separated from that. The default separator is space. As I have written here that the default separator is space. Then what does end mean? Specify what to print at the end. When this print statement will end, then what will be printed? You can write anything here. It will be printed. By default, there is a new line. Okay. If you want to override this behavior that you go from one print to another print, then there should not be a new line. As you see, I ran this print statement. After that, a new line was automatically printed. Then after that, a new line was also printed. After that, a new line was automatically printed. It happens if I don't put end is equal to this. But because I have put end is equal to 009 backslash n, that's why it will be printed after this print statement. And sep is the separator. That you have given multiple values in one print, so what is between them? Okay. Great. Now after this, there is one more argument. File. And you guys keep this in mind. I wrote this because I want you to know that you can write print statements on file too. An object with a write method. Default is sys.stdout. That means it will write on stdout. Wherever you are running, it will show you on the console. We will talk about this fourth argument later. I will come to this in detail in the coming videos. As we will progress in this course. Now here I have written one more thing. Parameters 2 and 4 are optional. 2 and 4 parameters are optional. That means you don't need to put separator, end and all these things. You don't need to write file too. Without this, your print statement is also not there. As we have seen, we have not put separator. Neither we have put end. Neither we have given multiple values. You can give single value too. But even if you give multiple values, it will work. Okay. I hope you are enjoying it. If you have not accessed this code yet, then do it. Everyone do bookmark the playlist. All the videos are going to be added in that playlist. Click on it. Click here and bookmark this playlist. And click here and save it. That's all for this video guys. Thank you so much guys for watching this video. And I will see you next time."
+}

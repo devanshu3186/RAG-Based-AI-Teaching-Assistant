@@ -1,0 +1,2686 @@
+{
+    "chunks": [
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 0.0,
+            "end": 4.5,
+            "text": " I am feeling very good to see your enthusiasm in 100 days of code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 4.5,
+            "end": 7.5,
+            "text": " and in today's video I will give shoutout to all of you"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 7.5,
+            "end": 10.5,
+            "text": " who have solved our exercise 1"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 10.5,
+            "end": 12.0,
+            "text": " and then I will tell you the solution"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 12.0,
+            "end": 15.0,
+            "text": " let's go to the computer screen and let's get started"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 24.5,
+            "end": 26.5,
+            "text": " so I have come inside my computer screen"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 26.5,
+            "end": 31.5,
+            "text": " and as you can see I am going to open the solution wrapper"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 31.5,
+            "end": 32.5,
+            "text": " which I have made"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 32.5,
+            "end": 34.5,
+            "text": " so I have come here in my wrapper"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 34.5,
+            "end": 35.5,
+            "text": " 0 to hero"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 35.5,
+            "end": 36.5,
+            "text": " this is day 8"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 36.5,
+            "end": 38.5,
+            "text": " we will see the solution here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 38.5,
+            "end": 41.5,
+            "text": " but along with the solution we are going to see"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 41.5,
+            "end": 45.5,
+            "text": " what all did we do in day 7"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 45.5,
+            "end": 50.5,
+            "text": " and in day 7 where is my day 7 wrapper"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 50.5,
+            "end": 52.5,
+            "text": " I will open the wrapper"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 52.5,
+            "end": 54.5,
+            "text": " and I am going to give shoutout to all of you"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 54.5,
+            "end": 56.5,
+            "text": " first of all to the one who has"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 56.5,
+            "end": 58.5,
+            "text": " posted the comment"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 58.5,
+            "end": 60.5,
+            "text": " and most importantly"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 60.5,
+            "end": 62.5,
+            "text": " who has posted the solution in the comment"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 62.5,
+            "end": 64.5,
+            "text": " so I will click on the cover page"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 64.5,
+            "end": 67.5,
+            "text": " and see all of them are posting so fast"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 67.5,
+            "end": 69.5,
+            "text": " we need a tempo like this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 69.5,
+            "end": 71.5,
+            "text": " we will make a blast in 100 days of code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 71.5,
+            "end": 73.5,
+            "text": " 20 seconds, 23 seconds"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 73.5,
+            "end": 79.5,
+            "text": " I want that we make a blast in this 100 days of code series"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 79.5,
+            "end": 81.5,
+            "text": " that we will make a blast"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 81.5,
+            "end": 82.5,
+            "text": " so you see here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 82.5,
+            "end": 85.5,
+            "text": " what we had discussed that we have to make a calculator"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 85.5,
+            "end": 86.5,
+            "text": " yes I know"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 86.5,
+            "end": 88.5,
+            "text": " I had told you some things"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 88.5,
+            "end": 89.5,
+            "text": " like what is data type"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 89.5,
+            "end": 91.5,
+            "text": " we had discussed all these things"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 91.5,
+            "end": 94.5,
+            "text": " but this exercise was very simple"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 94.5,
+            "end": 95.5,
+            "text": " and I got comments"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 95.5,
+            "end": 97.5,
+            "text": " and I had said in the video last time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 97.5,
+            "end": 98.5,
+            "text": " that comments will come"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 98.5,
+            "end": 101.5,
+            "text": " that why are you making such an easy thing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 101.5,
+            "end": 104.5,
+            "text": " some people are starting programming here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 104.5,
+            "end": 106.5,
+            "text": " you give me 5 to 6 days time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 106.5,
+            "end": 108.5,
+            "text": " and then see where will I take the level"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 108.5,
+            "end": 110.5,
+            "text": " and I will ensure that everyone understands"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 110.5,
+            "end": 112.5,
+            "text": " whatever I am teaching here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 112.5,
+            "end": 113.5,
+            "text": " now what we have to do here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 113.5,
+            "end": 115.5,
+            "text": " addition, subtraction, multiplication and division"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 115.5,
+            "end": 117.5,
+            "text": " I have not said module and I have not said floor division"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 117.5,
+            "end": 119.5,
+            "text": " you can add if you want"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 119.5,
+            "end": 121.5,
+            "text": " but here what I am doing is"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 121.5,
+            "end": 122.5,
+            "text": " I will say a is equal to 56"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 122.5,
+            "end": 124.5,
+            "text": " and b is equal to 7"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 124.5,
+            "end": 126.5,
+            "text": " or 3"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 126.5,
+            "end": 128.5,
+            "text": " and see what I am going to do here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 128.5,
+            "end": 129.5,
+            "text": " I will make it a little easy"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 129.5,
+            "end": 131.5,
+            "text": " so that I can verify my calculation"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 131.5,
+            "end": 134.5,
+            "text": " the value of"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 134.5,
+            "end": 137.5,
+            "text": " and I will write 50"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 137.5,
+            "end": 140.5,
+            "text": " so I will write 50 with a comma"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 140.5,
+            "end": 141.5,
+            "text": " or I will write a"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 141.5,
+            "end": 143.5,
+            "text": " and then after that I will write"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 143.5,
+            "end": 144.5,
+            "text": " plus"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 144.5,
+            "end": 146.5,
+            "text": " after that I will write"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 146.5,
+            "end": 148.5,
+            "text": " the value of b"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 148.5,
+            "end": 150.5,
+            "text": " 3 is"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 150.5,
+            "end": 152.5,
+            "text": " after that I will write plus"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 152.5,
+            "end": 154.5,
+            "text": " basically I am adding this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 154.5,
+            "end": 156.5,
+            "text": " I will do one thing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 156.5,
+            "end": 157.5,
+            "text": " I will add comma not add"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 157.5,
+            "end": 158.5,
+            "text": " by doing this it will happen that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 158.5,
+            "end": 160.5,
+            "text": " the value of which is a string"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 160.5,
+            "end": 161.5,
+            "text": " this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 161.5,
+            "end": 162.5,
+            "text": " after that this is a string"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 162.5,
+            "end": 163.5,
+            "text": " then this is a number"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 163.5,
+            "end": 164.5,
+            "text": " it will print"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 164.5,
+            "end": 166.5,
+            "text": " then I will add comma"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 166.5,
+            "end": 167.5,
+            "text": " then another string will print"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 167.5,
+            "end": 169.5,
+            "text": " by giving space is"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 169.5,
+            "end": 171.5,
+            "text": " and here I will add comma and print"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 171.5,
+            "end": 172.5,
+            "text": " a plus b"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 172.5,
+            "end": 174.5,
+            "text": " and now you see"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 174.5,
+            "end": 175.5,
+            "text": " as soon as I will run it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 175.5,
+            "end": 176.5,
+            "text": " its output will come here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 176.5,
+            "end": 177.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 177.5,
+            "end": 179.5,
+            "text": " so I can do the same work"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 179.5,
+            "end": 180.5,
+            "text": " which I have done here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 180.5,
+            "end": 181.5,
+            "text": " a plus b"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 181.5,
+            "end": 183.5,
+            "text": " I can do the same work"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 183.5,
+            "end": 184.5,
+            "text": " with all operations"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 184.5,
+            "end": 186.5,
+            "text": " now see I don't need to add this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 186.5,
+            "end": 187.5,
+            "text": " there is no need to give space"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 187.5,
+            "end": 188.5,
+            "text": " automatically a space comes"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 188.5,
+            "end": 190.5,
+            "text": " we add comma when we are in print"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 190.5,
+            "end": 191.5,
+            "text": " so this which is going to print"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 191.5,
+            "end": 192.5,
+            "text": " and this which is going to print"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 192.5,
+            "end": 193.5,
+            "text": " a space comes in between"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 193.5,
+            "end": 194.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 194.5,
+            "end": 195.5,
+            "text": " now what I have to do simply"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 195.5,
+            "end": 196.5,
+            "text": " that I have to replicate this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 196.5,
+            "end": 198.5,
+            "text": " alt plus shift plus down arrow"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 198.5,
+            "end": 200.5,
+            "text": " is the short cut of vs code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 200.5,
+            "end": 202.5,
+            "text": " line is replicated"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 202.5,
+            "end": 203.5,
+            "text": " not line"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 203.5,
+            "end": 206.5,
+            "text": " alt plus shift plus down arrow"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 206.5,
+            "end": 207.5,
+            "text": " I am not doing any magic"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 207.5,
+            "end": 208.5,
+            "text": " I am not doing any magic"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 208.5,
+            "end": 209.5,
+            "text": " and whatever magic I am doing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 209.5,
+            "end": 210.5,
+            "text": " you can do that too"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 210.5,
+            "end": 211.5,
+            "text": " its a simple thing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 211.5,
+            "end": 212.5,
+            "text": " not only in this series"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 212.5,
+            "end": 213.5,
+            "text": " but in life"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 213.5,
+            "end": 214.5,
+            "text": " whatever I am doing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 214.5,
+            "end": 215.5,
+            "text": " you can do that too"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 215.5,
+            "end": 216.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 216.5,
+            "end": 217.5,
+            "text": " and if anyone is doing that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 217.5,
+            "end": 218.5,
+            "text": " you can do that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 218.5,
+            "end": 219.5,
+            "text": " if anyone will tell you"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 219.5,
+            "end": 220.5,
+            "text": " you can't do that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 220.5,
+            "end": 221.5,
+            "text": " then he is lying to you"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 221.5,
+            "end": 222.5,
+            "text": " you can do it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 222.5,
+            "end": 223.5,
+            "text": " you can do it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 223.5,
+            "end": 224.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 224.5,
+            "end": 225.5,
+            "text": " so here what I will do"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 225.5,
+            "end": 227.5,
+            "text": " value of a divided by 3 is"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 227.5,
+            "end": 230.5,
+            "text": " this a by b value will come"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 230.5,
+            "end": 231.5,
+            "text": " now see here it has come"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 231.5,
+            "end": 232.5,
+            "text": " 50 plus 3"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 232.5,
+            "end": 234.5,
+            "text": " now I don't know what I had to do"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 234.5,
+            "end": 236.5,
+            "text": " I am pressing alt shift here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 236.5,
+            "end": 239.5,
+            "text": " I am pressing alt and clicking ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 239.5,
+            "end": 241.5,
+            "text": " I am pressing alt and clicking"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 241.5,
+            "end": 243.5,
+            "text": " something like this ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 243.5,
+            "end": 245.5,
+            "text": " I will press alt and click"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 245.5,
+            "end": 247.5,
+            "text": " there I will get multiple cursor"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 247.5,
+            "end": 248.5,
+            "text": " and I can edit in all of them"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 248.5,
+            "end": 250.5,
+            "text": " you can see how amazing this thing is"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 250.5,
+            "end": 251.5,
+            "text": " this is also a short cut of vs code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 251.5,
+            "end": 253.5,
+            "text": " and you should know it ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 253.5,
+            "end": 254.5,
+            "text": " so here you can see"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 254.5,
+            "end": 255.5,
+            "text": " all the short cuts of vs code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 255.5,
+            "end": 256.5,
+            "text": " are available in replate"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 256.5,
+            "end": 257.5,
+            "text": " I am using replate"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 257.5,
+            "end": 259.5,
+            "text": " so that things become easy"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 259.5,
+            "end": 261.5,
+            "text": " now see here value of 50 plus 3"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 261.5,
+            "end": 262.5,
+            "text": " 50 minus 3"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 262.5,
+            "end": 263.5,
+            "text": " 50 multiply by 3"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 263.5,
+            "end": 264.5,
+            "text": " then 50 divided by 3"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 264.5,
+            "end": 265.5,
+            "text": " value has come here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 265.5,
+            "end": 266.5,
+            "text": " and that's about it"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 266.5,
+            "end": 267.5,
+            "text": " this is the solution to"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 267.5,
+            "end": 268.5,
+            "text": " our first exercise number 1"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 268.5,
+            "end": 269.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 269.5,
+            "end": 270.5,
+            "text": " now I will come to"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 270.5,
+            "end": 271.5,
+            "text": " exercise number 1 in apple"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 271.5,
+            "end": 272.5,
+            "text": " one reload is needed"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 272.5,
+            "end": 273.5,
+            "text": " brother"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 273.5,
+            "end": 274.5,
+            "text": " let me see who is giving solution"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 274.5,
+            "end": 275.5,
+            "text": " now"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 275.5,
+            "end": 276.5,
+            "text": " solution has been given 4 seconds ago"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 276.5,
+            "end": 277.5,
+            "text": " by Taha Pasha"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 277.5,
+            "end": 278.5,
+            "text": " Ashitosh Zolte has given 4 seconds ago"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 278.5,
+            "end": 279.5,
+            "text": " I hope I pronounced your name right"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 279.5,
+            "end": 280.5,
+            "text": " if I pronounce someone's name wrong"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 280.5,
+            "end": 281.5,
+            "text": " then automatically"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 281.5,
+            "end": 282.5,
+            "text": " forgive me"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 282.5,
+            "end": 283.5,
+            "text": " I am saying this throughout the course"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 283.5,
+            "end": 284.5,
+            "text": " this is a very important thing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 284.5,
+            "end": 285.5,
+            "text": " that you should know"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 285.5,
+            "end": 286.5,
+            "text": " that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 286.5,
+            "end": 287.5,
+            "text": " if you are using a lot of"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 287.5,
+            "end": 288.5,
+            "text": " time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 288.5,
+            "end": 289.5,
+            "text": " then you should know"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 289.5,
+            "end": 290.5,
+            "text": " that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 290.5,
+            "end": 291.5,
+            "text": " you should know"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 291.5,
+            "end": 292.5,
+            "text": " that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 292.5,
+            "end": 293.5,
+            "text": " when you get a comment"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 293.5,
+            "end": 294.5,
+            "text": " that my name is pronounced wrong"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 294.5,
+            "end": 295.5,
+            "text": " oh love you"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 295.5,
+            "end": 296.5,
+            "text": " love you too bro"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 296.5,
+            "end": 297.5,
+            "text": " love you too"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 297.5,
+            "end": 298.5,
+            "text": " now what am I going to do here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 298.5,
+            "end": 299.5,
+            "text": " I am going to load more comments"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 299.5,
+            "end": 300.5,
+            "text": " I know I can't reach the bottom"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 300.5,
+            "end": 301.5,
+            "text": " but it will be unfair"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 301.5,
+            "end": 302.5,
+            "text": " if I don't reach the bottom"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 302.5,
+            "end": 303.5,
+            "text": " so I am loading more comments here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 303.5,
+            "end": 304.5,
+            "text": " what is going on"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 304.5,
+            "end": 305.5,
+            "text": " brother"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 305.5,
+            "end": 306.5,
+            "text": " what have I opened"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 306.5,
+            "end": 307.5,
+            "text": " I have opened someone's profile"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 307.5,
+            "end": 308.5,
+            "text": " so I am going to do one thing"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 308.5,
+            "end": 309.5,
+            "text": " I am going to take my time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 309.5,
+            "end": 310.5,
+            "text": " and by taking my time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 310.5,
+            "end": 311.5,
+            "text": " oops"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 311.5,
+            "end": 312.5,
+            "text": " I will scroll it all down"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 312.5,
+            "end": 313.5,
+            "text": " give me some time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 313.5,
+            "end": 314.5,
+            "text": " so I have scrolled"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 314.5,
+            "end": 315.5,
+            "text": " I took a little time"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 315.5,
+            "end": 316.5,
+            "text": " now look here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 316.5,
+            "end": 317.5,
+            "text": " I have got"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 317.5,
+            "end": 318.5,
+            "text": " I have got"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 318.5,
+            "end": 319.5,
+            "text": " I have got"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 319.5,
+            "end": 320.5,
+            "text": " I have got"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 320.5,
+            "end": 321.5,
+            "text": " now look here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 321.5,
+            "end": 322.5,
+            "text": " these are some rappels"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 322.5,
+            "end": 323.5,
+            "text": " which I am going to see"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 323.5,
+            "end": 324.5,
+            "text": " I am opening these rappels"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 324.5,
+            "end": 325.5,
+            "text": " brother"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 325.5,
+            "end": 326.5,
+            "text": " the link was not working"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 326.5,
+            "end": 328.5,
+            "text": " I have uploaded this on day 6 too"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 328.5,
+            "end": 330.5,
+            "text": " the link was not working"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 330.5,
+            "end": 331.5,
+            "text": " I think the link will work"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 331.5,
+            "end": 332.5,
+            "text": " you click once"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 332.5,
+            "end": 333.5,
+            "text": " the link will work"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 333.5,
+            "end": 334.5,
+            "text": " now here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 334.5,
+            "end": 336.5,
+            "text": " calculator"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 336.5,
+            "end": 338.5,
+            "text": " give shoutout to all of them"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 338.5,
+            "end": 339.5,
+            "text": " give shoutout to all of them"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 339.5,
+            "end": 340.5,
+            "text": " give shoutout to all of them"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 340.5,
+            "end": 341.5,
+            "text": " with full high tempo"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 341.5,
+            "end": 342.5,
+            "text": " by the way"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 342.5,
+            "end": 343.5,
+            "text": " in case"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 343.5,
+            "end": 344.5,
+            "text": " you are in hurry"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 344.5,
+            "end": 346.5,
+            "text": " and you want to move to the next topic"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 346.5,
+            "end": 347.5,
+            "text": " you can leave this video"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 347.5,
+            "end": 348.5,
+            "text": " because"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 348.5,
+            "end": 349.5,
+            "text": " there will be shoutout here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 349.5,
+            "end": 350.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 350.5,
+            "end": 351.5,
+            "text": " so I will give shoutout"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 351.5,
+            "end": 352.5,
+            "text": " Kunal Panchal"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 352.5,
+            "end": 353.5,
+            "text": " try to do this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 353.5,
+            "end": 354.5,
+            "text": " that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 354.5,
+            "end": 355.5,
+            "text": " as soon as you click on run"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 355.5,
+            "end": 356.5,
+            "text": " your rappel will be run"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 356.5,
+            "end": 357.5,
+            "text": " see here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 357.5,
+            "end": 358.5,
+            "text": " I can see files"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 358.5,
+            "end": 359.5,
+            "text": " but your rappel is not running"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 359.5,
+            "end": 360.5,
+            "text": " so ensure that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 360.5,
+            "end": 361.5,
+            "text": " your rappel"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 361.5,
+            "end": 362.5,
+            "text": " will be run by clicking on run button"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 362.5,
+            "end": 363.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 363.5,
+            "end": 364.5,
+            "text": " and"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 364.5,
+            "end": 365.5,
+            "text": " well"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 365.5,
+            "end": 366.5,
+            "text": " you did it really quick"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 366.5,
+            "end": 367.5,
+            "text": " yes"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 367.5,
+            "end": 368.5,
+            "text": " you did it really quick"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 368.5,
+            "end": 369.5,
+            "text": " Kunal Panchal"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 369.5,
+            "end": 370.5,
+            "text": " but let me see your code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 370.5,
+            "end": 371.5,
+            "text": " let me see your code"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 371.5,
+            "end": 372.5,
+            "text": " so here"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 372.5,
+            "end": 373.5,
+            "text": " your file is running"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 373.5,
+            "end": 374.5,
+            "text": " 6"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 374.5,
+            "end": 375.5,
+            "text": " then after this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 375.5,
+            "end": 376.5,
+            "text": " 9"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 376.5,
+            "end": 377.5,
+            "text": " now see"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 377.5,
+            "end": 378.5,
+            "text": " don't use all these"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 378.5,
+            "end": 379.5,
+            "text": " you have used these files"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 379.5,
+            "end": 380.5,
+            "text": " now"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 380.5,
+            "end": 381.5,
+            "text": " you are using this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 381.5,
+            "end": 382.5,
+            "text": " in the last video"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 382.5,
+            "end": 383.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 383.5,
+            "end": 384.5,
+            "text": " you can use this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 384.5,
+            "end": 385.5,
+            "text": " but"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 385.5,
+            "end": 386.5,
+            "text": " you have to use this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 386.5,
+            "end": 387.5,
+            "text": " in the next video"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 387.5,
+            "end": 388.5,
+            "text": " otherwise"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 388.5,
+            "end": 389.5,
+            "text": " you will be running"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 389.5,
+            "end": 390.5,
+            "text": " so fast"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 390.5,
+            "end": 391.5,
+            "text": " too much"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 391.5,
+            "end": 392.5,
+            "text": " you have to use this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 392.5,
+            "end": 393.5,
+            "text": " in the next video"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 393.5,
+            "end": 394.5,
+            "text": " but"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 394.5,
+            "end": 395.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 395.5,
+            "end": 396.5,
+            "text": " so"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 396.5,
+            "end": 397.5,
+            "text": " in the next video"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 397.5,
+            "end": 398.5,
+            "text": " I will be using"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 398.5,
+            "end": 399.5,
+            "text": " this"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 399.5,
+            "end": 400.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 400.5,
+            "end": 401.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 401.5,
+            "end": 402.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 402.5,
+            "end": 403.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 403.5,
+            "end": 404.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 404.5,
+            "end": 405.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 405.5,
+            "end": 406.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 406.5,
+            "end": 407.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 407.5,
+            "end": 408.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 408.5,
+            "end": 409.5,
+            "text": " ok"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 409.5,
+            "end": 411.5,
+            "text": " You have to use the knowledge."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 411.5,
+            "end": 413.5,
+            "text": " You can use FLS, match case,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 413.5,
+            "end": 415.5,
+            "text": " then you can use artificial intelligence,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 415.5,
+            "end": 417.5,
+            "text": " use anything, everyone knows it."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 417.5,
+            "end": 419.5,
+            "text": " But you have to run your rebel."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 419.5,
+            "end": 421.5,
+            "text": " Oh, what happened?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 421.5,
+            "end": 423.5,
+            "text": " Actually, I had to choose the number from above."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 423.5,
+            "end": 425.5,
+            "text": " So, I"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 425.5,
+            "end": 427.5,
+            "text": " choose 43."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 427.5,
+            "end": 429.5,
+            "text": " Actually, I gave invalid input."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 429.5,
+            "end": 431.5,
+            "text": " You have handled the error too. Very good."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 431.5,
+            "end": 433.5,
+            "text": " I will write 4, then 5,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 433.5,
+            "end": 435.5,
+            "text": " then 1, then 9."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 435.5,
+            "end": 437.5,
+            "text": " Very good."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 437.5,
+            "end": 439.5,
+            "text": " Now, after this,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 439.5,
+            "end": 441.5,
+            "text": " we will get another shoutout to Suryansh Kumar."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 441.5,
+            "end": 443.5,
+            "text": " Suryansh Kumar has made this rebel."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 443.5,
+            "end": 445.5,
+            "text": " And he has also got 3 comments."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 445.5,
+            "end": 447.5,
+            "text": " Suryansh Kumar, big thumbs up to you, man."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 447.5,
+            "end": 449.5,
+            "text": " You tried out on time."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 449.5,
+            "end": 451.5,
+            "text": " But are you disqualified?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 451.5,
+            "end": 453.5,
+            "text": " Oh, I gave the wrong operation."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 453.5,
+            "end": 455.5,
+            "text": " Let me see how the rebel behaves on the wrong operation."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 457.5,
+            "end": 459.5,
+            "text": " Okay, now I don't have to do error handling too much."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 459.5,
+            "end": 461.5,
+            "text": " So, there is no tension."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 461.5,
+            "end": 463.5,
+            "text": " First number is 4, second number is"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 463.5,
+            "end": 465.5,
+            "text": " 65. Oops!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 465.5,
+            "end": 467.5,
+            "text": " I am making mistakes every time."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 467.5,
+            "end": 469.5,
+            "text": " I am putting second number instead of operation."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 469.5,
+            "end": 471.5,
+            "text": " So, your user interface"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 471.5,
+            "end": 473.5,
+            "text": " should not be confusing."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 473.5,
+            "end": 475.5,
+            "text": " See, the user will make mistake and blame you."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 475.5,
+            "end": 477.5,
+            "text": " Okay?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 477.5,
+            "end": 479.5,
+            "text": " So, remember this."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 479.5,
+            "end": 481.5,
+            "text": " Plus and 3."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 481.5,
+            "end": 483.5,
+            "text": " Great! Big shoutout to Suryansh Kumar."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 483.5,
+            "end": 485.5,
+            "text": " After this, we would like to give shoutout to"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 485.5,
+            "end": 487.5,
+            "text": " Kirtan,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 487.5,
+            "end": 489.5,
+            "text": " Tushar Gameplex,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 489.5,
+            "end": 491.5,
+            "text": " Sobin Banerjee,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 491.5,
+            "end": 493.5,
+            "text": " Omish Goyal for trying this out."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 493.5,
+            "end": 495.5,
+            "text": " After this, Nirmat Mishra."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 495.5,
+            "end": 497.5,
+            "text": " Then, 21BEX."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 497.5,
+            "end": 499.5,
+            "text": " IT30010OM"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 499.5,
+            "end": 501.5,
+            "text": " for a big shoutout."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 501.5,
+            "end": 503.5,
+            "text": " Is this your name?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 503.5,
+            "end": 505.5,
+            "text": " Tell me in the comments below."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 505.5,
+            "end": 507.5,
+            "text": " Oh my god! Piyush Goyal!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 507.5,
+            "end": 509.5,
+            "text": " What did you show us?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 509.5,
+            "end": 511.5,
+            "text": " You have put such a great and dangerous"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 511.5,
+            "end": 513.5,
+            "text": " image in the rappel."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 513.5,
+            "end": 515.5,
+            "text": " Piyush Goyal!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 515.5,
+            "end": 517.5,
+            "text": " Very good Piyush Goyal."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 517.5,
+            "end": 519.5,
+            "text": " First number is 4, second number is 1."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 519.5,
+            "end": 521.5,
+            "text": " Amazing man! Applause! Applause!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 521.5,
+            "end": 523.5,
+            "text": " Amazing!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 523.5,
+            "end": 525.5,
+            "text": " Big shoutout to Piyush Goyal for attempting this rappel."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 525.5,
+            "end": 527.5,
+            "text": " Okay? Day 7. Calculate."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 527.5,
+            "end": 529.5,
+            "text": " Great! Great!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 529.5,
+            "end": 531.5,
+            "text": " I am running."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 531.5,
+            "end": 533.5,
+            "text": " I am running."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 533.5,
+            "end": 535.5,
+            "text": " I am looking at the code."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 535.5,
+            "end": 537.5,
+            "text": " You have written a great code but why did you use input?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 537.5,
+            "end": 539.5,
+            "text": " Why did you use input?"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 539.5,
+            "end": 541.5,
+            "text": " When we didn't study, you could have used"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 541.5,
+            "end": 543.5,
+            "text": " hardcode too. But, no problem."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 543.5,
+            "end": 545.5,
+            "text": " It was necessary to use input."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 545.5,
+            "end": 547.5,
+            "text": " Okay? Great! Great!"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 547.5,
+            "end": 549.5,
+            "text": " Okay? Big shoutout to Candy Instead."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 549.5,
+            "end": 551.5,
+            "text": " After this, Priyanka Garg"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 551.5,
+            "end": 553.5,
+            "text": " for a big shoutout."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 553.5,
+            "end": 555.5,
+            "text": " And in the upcoming videos,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 555.5,
+            "end": 557.5,
+            "text": " you will see many more things."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 557.5,
+            "end": 559.5,
+            "text": " And the upcoming exercises won't be that easy."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 559.5,
+            "end": 561.5,
+            "text": " Let me tell you. Some people were telling me that"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 561.5,
+            "end": 563.5,
+            "text": " your exercises are very easy."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 563.5,
+            "end": 565.5,
+            "text": " So, my friends, wait."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 565.5,
+            "end": 567.5,
+            "text": " Have patience."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 567.5,
+            "end": 569.5,
+            "text": " The fruit of patience"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 569.5,
+            "end": 571.5,
+            "text": " is strawberry flavour."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 571.5,
+            "end": 573.5,
+            "text": " So, have patience and in the upcoming videos,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 573.5,
+            "end": 575.5,
+            "text": " we will increase the level."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 575.5,
+            "end": 577.5,
+            "text": " And if you are watching this on day 70"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 577.5,
+            "end": 579.5,
+            "text": " or day 80,"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 579.5,
+            "end": 581.5,
+            "text": " then there will be a different level going on there."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 581.5,
+            "end": 583.5,
+            "text": " I hope that you are enjoying this course."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 583.5,
+            "end": 585.5,
+            "text": " I will meet you on day 9."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 585.5,
+            "end": 587.5,
+            "text": " I will put the date of 7th"
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 587.5,
+            "end": 589.5,
+            "text": " and 8th rappel in the description."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 589.5,
+            "end": 591.5,
+            "text": " You will get all the rappels."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 591.5,
+            "end": 593.5,
+            "text": " Keep practicing like this."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 593.5,
+            "end": 595.5,
+            "text": " Keep coming daily in 100 days of code."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 595.5,
+            "end": 597.5,
+            "text": " And we will make a big difference."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 597.5,
+            "end": 599.5,
+            "text": " That's all for now in this video."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 599.5,
+            "end": 601.5,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 601.5,
+            "end": 603.5,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "8",
+            "title": "Exercise 1_ Calculator using Python (Solution)",
+            "start": 615.5,
+            "end": 617.5,
+            "text": " Bye."
+        }
+    ],
+    "text": " I am feeling very good to see your enthusiasm in 100 days of code and in today's video I will give shoutout to all of you who have solved our exercise 1 and then I will tell you the solution let's go to the computer screen and let's get started so I have come inside my computer screen and as you can see I am going to open the solution wrapper which I have made so I have come here in my wrapper 0 to hero this is day 8 we will see the solution here but along with the solution we are going to see what all did we do in day 7 and in day 7 where is my day 7 wrapper I will open the wrapper and I am going to give shoutout to all of you first of all to the one who has posted the comment and most importantly who has posted the solution in the comment so I will click on the cover page and see all of them are posting so fast we need a tempo like this we will make a blast in 100 days of code 20 seconds, 23 seconds I want that we make a blast in this 100 days of code series that we will make a blast so you see here what we had discussed that we have to make a calculator yes I know I had told you some things like what is data type we had discussed all these things but this exercise was very simple and I got comments and I had said in the video last time that comments will come that why are you making such an easy thing some people are starting programming here you give me 5 to 6 days time and then see where will I take the level and I will ensure that everyone understands whatever I am teaching here now what we have to do here addition, subtraction, multiplication and division I have not said module and I have not said floor division you can add if you want but here what I am doing is I will say a is equal to 56 and b is equal to 7 or 3 and see what I am going to do here I will make it a little easy so that I can verify my calculation the value of and I will write 50 so I will write 50 with a comma or I will write a and then after that I will write plus after that I will write the value of b 3 is after that I will write plus basically I am adding this I will do one thing I will add comma not add by doing this it will happen that the value of which is a string this after that this is a string then this is a number it will print then I will add comma then another string will print by giving space is and here I will add comma and print a plus b and now you see as soon as I will run it its output will come here ok so I can do the same work which I have done here a plus b I can do the same work with all operations now see I don't need to add this there is no need to give space automatically a space comes we add comma when we are in print so this which is going to print and this which is going to print a space comes in between ok now what I have to do simply that I have to replicate this alt plus shift plus down arrow is the short cut of vs code line is replicated not line alt plus shift plus down arrow I am not doing any magic I am not doing any magic and whatever magic I am doing you can do that too its a simple thing not only in this series but in life whatever I am doing you can do that too ok and if anyone is doing that you can do that if anyone will tell you you can't do that then he is lying to you you can do it you can do it ok so here what I will do value of a divided by 3 is this a by b value will come now see here it has come 50 plus 3 now I don't know what I had to do I am pressing alt shift here I am pressing alt and clicking ok I am pressing alt and clicking something like this ok I will press alt and click there I will get multiple cursor and I can edit in all of them you can see how amazing this thing is this is also a short cut of vs code and you should know it ok so here you can see all the short cuts of vs code are available in replate I am using replate so that things become easy now see here value of 50 plus 3 50 minus 3 50 multiply by 3 then 50 divided by 3 value has come here and that's about it this is the solution to our first exercise number 1 ok now I will come to exercise number 1 in apple one reload is needed brother let me see who is giving solution now solution has been given 4 seconds ago by Taha Pasha Ashitosh Zolte has given 4 seconds ago I hope I pronounced your name right if I pronounce someone's name wrong then automatically forgive me I am saying this throughout the course this is a very important thing that you should know that if you are using a lot of time then you should know that you should know that when you get a comment that my name is pronounced wrong oh love you love you too bro love you too now what am I going to do here I am going to load more comments I know I can't reach the bottom but it will be unfair if I don't reach the bottom so I am loading more comments here what is going on brother what have I opened I have opened someone's profile so I am going to do one thing I am going to take my time and by taking my time oops I will scroll it all down give me some time so I have scrolled I took a little time now look here I have got I have got I have got I have got now look here these are some rappels which I am going to see I am opening these rappels brother the link was not working I have uploaded this on day 6 too the link was not working I think the link will work you click once the link will work now here calculator give shoutout to all of them give shoutout to all of them give shoutout to all of them with full high tempo by the way in case you are in hurry and you want to move to the next topic you can leave this video because there will be shoutout here ok so I will give shoutout Kunal Panchal try to do this that as soon as you click on run your rappel will be run see here I can see files but your rappel is not running so ensure that your rappel will be run by clicking on run button ok and well you did it really quick yes you did it really quick Kunal Panchal but let me see your code let me see your code so here your file is running 6 then after this 9 now see don't use all these you have used these files now you are using this in the last video ok you can use this but you have to use this in the next video otherwise you will be running so fast too much you have to use this in the next video but ok so in the next video I will be using this ok ok ok ok ok ok ok ok ok ok You have to use the knowledge. You can use FLS, match case, then you can use artificial intelligence, use anything, everyone knows it. But you have to run your rebel. Oh, what happened? Actually, I had to choose the number from above. So, I choose 43. Actually, I gave invalid input. You have handled the error too. Very good. I will write 4, then 5, then 1, then 9. Very good. Now, after this, we will get another shoutout to Suryansh Kumar. Suryansh Kumar has made this rebel. And he has also got 3 comments. Suryansh Kumar, big thumbs up to you, man. You tried out on time. But are you disqualified? Oh, I gave the wrong operation. Let me see how the rebel behaves on the wrong operation. Okay, now I don't have to do error handling too much. So, there is no tension. First number is 4, second number is 65. Oops! I am making mistakes every time. I am putting second number instead of operation. So, your user interface should not be confusing. See, the user will make mistake and blame you. Okay? So, remember this. Plus and 3. Great! Big shoutout to Suryansh Kumar. After this, we would like to give shoutout to Kirtan, Tushar Gameplex, Sobin Banerjee, Omish Goyal for trying this out. After this, Nirmat Mishra. Then, 21BEX. IT30010OM for a big shoutout. Is this your name? Tell me in the comments below. Oh my god! Piyush Goyal! What did you show us? You have put such a great and dangerous image in the rappel. Piyush Goyal! Very good Piyush Goyal. First number is 4, second number is 1. Amazing man! Applause! Applause! Amazing! Big shoutout to Piyush Goyal for attempting this rappel. Okay? Day 7. Calculate. Great! Great! I am running. I am running. I am looking at the code. You have written a great code but why did you use input? Why did you use input? When we didn't study, you could have used hardcode too. But, no problem. It was necessary to use input. Okay? Great! Great! Okay? Big shoutout to Candy Instead. After this, Priyanka Garg for a big shoutout. And in the upcoming videos, you will see many more things. And the upcoming exercises won't be that easy. Let me tell you. Some people were telling me that your exercises are very easy. So, my friends, wait. Have patience. The fruit of patience is strawberry flavour. So, have patience and in the upcoming videos, we will increase the level. And if you are watching this on day 70 or day 80, then there will be a different level going on there. I hope that you are enjoying this course. I will meet you on day 9. I will put the date of 7th and 8th rappel in the description. You will get all the rappels. Keep practicing like this. Keep coming daily in 100 days of code. And we will make a big difference. That's all for now in this video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

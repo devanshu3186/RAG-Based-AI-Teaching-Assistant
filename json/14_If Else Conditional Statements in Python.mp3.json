@@ -1,0 +1,4100 @@
+{
+    "chunks": [
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 0.0,
+            "end": 2.64,
+            "text": " Do you remember when it used to rain in our childhood, we didn't go to school."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 2.66,
+            "end": 5.58,
+            "text": " We used to say that if it rains, I won't go to school."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 5.6000000000000005,
+            "end": 7.76,
+            "text": " And if it doesn't rain, we'll go to school."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 7.78,
+            "end": 9.4,
+            "text": " In such a situation, we used to do decision making."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 9.42,
+            "end": 11.66,
+            "text": " We make a lot of decisions in our life."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 11.68,
+            "end": 15.18,
+            "text": " For example, if I'm tired, I won't go out."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 15.200000000000001,
+            "end": 18.32,
+            "text": " And if I'm not tired, I'll go out."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 18.34,
+            "end": 19.94,
+            "text": " So this kind of decision making keeps going on."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 19.96,
+            "end": 21.38,
+            "text": " If you're hungry, order food."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 21.400000000000002,
+            "end": 22.32,
+            "text": " If you're not hungry, don't order."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 22.34,
+            "end": 25.36,
+            "text": " If you're hungry and have money in your pocket, order food."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 25.38,
+            "end": 28.36,
+            "text": " Otherwise control your hunger and cook something at home and eat."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 28.36,
+            "end": 30.86,
+            "text": " So this kind of decision making keeps going on in our daily life."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 30.88,
+            "end": 34.18,
+            "text": " In our Python programming too, to do this kind of decision making,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 34.2,
+            "end": 35.48,
+            "text": " there are if-else statements."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 35.5,
+            "end": 40.12,
+            "text": " We can use if, elif, else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 40.14,
+            "end": 43.86,
+            "text": " How we'll use all these conditionals in Python programming,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 43.879999999999995,
+            "end": 45.1,
+            "text": " I'll tell you today."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 45.120000000000005,
+            "end": 47.94,
+            "text": " Let's go to the computer screen and let's get started."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 57.28,
+            "end": 58.36,
+            "text": " So guys, I'm going to open my rappel."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 58.38,
+            "end": 60.26,
+            "text": " First of all, I'll open day 14."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 60.28,
+            "end": 63.32,
+            "text": " And as you can see here, today's topic is if-else statement."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 63.34,
+            "end": 67.36,
+            "text": " Many times in the program, it happens that I'll do something according to a condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 67.38,
+            "end": 71.08,
+            "text": " For example, let's say I take an input from the user."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 71.1,
+            "end": 74.92,
+            "text": " And I say, by the way, I can write int input like this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 74.94,
+            "end": 78.56,
+            "text": " To take an input as integer."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 78.58,
+            "end": 81.76,
+            "text": " Because you know that whatever comes from the input, it comes as a string."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 81.78,
+            "end": 85.2,
+            "text": " And if I want to take it as integer, I can use int function."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 85.22,
+            "end": 87.0,
+            "text": " I can type cast it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 87.02,
+            "end": 88.3,
+            "text": " Let's say I say, enter your integer."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 88.3,
+            "end": 93.58,
+            "text": " And I'm taking the user's age in a."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 93.6,
+            "end": 95.92,
+            "text": " And I'll do something like this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 95.94,
+            "end": 102.34,
+            "text": " Your age is, and I'll put a comma like this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 102.36,
+            "end": 104.46,
+            "text": " And I'll print it's age."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 104.47999999999999,
+            "end": 108.34,
+            "text": " After this, I can conditionally, if it's age is more than 18,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 108.36,
+            "end": 109.88,
+            "text": " I can display it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 109.9,
+            "end": 112.38,
+            "text": " That you can drive or you can't drive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 112.4,
+            "end": 114.12,
+            "text": " One of these two things."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 114.14,
+            "end": 118.2,
+            "text": " Assume that it's age is greater than 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 118.2,
+            "end": 121.78,
+            "text": " So I'll ask it to do what you do."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 121.8,
+            "end": 123.78,
+            "text": " I'll put a colon like this, I'll hit enter."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 123.8,
+            "end": 127.78,
+            "text": " And after this, I'll say that, print you can drive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 127.8,
+            "end": 131.96,
+            "text": " And after this, look, I'll write the program first."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 131.98000000000002,
+            "end": 135.0,
+            "text": " After that, I'll explain to you one by one what is what,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 135.02,
+            "end": 137.2,
+            "text": " what is the space, what is indentation."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 137.22,
+            "end": 139.02,
+            "text": " You cannot drive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 139.04,
+            "end": 139.96,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 139.98000000000002,
+            "end": 141.98000000000002,
+            "text": " Assume that I wrote no in enter your age."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 142.0,
+            "end": 143.08,
+            "text": " Your age is 9."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 143.1,
+            "end": 147.08,
+            "text": " I'm running the program again with these two if else statements."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 147.1,
+            "end": 148.02,
+            "text": " If I wrote no."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 148.02,
+            "end": 150.02,
+            "text": " I hit enter, so look, you cannot drive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 150.04000000000002,
+            "end": 153.54000000000002,
+            "text": " But if I write 90 or 78, man."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 153.56,
+            "end": 156.26000000000002,
+            "text": " The program hasn't run yet."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 156.28,
+            "end": 157.52,
+            "text": " If I write 78."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 157.54000000000002,
+            "end": 161.4,
+            "text": " In fact, I've given a very big number, maybe."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 161.42000000000002,
+            "end": 162.70000000000002,
+            "text": " I've written 768."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 162.72,
+            "end": 165.96,
+            "text": " 76 is written, your age is 76, you can drive is written."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 165.98000000000002,
+            "end": 166.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 166.58,
+            "end": 169.72,
+            "text": " I'll give a colon space here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 169.74,
+            "end": 174.64000000000001,
+            "text": " So based on input, we've determined here that a person can drive or not."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 174.66000000000003,
+            "end": 177.42000000000002,
+            "text": " And now I want to come here, the tutorial I've written."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 177.42,
+            "end": 180.22,
+            "text": " The reason I wrote a 10 sound \uc774 \uc790\ufffd\ufffd\ufffd."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 180.23999999999998,
+            "end": 182.22,
+            "text": " So when i want to write a increment,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 182.23999999999998,
+            "end": 183.64,
+            "text": " I've written what happened is-"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 183.66,
+            "end": 187.1,
+            "text": " so here where that number is in the right place word number."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 187.11999999999998,
+            "end": 190.22,
+            "text": " And here, I'm adding \u041f\u043e\u043b that counts in the sinthesizer."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 190.23999999999998,
+            "end": 192.79999999999998,
+            "text": " I'm also stick twitter, but there is nothing in the script."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 192.82,
+            "end": 193.89999999999998,
+            "text": " In this case, I don't have this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 193.92,
+            "end": 194.92,
+            "text": " So, I've written something."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 194.94,
+            "end": 196.14,
+            "text": " But if you know this like me,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 196.16,
+            "end": 198.6,
+            "text": " you may correct your information by checking it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 198.6,
+            "end": 201.5,
+            "text": " Also remember, what I'm telling you is true or false."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 201.51999999999998,
+            "end": 204.82,
+            "text": " Now take a look at the description."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 204.83999999999997,
+            "end": 206.54,
+            "text": " So I have defined for you the number of values,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 206.54,
+            "end": 207.26,
+            "text": " there every one two so the form factor,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 207.26,
+            "end": 211.17999999999998,
+            "text": " and equal to less than or equal to."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 211.17999999999998,
+            "end": 214.64,
+            "text": " And after this double equal to means equal to."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 214.64,
+            "end": 217.54,
+            "text": " It checks whether two numbers are equal or not."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 217.54,
+            "end": 219.54,
+            "text": " So I'll show you an example."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 219.54,
+            "end": 222.17999999999998,
+            "text": " I'll just print a is greater than 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 222.17999999999998,
+            "end": 226.64,
+            "text": " And I'll just print a is less than equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 226.64,
+            "end": 232.06,
+            "text": " And after this I'll print a is double equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 232.06,
+            "end": 235.66,
+            "text": " And after this I'll print a is not equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 235.66,
+            "end": 238.56,
+            "text": " This is not equal to being a conditional operator."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 238.56,
+            "end": 240.18,
+            "text": " Not equal to."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 240.18,
+            "end": 241.6,
+            "text": " Now I'll print this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 241.6,
+            "end": 245.01999999999998,
+            "text": " Now I'm taking age dynamically as an input from the user."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 245.01999999999998,
+            "end": 248.51999999999998,
+            "text": " I want to keep age as 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 248.51999999999998,
+            "end": 249.8,
+            "text": " So see what happens."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 249.8,
+            "end": 252.96,
+            "text": " Is age greater than 18?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 252.96,
+            "end": 254.96,
+            "text": " No, it's not greater than 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 254.96,
+            "end": 255.98,
+            "text": " Even if it is 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 255.98,
+            "end": 258.76,
+            "text": " If it is 18, then greater than 18 won't be true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 258.76,
+            "end": 261.36,
+            "text": " After this you see, less than equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 261.36,
+            "end": 262.86,
+            "text": " Is less than equal to 18?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 262.86,
+            "end": 265.56,
+            "text": " Yes, if it is 18, then less than or equal to?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 265.56,
+            "end": 267.56,
+            "text": " It means less than is fine even then."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 267.56,
+            "end": 269.56,
+            "text": " It's fine even if it is equal to."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 269.56,
+            "end": 272.56,
+            "text": " So this will evaluate to true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 272.56,
+            "end": 274.56,
+            "text": " Is age equal to 18?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 274.56,
+            "end": 275.56,
+            "text": " Exactly equal to 18?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 275.56,
+            "end": 276.56,
+            "text": " Yes, that's true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 276.56,
+            "end": 278.56,
+            "text": " So true is printed here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 278.56,
+            "end": 280.56,
+            "text": " This is returning our Boolean type."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 280.56,
+            "end": 285.56,
+            "text": " a is less than equal to, greater than equal to, double equal to, a is greater than 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 285.56,
+            "end": 287.56,
+            "text": " This is returning our Boolean type."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 287.56,
+            "end": 289.56,
+            "text": " a is not equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 289.56,
+            "end": 290.56,
+            "text": " Is this true?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 290.56,
+            "end": 291.56,
+            "text": " No, this is not true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 291.56,
+            "end": 293.56,
+            "text": " a is actually equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 293.56,
+            "end": 295.56,
+            "text": " These are our conditional operators."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 295.56,
+            "end": 296.56,
+            "text": " I'll comment on this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 296.56,
+            "end": 297.56,
+            "text": " I hope you understood."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 297.56,
+            "end": 301.56,
+            "text": " The if statement we have, it takes conditional operator."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 301.56,
+            "end": 305.56,
+            "text": " It means a condition which will be evaluated in true or false."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 305.56,
+            "end": 306.56,
+            "text": " It will see that."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 306.56,
+            "end": 309.56,
+            "text": " And after seeing, if this thing is true,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 309.56,
+            "end": 311.56,
+            "text": " that is if a is greater than 18,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 311.56,
+            "end": 313.56,
+            "text": " then it prints this block of code."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 313.56,
+            "end": 315.56,
+            "text": " And if this is not true,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 315.56,
+            "end": 317.56,
+            "text": " then it prints this block of code."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 317.56,
+            "end": 319.56,
+            "text": " But it will never print both together."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 319.56,
+            "end": 322.56,
+            "text": " Either it will go into if or else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 322.56,
+            "end": 324.56,
+            "text": " It will go into one of these two."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 324.56,
+            "end": 326.56,
+            "text": " Now you must be thinking what is this colon?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 326.56,
+            "end": 327.56,
+            "text": " And why have I given this space?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 327.56,
+            "end": 329.56,
+            "text": " Why can't we remove this space?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 329.56,
+            "end": 331.56,
+            "text": " Now see, as soon as I removed this space,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 331.56,
+            "end": 332.56,
+            "text": " I got to see an error here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 332.56,
+            "end": 335.56,
+            "text": " This space is called indentation in Python."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 335.56,
+            "end": 337.56,
+            "text": " And modern IDEs, whether you use VS code,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 337.56,
+            "end": 339.56,
+            "text": " you use PyCharm,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 339.56,
+            "end": 341.56,
+            "text": " or you are using replit,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 341.56,
+            "end": 342.56,
+            "text": " if you type enter,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 342.56,
+            "end": 344.56,
+            "text": " then automatically this space will give you."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 344.56,
+            "end": 347.56,
+            "text": " This space is called indentation in Python."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 347.56,
+            "end": 351.56,
+            "text": " Indentation means that you are starting a block."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 351.56,
+            "end": 352.56,
+            "text": " If you are coming from C language,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 352.56,
+            "end": 353.56,
+            "text": " then you can understand something like this,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 353.56,
+            "end": 355.56,
+            "text": " we don't use curly brackets here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 355.56,
+            "end": 357.56,
+            "text": " We just use spaces to tell here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 357.56,
+            "end": 358.56,
+            "text": " by putting colon,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 358.56,
+            "end": 360.56,
+            "text": " that we have entered this block."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 360.56,
+            "end": 362.56,
+            "text": " Here, after if, we put colon,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 362.56,
+            "end": 364.56,
+            "text": " and after that we gave a space,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 364.56,
+            "end": 367.56,
+            "text": " that means we have entered this if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 367.56,
+            "end": 368.56,
+            "text": " I will enter here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 368.56,
+            "end": 369.56,
+            "text": " if I write print yes,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 369.56,
+            "end": 371.56,
+            "text": " then we are still in if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 371.56,
+            "end": 374.56,
+            "text": " If I print no here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 374.56,
+            "end": 375.56,
+            "text": " then we are still in else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 375.56,
+            "end": 377.56,
+            "text": " Because we started in else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 377.56,
+            "end": 378.56,
+            "text": " This is in else,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 378.56,
+            "end": 380.56,
+            "text": " this is in else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 380.56,
+            "end": 381.56,
+            "text": " Now you guys comment and tell me,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 381.56,
+            "end": 382.56,
+            "text": " what is this else?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 382.56,
+            "end": 384.56,
+            "text": " Is this in else?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 384.56,
+            "end": 386.56,
+            "text": " Is this in else?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 386.56,
+            "end": 387.56,
+            "text": " No, it is not in else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 387.56,
+            "end": 391.56,
+            "text": " So if the code in else is being evaluated,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 391.56,
+            "end": 392.56,
+            "text": " if this code is being executed,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 392.56,
+            "end": 397.56,
+            "text": " then also you guys will get this thing printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 397.56,
+            "end": 398.56,
+            "text": " Even if it is not being done,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 398.56,
+            "end": 399.56,
+            "text": " then also it will be printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 399.56,
+            "end": 401.56,
+            "text": " That means whether the code in else is being executed or not,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 401.56,
+            "end": 402.56,
+            "text": " it doesn't matter."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 402.56,
+            "end": 403.56,
+            "text": " This code will always be executed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 403.56,
+            "end": 404.56,
+            "text": " I will show you."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 404.56,
+            "end": 406.56,
+            "text": " See, if age is greater than 18,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 406.56,
+            "end": 408.56,
+            "text": " let me take greater than 18 age."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 408.56,
+            "end": 411.56,
+            "text": " Suppose I take 48."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 411.56,
+            "end": 412.56,
+            "text": " So for age 48,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 412.56,
+            "end": 413.56,
+            "text": " will this be printed?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 413.56,
+            "end": 414.56,
+            "text": " Yes, it will be printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 414.56,
+            "end": 415.56,
+            "text": " Because it doesn't mean if or else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 415.56,
+            "end": 417.56,
+            "text": " It is written outside."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 417.56,
+            "end": 420.56,
+            "text": " So see, the code in else is being printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 420.56,
+            "end": 422.56,
+            "text": " Sorry, the code in if is being printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 422.56,
+            "end": 423.56,
+            "text": " Because it is greater than 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 423.56,
+            "end": 424.56,
+            "text": " You can try and yes."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 424.56,
+            "end": 425.56,
+            "text": " And after that,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 425.56,
+            "end": 426.56,
+            "text": " see, this is also being printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 426.56,
+            "end": 429.56,
+            "text": " But if I take an age like this,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 429.56,
+            "end": 430.56,
+            "text": " suppose I take 8,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 430.56,
+            "end": 432.56,
+            "text": " which is less than 18 obviously,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 432.56,
+            "end": 433.56,
+            "text": " then if I run it,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 433.56,
+            "end": 434.56,
+            "text": " then see,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 434.56,
+            "end": 436.56,
+            "text": " no is also printed and this is also printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 436.56,
+            "end": 438.56,
+            "text": " But if I put this yes inside,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 438.56,
+            "end": 439.56,
+            "text": " of else statement,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 439.56,
+            "end": 440.56,
+            "text": " then you guys will see,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 440.56,
+            "end": 441.56,
+            "text": " that else has become a part now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 441.56,
+            "end": 443.56,
+            "text": " Because I have given an indentation here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 443.56,
+            "end": 445.56,
+            "text": " I won't call it space from now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 445.56,
+            "end": 446.56,
+            "text": " Now remember, I will call it indentation."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 446.56,
+            "end": 447.56,
+            "text": " When I will call it indentation,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 447.56,
+            "end": 449.56,
+            "text": " you will understand what I am talking about."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 449.56,
+            "end": 452.56,
+            "text": " I have entered else block."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 452.56,
+            "end": 454.56,
+            "text": " I have entered else block."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 454.56,
+            "end": 455.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 455.56,
+            "end": 457.56,
+            "text": " And because I have entered else block,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 457.56,
+            "end": 461.56,
+            "text": " so now if age is not greater than 18,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 461.56,
+            "end": 462.56,
+            "text": " then this will be printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 462.56,
+            "end": 463.56,
+            "text": " See, this is printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 463.56,
+            "end": 466.56,
+            "text": " But if I put age greater than 18,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 466.56,
+            "end": 467.56,
+            "text": " then this will not be printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 467.56,
+            "end": 468.56,
+            "text": " Now see, for 78,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 468.56,
+            "end": 470.56,
+            "text": " for 78 age,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 470.56,
+            "end": 471.56,
+            "text": " you see here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 471.56,
+            "end": 473.56,
+            "text": " this is printed and this is not printed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 473.56,
+            "end": 474.56,
+            "text": " Because this is now a part of else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 474.56,
+            "end": 475.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 475.56,
+            "end": 477.56,
+            "text": " The way we saw if else statement,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 477.56,
+            "end": 480.56,
+            "text": " similarly we have an else if statement also."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 480.56,
+            "end": 481.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 481.56,
+            "end": 484.56,
+            "text": " We also have a nested if else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 484.56,
+            "end": 486.56,
+            "text": " So I will talk about everything in this video for you guys."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 486.56,
+            "end": 487.56,
+            "text": " I have written everything,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 487.56,
+            "end": 488.56,
+            "text": " the same thing which I told you."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 488.56,
+            "end": 490.56,
+            "text": " That if evaluate is true,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 490.56,
+            "end": 491.56,
+            "text": " then it will go inside if,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 491.56,
+            "end": 492.56,
+            "text": " otherwise it will go inside else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 492.56,
+            "end": 493.56,
+            "text": " I have written a simple thing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 493.56,
+            "end": 494.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 494.56,
+            "end": 495.56,
+            "text": " Now let's do one thing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 495.56,
+            "end": 496.56,
+            "text": " Let's make a new file in Replicate."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 496.56,
+            "end": 498.56,
+            "text": " I was working with just one file till now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 498.56,
+            "end": 499.56,
+            "text": " But now I will make files."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 499.56,
+            "end": 501.56,
+            "text": " I will make a file named if else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 501.56,
+            "end": 502.56,
+            "text": " If else.py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 502.56,
+            "end": 505.56,
+            "text": " So see, I have made a file named if else.py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 505.56,
+            "end": 506.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 506.56,
+            "end": 507.56,
+            "text": " I will copy it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 507.56,
+            "end": 508.56,
+            "text": " I will paste it here and run it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 508.56,
+            "end": 509.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 509.56,
+            "end": 510.56,
+            "text": " So what is being said here?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 510.56,
+            "end": 511.56,
+            "text": " Apple's price is 200."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 511.56,
+            "end": 512.56,
+            "text": " Budget is 200."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 512.56,
+            "end": 513.56,
+            "text": " So in fact,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 513.56,
+            "end": 515.56,
+            "text": " I have run the main only."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 515.56,
+            "end": 516.56,
+            "text": " I will stop it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 516.56,
+            "end": 518.56,
+            "text": " I want to run my if else file."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 518.56,
+            "end": 519.56,
+            "text": " Now actually,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 519.56,
+            "end": 521.56,
+            "text": " this template of Python,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 521.56,
+            "end": 522.56,
+            "text": " of Apple,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 522.56,
+            "end": 523.56,
+            "text": " in this,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 523.56,
+            "end": 524.56,
+            "text": " only main.py file is run."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 524.56,
+            "end": 525.56,
+            "text": " So what I will do is,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 525.56,
+            "end": 526.56,
+            "text": " here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 526.56,
+            "end": 527.56,
+            "text": " one,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 527.56,
+            "end": 528.56,
+            "text": " one,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 528.56,
+            "end": 529.56,
+            "text": " I will do one thing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 529.56,
+            "end": 530.56,
+            "text": " I want to open a console."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 530.56,
+            "end": 531.56,
+            "text": " Actually,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 531.56,
+            "end": 532.56,
+            "text": " I want to open a shell."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 532.56,
+            "end": 533.56,
+            "text": " And I will write here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 533.56,
+            "end": 534.56,
+            "text": " python if else.py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 534.56,
+            "end": 535.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 535.56,
+            "end": 536.56,
+            "text": " If else.py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 536.56,
+            "end": 537.56,
+            "text": " And Alexa,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 537.56,
+            "end": 538.56,
+            "text": " do not add apples to the cart."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 538.56,
+            "end": 539.56,
+            "text": " I can see it here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 539.56,
+            "end": 540.56,
+            "text": " Why am I seeing this?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 540.56,
+            "end": 541.56,
+            "text": " I will show you."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 541.56,
+            "end": 542.56,
+            "text": " I will put this shell here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 542.56,
+            "end": 543.56,
+            "text": " In the side."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 543.56,
+            "end": 544.56,
+            "text": " Now why am I seeing this?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 544.56,
+            "end": 545.56,
+            "text": " I want to tell you."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 545.56,
+            "end": 546.56,
+            "text": " See,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 546.56,
+            "end": 547.56,
+            "text": " the price of Apple was 210."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 547.56,
+            "end": 548.56,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 548.56,
+            "end": 549.56,
+            "text": " And after this,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 549.56,
+            "end": 550.56,
+            "text": " see here,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 550.56,
+            "end": 551.56,
+            "text": " my budget is 200."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 551.56,
+            "end": 552.56,
+            "text": " I said,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 552.56,
+            "end": 553.56,
+            "text": " if the budget is smaller than price,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 553.56,
+            "end": 554.56,
+            "text": " then obviously,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 554.56,
+            "end": 555.56,
+            "text": " sorry,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 555.56,
+            "end": 556.56,
+            "text": " if the budget is bigger,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 556.56,
+            "end": 557.56,
+            "text": " then,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 557.56,
+            "end": 560.26,
+            "text": " If the budget is higher than the price, which is the price of the apple,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 560.26,
+            "end": 564.26,
+            "text": " which means I can buy it, then I am saying Alexa add 1 kg apples to the cart."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 564.26,
+            "end": 566.26,
+            "text": " Otherwise I am saying do not add."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 566.26,
+            "end": 568.56,
+            "text": " So here I have used if else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 568.56,
+            "end": 571.76,
+            "text": " We have taken a very simple example here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 571.76,
+            "end": 575.56,
+            "text": " So we will move ahead and now we will see about the elif statement."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 575.56,
+            "end": 582.06,
+            "text": " If I have to execute more than one statement based on certain condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 582.06,
+            "end": 587.56,
+            "text": " Suppose if my budget is 200 and price is 210."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 587.56,
+            "end": 589.56,
+            "text": " So this budget is very close."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 589.56,
+            "end": 592.56,
+            "text": " So I may not want to buy apples of 200 rupees."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 592.56,
+            "end": 596.56,
+            "text": " If apples are of 190, I will make them of 190."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 596.56,
+            "end": 598.06,
+            "text": " So I may not want to buy."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 598.06,
+            "end": 602.06,
+            "text": " So I will do one thing that if apple price is less than or equal to budget"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 602.06,
+            "end": 604.56,
+            "text": " and along with that I want to check one more condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 604.56,
+            "end": 609.56,
+            "text": " Or I will say budget minus apple price."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 609.56,
+            "end": 611.56,
+            "text": " So basically what I am doing here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 611.56,
+            "end": 617.56,
+            "text": " Budget minus apple price is greater than the money I have."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 617.56,
+            "end": 621.56,
+            "text": " Suppose I have 20,000 rupees and apple is of 190, then it does not matter."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 621.56,
+            "end": 623.56,
+            "text": " So if I have the remaining money,"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 623.56,
+            "end": 626.56,
+            "text": " means this is the money which will be left after buying the apple."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 626.56,
+            "end": 628.56,
+            "text": " See this is my budget, the money in my pocket."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 628.56,
+            "end": 630.56,
+            "text": " Suppose I have 10 apples of 100 rupees."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 630.56,
+            "end": 631.56,
+            "text": " I will simplify it a little."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 631.56,
+            "end": 634.06,
+            "text": " I will take 10 apples and I have 200 rupees in my pocket."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 634.06,
+            "end": 635.56,
+            "text": " So 190 is left in my pocket."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 635.56,
+            "end": 639.06,
+            "text": " So if it is greater than as long as it is 50, I will buy the apples."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 639.06,
+            "end": 641.06,
+            "text": " But."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 641.06,
+            "end": 643.06,
+            "text": " Elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 643.06,
+            "end": 649.06,
+            "text": " But if budget minus apple price is greater than 20."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 649.06,
+            "end": 653.06,
+            "text": " If it is greater than 20 or greater than 70."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 653.06,
+            "end": 655.06,
+            "text": " Suppose."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 655.06,
+            "end": 657.06,
+            "text": " Then what I will do is, suppose I will print."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 657.06,
+            "end": 659.06,
+            "text": " It is okay you can buy."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 659.06,
+            "end": 661.06,
+            "text": " Suppose I am printing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 661.06,
+            "end": 662.06,
+            "text": " Now if I run it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 662.06,
+            "end": 667.06,
+            "text": " So you see it is 190 because in fact I will have to run it from shell."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 667.06,
+            "end": 668.06,
+            "text": " Like this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 668.06,
+            "end": 669.06,
+            "text": " Python if else dot py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 669.06,
+            "end": 670.06,
+            "text": " Add 1 kg apples to the."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 670.06,
+            "end": 672.06,
+            "text": " Cart."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 672.06,
+            "end": 674.06,
+            "text": " So what happened is that this condition came true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 674.06,
+            "end": 675.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 675.06,
+            "end": 676.06,
+            "text": " So it executed this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 676.06,
+            "end": 677.06,
+            "text": " If this condition came false."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 677.06,
+            "end": 679.06,
+            "text": " So it would have checked this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 679.06,
+            "end": 680.06,
+            "text": " And so on."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 680.06,
+            "end": 682.06,
+            "text": " Let me change the example and take a good example."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 682.06,
+            "end": 683.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 683.06,
+            "end": 684.06,
+            "text": " So what I will do is."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 684.06,
+            "end": 687.06,
+            "text": " I will revert this if else dot py to my program."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 687.06,
+            "end": 688.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 688.06,
+            "end": 691.06,
+            "text": " And I will copy it and take a good example of elif statements."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 691.06,
+            "end": 692.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 692.06,
+            "end": 693.06,
+            "text": " So here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 693.06,
+            "end": 695.06,
+            "text": " If else statements."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 695.06,
+            "end": 696.06,
+            "text": " Along with if else elif statements."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 696.06,
+            "end": 697.06,
+            "text": " This came."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 697.06,
+            "end": 698.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 698.06,
+            "end": 699.06,
+            "text": " So I will copy it here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 699.06,
+            "end": 701.06,
+            "text": " And I will make a program named elif dot py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 701.06,
+            "end": 702.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 702.06,
+            "end": 706.06,
+            "text": " So you can see here that a program named elif dot py is made."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 706.06,
+            "end": 707.06,
+            "text": " The value of num is 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 707.06,
+            "end": 708.06,
+            "text": " Let's do one thing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 708.06,
+            "end": 710.06,
+            "text": " Let's take the value of num from the user."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 710.06,
+            "end": 713.06,
+            "text": " And enter the value."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 713.06,
+            "end": 716.06,
+            "text": " Enter the value of num."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 716.06,
+            "end": 718.06,
+            "text": " I did something like this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 718.06,
+            "end": 720.06,
+            "text": " If num is less than 0 then the number is negative."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 720.06,
+            "end": 721.06,
+            "text": " If it is equal to 0 then it is positive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 721.06,
+            "end": 722.06,
+            "text": " Otherwise."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 722.06,
+            "end": 723.06,
+            "text": " Sorry."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 723.06,
+            "end": 724.06,
+            "text": " If it is equal to 0 then it is 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 724.06,
+            "end": 725.06,
+            "text": " Otherwise it is positive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 725.06,
+            "end": 726.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 726.06,
+            "end": 727.06,
+            "text": " And if I run this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 727.06,
+            "end": 728.06,
+            "text": " I will write python."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 728.06,
+            "end": 729.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 729.06,
+            "end": 730.06,
+            "text": " And I will write elif dot py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 730.06,
+            "end": 731.06,
+            "text": " And it will run."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 731.06,
+            "end": 732.06,
+            "text": " Enter the value of num."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 732.06,
+            "end": 733.06,
+            "text": " Suppose I did 7."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 733.06,
+            "end": 734.06,
+            "text": " Number is positive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 734.06,
+            "end": 735.06,
+            "text": " I will run this program again."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 735.06,
+            "end": 736.06,
+            "text": " And suppose I write minus 8."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 736.06,
+            "end": 737.06,
+            "text": " Number is negative."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 737.06,
+            "end": 738.06,
+            "text": " And if I give 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 738.06,
+            "end": 739.06,
+            "text": " Then number is 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 739.06,
+            "end": 740.06,
+            "text": " It will print here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 740.06,
+            "end": 741.06,
+            "text": " As you can see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 741.06,
+            "end": 742.06,
+            "text": " How does this work?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 742.06,
+            "end": 743.06,
+            "text": " If else elif statements."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 743.06,
+            "end": 744.06,
+            "text": " First of all."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 744.06,
+            "end": 745.06,
+            "text": " If condition is checked."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 745.06,
+            "end": 746.06,
+            "text": " If it is true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 746.06,
+            "end": 747.06,
+            "text": " Then only one of these three will be executed."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 747.06,
+            "end": 748.06,
+            "text": " Which is of if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 748.06,
+            "end": 749.06,
+            "text": " If the condition of if is true then."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 749.06,
+            "end": 750.06,
+            "text": " But if this condition is not true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 750.06,
+            "end": 751.06,
+            "text": " Then it will go to the condition of elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 751.06,
+            "end": 752.06,
+            "text": " So if it is true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 752.06,
+            "end": 753.06,
+            "text": " Then it will run."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 753.06,
+            "end": 754.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 754.06,
+            "end": 755.06,
+            "text": " So if it is true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 755.06,
+            "end": 756.06,
+            "text": " Then it will run."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 756.06,
+            "end": 757.06,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 758.06,
+            "end": 759.06,
+            "text": " And it will try to match it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 759.06,
+            "end": 760.06,
+            "text": " If suppose there is one more elif here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 760.06,
+            "end": 761.06,
+            "text": " Suppose if there is one more elif here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 761.06,
+            "end": 766.06,
+            "text": " Then it will try to check it too."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 766.06,
+            "end": 769.8199999999999,
+            "text": " If num is equal to equal to."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 769.8199999999999,
+            "end": 772.3599999999999,
+            "text": " Suppose minus 999."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 772.3599999999999,
+            "end": 773.3599999999999,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 773.3599999999999,
+            "end": 774.3599999999999,
+            "text": " Suppose it is 999."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 774.3599999999999,
+            "end": 775.3599999999999,
+            "text": " Or I will do plus 999."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 775.3599999999999,
+            "end": 776.3599999999999,
+            "text": " Because if it is 999."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 776.3599999999999,
+            "end": 777.3599999999999,
+            "text": " Then it will stop here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 777.3599999999999,
+            "end": 778.3599999999999,
+            "text": " If 999 number is special."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 778.3599999999999,
+            "end": 779.3599999999999,
+            "text": " Suppose I do this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 779.3599999999999,
+            "end": 780.3599999999999,
+            "text": " Else number is positive."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 780.3599999999999,
+            "end": 781.3599999999999,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 781.3599999999999,
+            "end": 782.3599999999999,
+            "text": " Now let's run this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 782.3599999999999,
+            "end": 783.3599999999999,
+            "text": " And see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 783.3599999999999,
+            "end": 786.3599999999999,
+            "text": " If I do 999 then number is special."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 786.3599999999999,
+            "end": 787.3599999999999,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 787.3599999999999,
+            "end": 787.8599999999999,
+            "text": " Let's run it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 787.86,
+            "end": 789.86,
+            "text": " So how does it work basically?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 789.86,
+            "end": 791.86,
+            "text": " Now see here it starts with if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 791.86,
+            "end": 793.86,
+            "text": " It will check the condition of if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 793.86,
+            "end": 797.86,
+            "text": " If the condition of if is true then it will jump from here to here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 797.86,
+            "end": 799.86,
+            "text": " Here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 799.86,
+            "end": 801.86,
+            "text": " Let's say I write here I am happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 801.86,
+            "end": 803.86,
+            "text": " So the program will be happy."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 803.86,
+            "end": 805.86,
+            "text": " It will say that I wanted to match a condition and I got it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 805.86,
+            "end": 809.86,
+            "text": " And once its condition is matched then it is so greedy that it doesn't even look at other people."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 809.86,
+            "end": 811.86,
+            "text": " It is like this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 811.86,
+            "end": 813.86,
+            "text": " Okay."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 813.86,
+            "end": 815.86,
+            "text": " If its work is done then it will not get from this or from this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 815.86,
+            "end": 817.86,
+            "text": " It should have its work."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 817.86,
+            "end": 819.86,
+            "text": " First of all it will go to if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 819.86,
+            "end": 821.86,
+            "text": " It will say if match the condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 821.86,
+            "end": 823.86,
+            "text": " If will say no I don't match."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 823.86,
+            "end": 825.86,
+            "text": " My condition is less than zero."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 825.86,
+            "end": 827.86,
+            "text": " You are triple nine so get out of here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 827.86,
+            "end": 829.86,
+            "text": " Then it will say equal to equal to zero please match my condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 829.86,
+            "end": 831.86,
+            "text": " It will say no I am equal to equal to zero."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 831.86,
+            "end": 833.86,
+            "text": " You are triple nine."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 833.86,
+            "end": 835.86,
+            "text": " I can't match your condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 835.86,
+            "end": 837.86,
+            "text": " Then it will come here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 837.86,
+            "end": 839.86,
+            "text": " It will say match the condition."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 839.86,
+            "end": 841.86,
+            "text": " Then this elif will say yes the condition is matching."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 841.86,
+            "end": 843.86,
+            "text": " What is the condition?"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 843.86,
+            "end": 845.86,
+            "text": " Double equal to triple nine."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 845.86,
+            "end": 847.86,
+            "text": " And it is matching."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 847.86,
+            "end": 849.86,
+            "text": " Now because it is matching."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 849.86,
+            "end": 851.86,
+            "text": " So it won't go to else and if there is more elif below it then it won't go to them."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 851.86,
+            "end": 853.86,
+            "text": " It will jump directly here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 853.86,
+            "end": 855.86,
+            "text": " And because it is jumping here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 855.86,
+            "end": 857.86,
+            "text": " I am happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 857.86,
+            "end": 859.86,
+            "text": " I will get to see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 859.86,
+            "end": 861.86,
+            "text": " So here you see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 861.86,
+            "end": 863.86,
+            "text": " First you will get to see the code inside this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 863.86,
+            "end": 865.86,
+            "text": " And I am happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 865.86,
+            "end": 867.86,
+            "text": " You will get to see this no matter what you execute."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 867.86,
+            "end": 869.86,
+            "text": " Enter the value of num."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 869.86,
+            "end": 871.86,
+            "text": " Number is positive I am happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 871.86,
+            "end": 873.86,
+            "text": " Enter the value of number."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 873.86,
+            "end": 875.86,
+            "text": " Number is negative I am happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 875.86,
+            "end": 877.86,
+            "text": " On triple nine."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 877.86,
+            "end": 879.86,
+            "text": " Number is special I am happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 879.86,
+            "end": 883.86,
+            "text": " So I am happy now has no meaning from this if else ladder."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 883.86,
+            "end": 885.86,
+            "text": " Ok."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 885.86,
+            "end": 887.86,
+            "text": " It has no meaning from this if else ladder."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 887.86,
+            "end": 889.86,
+            "text": " So this if elif elif elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 889.86,
+            "end": 891.86,
+            "text": " I can put elif in any number of matches."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 891.86,
+            "end": 893.86,
+            "text": " And all of them will be checked till the condition matches."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 893.86,
+            "end": 895.86,
+            "text": " So this is how if else elif works."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 895.86,
+            "end": 897.86,
+            "text": " Ok."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 897.86,
+            "end": 899.86,
+            "text": " I hope you guys understood."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 899.86,
+            "end": 901.86,
+            "text": " Now after this I will make a program for you called nested."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 901.86,
+            "end": 903.86,
+            "text": " I will name it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 903.86,
+            "end": 905.86,
+            "text": " nested.py"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 905.86,
+            "end": 907.86,
+            "text": " I will rename it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 907.86,
+            "end": 909.86,
+            "text": " I will fix the spelling of if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 909.86,
+            "end": 913.86,
+            "text": " By the way, you should never make a program with the name of python's keyword or python's package."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 913.86,
+            "end": 915.86,
+            "text": " So I will name it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 915.86,
+            "end": 917.86,
+            "text": " Myif.py"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 917.86,
+            "end": 919.86,
+            "text": " Because if is a keyword in python."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 919.86,
+            "end": 921.86,
+            "text": " I don't want the keyword to clash."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 921.86,
+            "end": 923.86,
+            "text": " Or the name of any file to clash."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 923.86,
+            "end": 925.86,
+            "text": " There is a very classical error in python."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 925.86,
+            "end": 927.86,
+            "text": " What happens is that if you make a file with the name of module."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 927.86,
+            "end": 929.86,
+            "text": " Then it doesn't look in the module."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 929.86,
+            "end": 931.86,
+            "text": " It looks in your file."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 931.86,
+            "end": 933.86,
+            "text": " So error starts coming."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 933.86,
+            "end": 935.86,
+            "text": " So you should never work with any module."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 935.86,
+            "end": 937.86,
+            "text": " Like flask, django, flask.py"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 937.86,
+            "end": 939.86,
+            "text": " Don't make a program with django.py"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 939.86,
+            "end": 941.86,
+            "text": " I hope you guys understood."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 941.86,
+            "end": 943.86,
+            "text": " So I named it myif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 943.86,
+            "end": 945.86,
+            "text": " Then I made ifelse and elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 945.86,
+            "end": 947.86,
+            "text": " I will make it better."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 947.86,
+            "end": 949.86,
+            "text": " I will name it 01 myif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 949.86,
+            "end": 951.86,
+            "text": " I will rename it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 951.86,
+            "end": 953.86,
+            "text": " Myelif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 953.86,
+            "end": 955.86,
+            "text": " In fact this program and this program."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 955.86,
+            "end": 957.86,
+            "text": " I have."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 957.86,
+            "end": 959.86,
+            "text": " Let me rename it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 959.86,
+            "end": 961.86,
+            "text": " 02"
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 961.86,
+            "end": 963.86,
+            "text": " Just for your convenience."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 963.86,
+            "end": 965.86,
+            "text": " So that you get which program you want to run first."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 965.86,
+            "end": 967.86,
+            "text": " So I have made 1,2,3 programs."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 967.86,
+            "end": 969.86,
+            "text": " We will make a 04."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 969.86,
+            "end": 971.86,
+            "text": " And it will be named nested.py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 971.86,
+            "end": 973.86,
+            "text": " Ok."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 973.86,
+            "end": 975.86,
+            "text": " I have made this program with the name nested.py."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 975.86,
+            "end": 977.86,
+            "text": " Now what I will do is."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 977.86,
+            "end": 979.86,
+            "text": " I will make you about nested ifelse statement."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 979.86,
+            "end": 981.86,
+            "text": " Nested ifelse statement is nothing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 981.86,
+            "end": 983.86,
+            "text": " You have put an if in an if."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 983.86,
+            "end": 985.86,
+            "text": " And you can do this 10-50 times."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 985.86,
+            "end": 987.86,
+            "text": " Let me explain."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 987.86,
+            "end": 989.86,
+            "text": " See what we have written here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 989.86,
+            "end": 991.86,
+            "text": " If the number is less than 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 991.86,
+            "end": 993.86,
+            "text": " Then it will execute this code."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 993.86,
+            "end": 995.86,
+            "text": " There is a line below this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 995.86,
+            "end": 997.86,
+            "text": " If it is on this indent."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 997.86,
+            "end": 999.86,
+            "text": " On this level of indent."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 999.86,
+            "end": 1001.86,
+            "text": " Now understand the concept of level of indent."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1001.86,
+            "end": 1003.86,
+            "text": " This is one level of indent."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1003.86,
+            "end": 1005.86,
+            "text": " Suppose the number is less than 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1005.86,
+            "end": 1007.86,
+            "text": " Which is not."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1007.86,
+            "end": 1009.86,
+            "text": " So it will go to elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1009.86,
+            "end": 1011.86,
+            "text": " Is number greater than 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1011.86,
+            "end": 1013.86,
+            "text": " Yes number is greater than 0."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1013.86,
+            "end": 1015.86,
+            "text": " So it will go to elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1015.86,
+            "end": 1017.86,
+            "text": " It will evaluate this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1017.86,
+            "end": 1019.86,
+            "text": " Then after this it will get ifelse ladder again."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1019.86,
+            "end": 1021.86,
+            "text": " So if the number is less than equal to 18."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1021.86,
+            "end": 1023.86,
+            "text": " No."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1023.86,
+            "end": 1025.8600000000001,
+            "text": " Sorry."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1025.8600000000001,
+            "end": 1027.8600000000001,
+            "text": " Is number greater than 10."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1027.8600000000001,
+            "end": 1029.8600000000001,
+            "text": " Is number greater than 10 and less than equal to 20."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1029.8600000000001,
+            "end": 1031.8600000000001,
+            "text": " Yes that is true."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1031.8600000000001,
+            "end": 1033.8600000000001,
+            "text": " So it will go to this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1033.8600000000001,
+            "end": 1035.8600000000001,
+            "text": " So this is the second level of indent."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1035.8600000000001,
+            "end": 1037.8600000000001,
+            "text": " One indent was of this elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1037.8600000000001,
+            "end": 1039.8600000000001,
+            "text": " Now it is in the elif inside this elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1039.8600000000001,
+            "end": 1041.8600000000001,
+            "text": " So in this way you have to evaluate your programs."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1041.8600000000001,
+            "end": 1043.8600000000001,
+            "text": " So it will print this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1043.8600000000001,
+            "end": 1045.8600000000001,
+            "text": " Number is between 11 to 20."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1045.8600000000001,
+            "end": 1047.8600000000001,
+            "text": " And after this it will not go to else."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1047.8600000000001,
+            "end": 1049.8600000000001,
+            "text": " Then after this it will not go to this else either."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1049.86,
+            "end": 1051.86,
+            "text": " This one was of this elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1051.86,
+            "end": 1053.86,
+            "text": " And this one was of this elif."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1053.86,
+            "end": 1055.86,
+            "text": " I hope you are understanding."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1055.86,
+            "end": 1057.86,
+            "text": " Now I will run this program."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1057.86,
+            "end": 1059.86,
+            "text": " And I will show you."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1059.86,
+            "end": 1061.86,
+            "text": " 04 underscore nested 04 tab."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1061.86,
+            "end": 1063.86,
+            "text": " By the way I can auto complete with tab."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1063.86,
+            "end": 1065.86,
+            "text": " If you are not able to see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1065.86,
+            "end": 1067.86,
+            "text": " Then I will do one thing."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1067.86,
+            "end": 1069.86,
+            "text": " I will bring myself here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1069.86,
+            "end": 1071.86,
+            "text": " I am here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1071.86,
+            "end": 1073.86,
+            "text": " Now you can see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1073.86,
+            "end": 1075.86,
+            "text": " In fact I will come up here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1075.86,
+            "end": 1077.86,
+            "text": " And now you can see."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1077.86,
+            "end": 1079.86,
+            "text": " I have made this program."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1079.86,
+            "end": 1081.86,
+            "text": " And see the number is between 11 to 20."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1081.86,
+            "end": 1083.86,
+            "text": " It came here."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1083.86,
+            "end": 1085.86,
+            "text": " I hope you are happy now."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1085.86,
+            "end": 1087.86,
+            "text": " Now you understand."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1087.86,
+            "end": 1089.86,
+            "text": " How does FL and elif work."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1089.86,
+            "end": 1091.86,
+            "text": " In this way if someone says to me."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1091.86,
+            "end": 1093.86,
+            "text": " That we did not understand what is the output."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1093.86,
+            "end": 1095.86,
+            "text": " How does it work."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1095.86,
+            "end": 1097.86,
+            "text": " I would like to say to you that you need to practice."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1097.86,
+            "end": 1099.86,
+            "text": " And practice is necessary for every topic."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1099.86,
+            "end": 1101.86,
+            "text": " Make some programs."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1101.86,
+            "end": 1103.86,
+            "text": " Solve the upcoming exercises."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1103.86,
+            "end": 1105.86,
+            "text": " And stay in the course."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1105.86,
+            "end": 1107.86,
+            "text": " Watch it again."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1107.86,
+            "end": 1109.86,
+            "text": " What is the problem."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1109.86,
+            "end": 1111.86,
+            "text": " If you have to see it 10 times."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1111.86,
+            "end": 1113.86,
+            "text": " That is going to be worth it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1113.86,
+            "end": 1115.86,
+            "text": " As long as you understand."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1115.86,
+            "end": 1117.86,
+            "text": " It doesn't matter."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1117.86,
+            "end": 1119.86,
+            "text": " You have seen it 10 times."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1119.86,
+            "end": 1121.86,
+            "text": " You have seen it 20 times."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1121.86,
+            "end": 1123.86,
+            "text": " You have seen it 100 times."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1123.86,
+            "end": 1125.86,
+            "text": " It doesn't matter."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1125.86,
+            "end": 1127.86,
+            "text": " Do whatever it takes."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1127.86,
+            "end": 1129.86,
+            "text": " If you have successfully made a website."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1129.86,
+            "end": 1131.86,
+            "text": " From Django backend."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1131.86,
+            "end": 1133.86,
+            "text": " You have learned machine learning from python."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1133.86,
+            "end": 1135.86,
+            "text": " You have become a job ready python developer."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1135.86,
+            "end": 1137.86,
+            "text": " It doesn't matter."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1137.86,
+            "end": 1139.86,
+            "text": " I hope you understand this."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1139.86,
+            "end": 1141.86,
+            "text": " If you haven't accessed the playlist."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1141.86,
+            "end": 1143.86,
+            "text": " Do access it."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1143.86,
+            "end": 1145.86,
+            "text": " That's all for this video."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1145.86,
+            "end": 1147.86,
+            "text": " Thank you so much for watching this video."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1147.86,
+            "end": 1149.86,
+            "text": " I will see you next time."
+        },
+        {
+            "number": "14",
+            "title": "If Else Conditional Statements in Python",
+            "start": 1165.86,
+            "end": 1167.86,
+            "text": " Bye."
+        }
+    ],
+    "text": " Do you remember when it used to rain in our childhood, we didn't go to school. We used to say that if it rains, I won't go to school. And if it doesn't rain, we'll go to school. In such a situation, we used to do decision making. We make a lot of decisions in our life. For example, if I'm tired, I won't go out. And if I'm not tired, I'll go out. So this kind of decision making keeps going on. If you're hungry, order food. If you're not hungry, don't order. If you're hungry and have money in your pocket, order food. Otherwise control your hunger and cook something at home and eat. So this kind of decision making keeps going on in our daily life. In our Python programming too, to do this kind of decision making, there are if-else statements. We can use if, elif, else. How we'll use all these conditionals in Python programming, I'll tell you today. Let's go to the computer screen and let's get started. So guys, I'm going to open my rappel. First of all, I'll open day 14. And as you can see here, today's topic is if-else statement. Many times in the program, it happens that I'll do something according to a condition. For example, let's say I take an input from the user. And I say, by the way, I can write int input like this. To take an input as integer. Because you know that whatever comes from the input, it comes as a string. And if I want to take it as integer, I can use int function. I can type cast it. Let's say I say, enter your integer. And I'm taking the user's age in a. And I'll do something like this. Your age is, and I'll put a comma like this. And I'll print it's age. After this, I can conditionally, if it's age is more than 18, I can display it. That you can drive or you can't drive. One of these two things. Assume that it's age is greater than 18. So I'll ask it to do what you do. I'll put a colon like this, I'll hit enter. And after this, I'll say that, print you can drive. And after this, look, I'll write the program first. After that, I'll explain to you one by one what is what, what is the space, what is indentation. You cannot drive. Okay. Assume that I wrote no in enter your age. Your age is 9. I'm running the program again with these two if else statements. If I wrote no. I hit enter, so look, you cannot drive. But if I write 90 or 78, man. The program hasn't run yet. If I write 78. In fact, I've given a very big number, maybe. I've written 768. 76 is written, your age is 76, you can drive is written. Okay. I'll give a colon space here. So based on input, we've determined here that a person can drive or not. And now I want to come here, the tutorial I've written. The reason I wrote a 10 sound \uc774 \uc790\ufffd\ufffd\ufffd. So when i want to write a increment, I've written what happened is- so here where that number is in the right place word number. And here, I'm adding \u041f\u043e\u043b that counts in the sinthesizer. I'm also stick twitter, but there is nothing in the script. In this case, I don't have this. So, I've written something. But if you know this like me, you may correct your information by checking it. Also remember, what I'm telling you is true or false. Now take a look at the description. So I have defined for you the number of values, there every one two so the form factor, and equal to less than or equal to. And after this double equal to means equal to. It checks whether two numbers are equal or not. So I'll show you an example. I'll just print a is greater than 18. And I'll just print a is less than equal to 18. And after this I'll print a is double equal to 18. And after this I'll print a is not equal to 18. This is not equal to being a conditional operator. Not equal to. Now I'll print this. Now I'm taking age dynamically as an input from the user. I want to keep age as 18. So see what happens. Is age greater than 18? No, it's not greater than 18. Even if it is 18. If it is 18, then greater than 18 won't be true. After this you see, less than equal to 18. Is less than equal to 18? Yes, if it is 18, then less than or equal to? It means less than is fine even then. It's fine even if it is equal to. So this will evaluate to true. Is age equal to 18? Exactly equal to 18? Yes, that's true. So true is printed here. This is returning our Boolean type. a is less than equal to, greater than equal to, double equal to, a is greater than 18. This is returning our Boolean type. a is not equal to 18. Is this true? No, this is not true. a is actually equal to 18. These are our conditional operators. I'll comment on this. I hope you understood. The if statement we have, it takes conditional operator. It means a condition which will be evaluated in true or false. It will see that. And after seeing, if this thing is true, that is if a is greater than 18, then it prints this block of code. And if this is not true, then it prints this block of code. But it will never print both together. Either it will go into if or else. It will go into one of these two. Now you must be thinking what is this colon? And why have I given this space? Why can't we remove this space? Now see, as soon as I removed this space, I got to see an error here. This space is called indentation in Python. And modern IDEs, whether you use VS code, you use PyCharm, or you are using replit, if you type enter, then automatically this space will give you. This space is called indentation in Python. Indentation means that you are starting a block. If you are coming from C language, then you can understand something like this, we don't use curly brackets here. We just use spaces to tell here, by putting colon, that we have entered this block. Here, after if, we put colon, and after that we gave a space, that means we have entered this if. I will enter here, if I write print yes, then we are still in if. If I print no here, then we are still in else. Because we started in else. This is in else, this is in else. Now you guys comment and tell me, what is this else? Is this in else? Is this in else? No, it is not in else. So if the code in else is being evaluated, if this code is being executed, then also you guys will get this thing printed. Even if it is not being done, then also it will be printed. That means whether the code in else is being executed or not, it doesn't matter. This code will always be executed. I will show you. See, if age is greater than 18, let me take greater than 18 age. Suppose I take 48. So for age 48, will this be printed? Yes, it will be printed. Because it doesn't mean if or else. It is written outside. So see, the code in else is being printed. Sorry, the code in if is being printed. Because it is greater than 18. You can try and yes. And after that, see, this is also being printed. But if I take an age like this, suppose I take 8, which is less than 18 obviously, then if I run it, then see, no is also printed and this is also printed. But if I put this yes inside, of else statement, then you guys will see, that else has become a part now. Because I have given an indentation here. I won't call it space from now. Now remember, I will call it indentation. When I will call it indentation, you will understand what I am talking about. I have entered else block. I have entered else block. Okay. And because I have entered else block, so now if age is not greater than 18, then this will be printed. See, this is printed. But if I put age greater than 18, then this will not be printed. Now see, for 78, for 78 age, you see here, this is printed and this is not printed. Because this is now a part of else. Okay. The way we saw if else statement, similarly we have an else if statement also. Okay. We also have a nested if else. So I will talk about everything in this video for you guys. I have written everything, the same thing which I told you. That if evaluate is true, then it will go inside if, otherwise it will go inside else. I have written a simple thing. Okay. Now let's do one thing. Let's make a new file in Replicate. I was working with just one file till now. But now I will make files. I will make a file named if else. If else.py. So see, I have made a file named if else.py. Okay. I will copy it. I will paste it here and run it. Okay. So what is being said here? Apple's price is 200. Budget is 200. So in fact, I have run the main only. I will stop it. I want to run my if else file. Now actually, this template of Python, of Apple, in this, only main.py file is run. So what I will do is, here, one, one, I will do one thing. I want to open a console. Actually, I want to open a shell. And I will write here, python if else.py. Okay. If else.py. And Alexa, do not add apples to the cart. I can see it here. Why am I seeing this? I will show you. I will put this shell here. In the side. Now why am I seeing this? I want to tell you. See, the price of Apple was 210. Okay. And after this, see here, my budget is 200. I said, if the budget is smaller than price, then obviously, sorry, if the budget is bigger, then, If the budget is higher than the price, which is the price of the apple, which means I can buy it, then I am saying Alexa add 1 kg apples to the cart. Otherwise I am saying do not add. So here I have used if else. We have taken a very simple example here. So we will move ahead and now we will see about the elif statement. If I have to execute more than one statement based on certain condition. Suppose if my budget is 200 and price is 210. So this budget is very close. So I may not want to buy apples of 200 rupees. If apples are of 190, I will make them of 190. So I may not want to buy. So I will do one thing that if apple price is less than or equal to budget and along with that I want to check one more condition. Or I will say budget minus apple price. So basically what I am doing here. Budget minus apple price is greater than the money I have. Suppose I have 20,000 rupees and apple is of 190, then it does not matter. So if I have the remaining money, means this is the money which will be left after buying the apple. See this is my budget, the money in my pocket. Suppose I have 10 apples of 100 rupees. I will simplify it a little. I will take 10 apples and I have 200 rupees in my pocket. So 190 is left in my pocket. So if it is greater than as long as it is 50, I will buy the apples. But. Elif. But if budget minus apple price is greater than 20. If it is greater than 20 or greater than 70. Suppose. Then what I will do is, suppose I will print. It is okay you can buy. Suppose I am printing. Now if I run it. So you see it is 190 because in fact I will have to run it from shell. Like this. Python if else dot py. Add 1 kg apples to the. Cart. So what happened is that this condition came true. Okay. So it executed this. If this condition came false. So it would have checked this. And so on. Let me change the example and take a good example. Okay. So what I will do is. I will revert this if else dot py to my program. Okay. And I will copy it and take a good example of elif statements. Okay. So here. If else statements. Along with if else elif statements. This came. Okay. So I will copy it here. And I will make a program named elif dot py. Okay. So you can see here that a program named elif dot py is made. The value of num is 0. Let's do one thing. Let's take the value of num from the user. And enter the value. Enter the value of num. I did something like this. If num is less than 0 then the number is negative. If it is equal to 0 then it is positive. Otherwise. Sorry. If it is equal to 0 then it is 0. Otherwise it is positive. Okay. And if I run this. I will write python. Okay. And I will write elif dot py. And it will run. Enter the value of num. Suppose I did 7. Number is positive. I will run this program again. And suppose I write minus 8. Number is negative. And if I give 0. Then number is 0. It will print here. As you can see. How does this work? If else elif statements. First of all. If condition is checked. If it is true. Then only one of these three will be executed. Which is of if. If the condition of if is true then. But if this condition is not true. Then it will go to the condition of elif. So if it is true. Then it will run. Okay. So if it is true. Then it will run. Okay. And it will try to match it. If suppose there is one more elif here. Suppose if there is one more elif here. Then it will try to check it too. If num is equal to equal to. Suppose minus 999. Okay. Suppose it is 999. Or I will do plus 999. Because if it is 999. Then it will stop here. If 999 number is special. Suppose I do this. Else number is positive. Okay. Now let's run this. And see. If I do 999 then number is special. Okay. Let's run it. So how does it work basically? Now see here it starts with if. It will check the condition of if. If the condition of if is true then it will jump from here to here. Here. Let's say I write here I am happy now. So the program will be happy. It will say that I wanted to match a condition and I got it. And once its condition is matched then it is so greedy that it doesn't even look at other people. It is like this. Okay. If its work is done then it will not get from this or from this. It should have its work. First of all it will go to if. It will say if match the condition. If will say no I don't match. My condition is less than zero. You are triple nine so get out of here. Then it will say equal to equal to zero please match my condition. It will say no I am equal to equal to zero. You are triple nine. I can't match your condition. Then it will come here. It will say match the condition. Then this elif will say yes the condition is matching. What is the condition? Double equal to triple nine. And it is matching. Now because it is matching. So it won't go to else and if there is more elif below it then it won't go to them. It will jump directly here. And because it is jumping here. I am happy now. I will get to see. So here you see. First you will get to see the code inside this. And I am happy now. You will get to see this no matter what you execute. Enter the value of num. Number is positive I am happy now. Enter the value of number. Number is negative I am happy now. On triple nine. Number is special I am happy now. So I am happy now has no meaning from this if else ladder. Ok. It has no meaning from this if else ladder. So this if elif elif elif. I can put elif in any number of matches. And all of them will be checked till the condition matches. So this is how if else elif works. Ok. I hope you guys understood. Now after this I will make a program for you called nested. I will name it. nested.py I will rename it. I will fix the spelling of if. By the way, you should never make a program with the name of python's keyword or python's package. So I will name it. Myif.py Because if is a keyword in python. I don't want the keyword to clash. Or the name of any file to clash. There is a very classical error in python. What happens is that if you make a file with the name of module. Then it doesn't look in the module. It looks in your file. So error starts coming. So you should never work with any module. Like flask, django, flask.py Don't make a program with django.py I hope you guys understood. So I named it myif. Then I made ifelse and elif. I will make it better. I will name it 01 myif. I will rename it. Myelif. In fact this program and this program. I have. Let me rename it. 02 Just for your convenience. So that you get which program you want to run first. So I have made 1,2,3 programs. We will make a 04. And it will be named nested.py. Ok. I have made this program with the name nested.py. Now what I will do is. I will make you about nested ifelse statement. Nested ifelse statement is nothing. You have put an if in an if. And you can do this 10-50 times. Let me explain. See what we have written here. If the number is less than 0. Then it will execute this code. There is a line below this. If it is on this indent. On this level of indent. Now understand the concept of level of indent. This is one level of indent. Suppose the number is less than 0. Which is not. So it will go to elif. Is number greater than 0. Yes number is greater than 0. So it will go to elif. It will evaluate this. Then after this it will get ifelse ladder again. So if the number is less than equal to 18. No. Sorry. Is number greater than 10. Is number greater than 10 and less than equal to 20. Yes that is true. So it will go to this. So this is the second level of indent. One indent was of this elif. Now it is in the elif inside this elif. So in this way you have to evaluate your programs. So it will print this. Number is between 11 to 20. And after this it will not go to else. Then after this it will not go to this else either. This one was of this elif. And this one was of this elif. I hope you are understanding. Now I will run this program. And I will show you. 04 underscore nested 04 tab. By the way I can auto complete with tab. If you are not able to see. Then I will do one thing. I will bring myself here. I am here. Now you can see. In fact I will come up here. And now you can see. I have made this program. And see the number is between 11 to 20. It came here. I hope you are happy now. Now you understand. How does FL and elif work. In this way if someone says to me. That we did not understand what is the output. How does it work. I would like to say to you that you need to practice. And practice is necessary for every topic. Make some programs. Solve the upcoming exercises. And stay in the course. Watch it again. What is the problem. If you have to see it 10 times. That is going to be worth it. As long as you understand. It doesn't matter. You have seen it 10 times. You have seen it 20 times. You have seen it 100 times. It doesn't matter. Do whatever it takes. If you have successfully made a website. From Django backend. You have learned machine learning from python. You have become a job ready python developer. It doesn't matter. I hope you understand this. If you haven't accessed the playlist. Do access it. That's all for this video. Thank you so much for watching this video. I will see you next time. Bye."
+}

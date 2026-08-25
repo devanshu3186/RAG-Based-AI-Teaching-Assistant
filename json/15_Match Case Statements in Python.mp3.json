@@ -1,0 +1,1839 @@
+{
+    "chunks": [
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 0.0,
+            "end": 3.0,
+            "text": " If I want to know whether you are a modern Python developer or not"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 3.0,
+            "end": 6.0,
+            "text": " then I will ask you about the first match case statements."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 6.0,
+            "end": 9.0,
+            "text": " This is a new edition in Python which is 3.10 onwards"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 9.0,
+            "end": 13.0,
+            "text": " and match case statements make Python programming very strong."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 13.0,
+            "end": 15.0,
+            "text": " We will go to our computer screen and see"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 15.0,
+            "end": 20.0,
+            "text": " what is the match case feature that is brought to improve Python?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 20.0,
+            "end": 21.0,
+            "text": " How to use it?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 21.0,
+            "end": 23.0,
+            "text": " Let's get started."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 30.0,
+            "end": 35.0,
+            "text": " So I have come to my computer screen and I have made a rappel of match case"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 35.0,
+            "end": 36.0,
+            "text": " as you can see."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 36.0,
+            "end": 40.0,
+            "text": " Now match case is a new edition in Python 3.10"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 40.0,
+            "end": 41.0,
+            "text": " I want to tell you this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 41.0,
+            "end": 46.0,
+            "text": " So if you use Python's default rappel in replet as of now,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 46.0,
+            "end": 47.0,
+            "text": " as of recording this video,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 47.0,
+            "end": 50.0,
+            "text": " obviously it will be updated with time in Python's version in replet too."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 50.0,
+            "end": 54.0,
+            "text": " But if you see Python's version in any of your rappels,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 54.0,
+            "end": 57.0,
+            "text": " I will show you in my old rappel by running it in shell."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 57.0,
+            "end": 59.0,
+            "text": " I have run a program in day 13's rappel in shell."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 59.0,
+            "end": 60.0,
+            "text": " I have run a program in day 13's rappel in shell."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 60.0,
+            "end": 61.0,
+            "text": " I will show you by running it in shell."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 61.0,
+            "end": 65.0,
+            "text": " I will show you by writing only Python and you will know that it is using Python 3.8."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 65.0,
+            "end": 68.0,
+            "text": " But here we need Python 3.10."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 68.0,
+            "end": 69.0,
+            "text": " So what you have to do is,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 69.0,
+            "end": 74.0,
+            "text": " I am just showing you a demo rappel and I will make it outside."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 74.0,
+            "end": 76.0,
+            "text": " I will keep its name as Python demo."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " If you search Python 3.10,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " Python 3.10 should come."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " Come, here comes the coding cactus."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " This is using Python 3.10."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 86.0,
+            "end": 89.0,
+            "text": " I will write here Python 10"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 89.0,
+            "end": 91.0,
+            "text": " and here I will write demo."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 91.0,
+            "end": 93.0,
+            "text": " And I will make this rappel."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 93.0,
+            "end": 95.0,
+            "text": " So I will make this rappel public."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 95.0,
+            "end": 98.0,
+            "text": " Ok, I have clicked on create rappel."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 98.0,
+            "end": 101.0,
+            "text": " And now you see here,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 101.0,
+            "end": 105.0,
+            "text": " as soon as I made my rappel,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 105.0,
+            "end": 107.0,
+            "text": " I will run this program."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 107.0,
+            "end": 109.0,
+            "text": " There is a program written in it which will tell the version of Python."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 109.0,
+            "end": 112.0,
+            "text": " Similarly, I have made this match case day 16 program."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 112.0,
+            "end": 116.0,
+            "text": " If you are in VS code, then you don't need to worry about it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 116.0,
+            "end": 117.0,
+            "text": " Just I wanted to tell you."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 117.0,
+            "end": 118.0,
+            "text": " Now see, if I come here in shell,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 118.0,
+            "end": 122.0,
+            "text": " and write Python,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 122.0,
+            "end": 125.0,
+            "text": " then see, Python 3.8.12."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 125.0,
+            "end": 128.0,
+            "text": " Ok, Python 3.8.12 has come here."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 128.0,
+            "end": 130.0,
+            "text": " Ok, now what will happen is,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 130.0,
+            "end": 132.0,
+            "text": " I will close this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 132.0,
+            "end": 138.0,
+            "text": " Now in day 16, we are using Python 3.10."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 138.0,
+            "end": 139.0,
+            "text": " You can see here."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 139.0,
+            "end": 140.0,
+            "text": " But I don't want to write this program."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 140.0,
+            "end": 143.0,
+            "text": " I want to tell you something else through this video,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 143.0,
+            "end": 145.0,
+            "text": " which is match case statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 145.0,
+            "end": 146.0,
+            "text": " If you are coming from C, C++,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " or coming from a language like Java,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 148.0,
+            "end": 151.0,
+            "text": " then you will know that there are switch case statements in it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 151.0,
+            "end": 153.0,
+            "text": " Ok, what are switch case statements?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 153.0,
+            "end": 154.0,
+            "text": " Basically, nothing."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 154.0,
+            "end": 157.0,
+            "text": " Switch case statements means that you have a variable."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " Basically, you are matching that variable."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " That means, if the value of variable is 17,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 161.0,
+            "end": 162.0,
+            "text": " then what to do?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 162.0,
+            "end": 163.0,
+            "text": " If it is 18, then what to do?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 163.0,
+            "end": 165.0,
+            "text": " Suppose you have 4 cases."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 165.0,
+            "end": 166.0,
+            "text": " For example,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 166.0,
+            "end": 168.0,
+            "text": " you ask someone,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 168.0,
+            "end": 169.0,
+            "text": " do you want to vote?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 169.0,
+            "end": 171.0,
+            "text": " Ok, do you want to cast your vote?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 171.0,
+            "end": 172.0,
+            "text": " Now, there are two answers to this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 172.0,
+            "end": 173.0,
+            "text": " Either yes or no."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 173.0,
+            "end": 175.0,
+            "text": " If he is casting his vote,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 175.0,
+            "end": 176.0,
+            "text": " then you will ask him,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 176.0,
+            "end": 177.0,
+            "text": " who do you want to vote?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 177.0,
+            "end": 178.0,
+            "text": " He will say,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 178.0,
+            "end": 180.0,
+            "text": " I want to vote for option 1, option 2, option 3, option 4."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 180.0,
+            "end": 181.0,
+            "text": " Option 5 is not there."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 181.0,
+            "end": 186.0,
+            "text": " So, we work according to the option he chooses from these four."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 186.0,
+            "end": 189.0,
+            "text": " So, I will show you the example program very quickly."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 189.0,
+            "end": 191.0,
+            "text": " You will understand everything."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 191.0,
+            "end": 194.0,
+            "text": " Because I don't want to read out all these things."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 194.0,
+            "end": 196.0,
+            "text": " First, I want to show you the program."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 196.0,
+            "end": 197.0,
+            "text": " So that you will know exactly."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 197.0,
+            "end": 199.0,
+            "text": " Then, all the things will be clear."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 199.0,
+            "end": 200.0,
+            "text": " So, here you see,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 200.0,
+            "end": 201.0,
+            "text": " x is equal to 4."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 201.0,
+            "end": 203.0,
+            "text": " x is a variable which I want to match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 203.0,
+            "end": 204.0,
+            "text": " I said match x."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 204.0,
+            "end": 205.0,
+            "text": " If x is 0,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 205.0,
+            "end": 206.0,
+            "text": " if case is 0,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 206.0,
+            "end": 207.0,
+            "text": " then print this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 207.0,
+            "end": 208.0,
+            "text": " If case is 4,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 208.0,
+            "end": 210.0,
+            "text": " now I will keep it simplified."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 210.0,
+            "end": 211.0,
+            "text": " If case is 4,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 211.0,
+            "end": 212.0,
+            "text": " then print this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 212.0,
+            "end": 213.0,
+            "text": " Case is 4."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 213.0,
+            "end": 214.0,
+            "text": " I am making the program a little simple."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 214.0,
+            "end": 218.0,
+            "text": " And if underscore is used for default case,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 218.0,
+            "end": 219.0,
+            "text": " then we will do this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 219.0,
+            "end": 220.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " I will erase this here."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 222.0,
+            "end": 223.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 223.0,
+            "end": 224.0,
+            "text": " I will erase this like this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 224.0,
+            "end": 225.0,
+            "text": " I will keep one default case."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 225.0,
+            "end": 226.0,
+            "text": " And you see,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 226.0,
+            "end": 227.0,
+            "text": " as soon as I run this program,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 227.0,
+            "end": 229.0,
+            "text": " because x is 4,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 229.0,
+            "end": 231.0,
+            "text": " here will come case is 4."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 231.0,
+            "end": 232.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 232.0,
+            "end": 233.0,
+            "text": " Now I will do one thing."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 233.0,
+            "end": 234.0,
+            "text": " I will write int input here."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 234.0,
+            "end": 235.0,
+            "text": " And I will write here,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 235.0,
+            "end": 237.0,
+            "text": " enter the value of x."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 237.0,
+            "end": 238.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 238.0,
+            "end": 239.0,
+            "text": " I will run it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 239.0,
+            "end": 240.0,
+            "text": " And you see,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 240.0,
+            "end": 241.0,
+            "text": " you will be asked,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 241.0,
+            "end": 242.0,
+            "text": " enter the value of x."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 242.0,
+            "end": 243.0,
+            "text": " Suppose you wrote 5."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 243.0,
+            "end": 244.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 244.0,
+            "end": 245.0,
+            "text": " What I will do next is,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 245.0,
+            "end": 246.0,
+            "text": " yes,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 246.0,
+            "end": 247.0,
+            "text": " I will write 5."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 247.0,
+            "end": 249.0,
+            "text": " So, this will go to default case."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 249.0,
+            "end": 250.0,
+            "text": " In fact,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 250.0,
+            "end": 251.0,
+            "text": " it has printed 5."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 251.0,
+            "end": 252.0,
+            "text": " Because in default case,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 252.0,
+            "end": 254.0,
+            "text": " we are printing the value of x basically."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 254.0,
+            "end": 257.0,
+            "text": " Now if I run this and make value 0."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 257.0,
+            "end": 258.0,
+            "text": " 0."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 258.0,
+            "end": 259.0,
+            "text": " Yes."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 259.0,
+            "end": 260.0,
+            "text": " Then what will happen?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 260.0,
+            "end": 261.0,
+            "text": " x is 0."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 261.0,
+            "end": 262.0,
+            "text": " This case is matched."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 262.0,
+            "end": 264.0,
+            "text": " So, this way we can match cases."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 264.0,
+            "end": 265.0,
+            "text": " There is one catch."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " I will talk about it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 267.0,
+            "end": 268.0,
+            "text": " The catch is that"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 268.0,
+            "end": 270.0,
+            "text": " if you are coming from language like C, C++."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " If you are coming from language like C, C++,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 272.0,
+            "end": 274.0,
+            "text": " then you should know that"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 274.0,
+            "end": 276.0,
+            "text": " there is break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 276.0,
+            "end": 277.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 277.0,
+            "end": 279.0,
+            "text": " And if you have matched any case in that case,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 279.0,
+            "end": 282.0,
+            "text": " then you have to put break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 282.0,
+            "end": 283.0,
+            "text": " If you are coming from C, C++,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 283.0,
+            "end": 284.0,
+            "text": " then I will tell you."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 284.0,
+            "end": 285.0,
+            "text": " You will understand about this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 285.0,
+            "end": 286.0,
+            "text": " And if you are not coming,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 286.0,
+            "end": 287.0,
+            "text": " then there is no tension."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 287.0,
+            "end": 288.0,
+            "text": " If your Python is the first language,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 288.0,
+            "end": 289.0,
+            "text": " which is also there for most of the people."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 289.0,
+            "end": 290.0,
+            "text": " By any chance,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 290.0,
+            "end": 292.0,
+            "text": " you have done C, C, C++, C,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 292.0,
+            "end": 293.0,
+            "text": " then you should keep in mind that"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 293.0,
+            "end": 294.0,
+            "text": " here you should not use break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 294.0,
+            "end": 296.0,
+            "text": " There you should not use break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 296.0,
+            "end": 298.0,
+            "text": " There you should not use break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " That means, if there are 4 cases,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 300.0,
+            "end": 302.0,
+            "text": " case 1, case 2, case 3, case 4."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 302.0,
+            "end": 303.0,
+            "text": " If case 3 is matching,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " then case 4 will also match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " The code inside case 4 will also be run."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " If you have put break in case 3,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 309.0,
+            "end": 310.0,
+            "text": " then it will not happen."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 310.0,
+            "end": 311.0,
+            "text": " There is nothing like this in Python."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 311.0,
+            "end": 313.0,
+            "text": " The code of the case which matches will be run."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 313.0,
+            "end": 315.0,
+            "text": " So, the code of the case which matches will be run."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 315.0,
+            "end": 317.0,
+            "text": " You should know this thing."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 317.0,
+            "end": 320.0,
+            "text": " Now, here I will tell you some miscellaneous things"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " which you should know."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 322.0,
+            "end": 323.0,
+            "text": " So, here I have written"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 323.0,
+            "end": 325.0,
+            "text": " to implement switch case like characteristics"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 325.0,
+            "end": 326.0,
+            "text": " very similar to if else functionality,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 326.0,
+            "end": 327.0,
+            "text": " we use match case in Python."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 327.0,
+            "end": 329.0,
+            "text": " If you are coming from C, C++ or Java like language,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 329.0,
+            "end": 331.0,
+            "text": " you must have heard about this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 331.0,
+            "end": 332.0,
+            "text": " If this is your first language,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 332.0,
+            "end": 333.0,
+            "text": " then we will talk about this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 333.0,
+            "end": 334.0,
+            "text": " I have written this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 334.0,
+            "end": 337.0,
+            "text": " Match statement will compare a given variable's value"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 337.0,
+            "end": 338.0,
+            "text": " to different shapes."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 338.0,
+            "end": 341.0,
+            "text": " Also referred to as pattern."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 341.0,
+            "end": 343.0,
+            "text": " The main idea is to comparing a variable"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 343.0,
+            "end": 344.0,
+            "text": " with all the patterns."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 344.0,
+            "end": 345.0,
+            "text": " So, these are all our patterns."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 345.0,
+            "end": 347.0,
+            "text": " 0, 4 and underscore default."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 347.0,
+            "end": 349.0,
+            "text": " Now, what happens here is"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 349.0,
+            "end": 351.0,
+            "text": " that you can use if else also."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 351.0,
+            "end": 353.0,
+            "text": " Like I have written default case here."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 353.0,
+            "end": 355.0,
+            "text": " You can take 4 cases of if else."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 355.0,
+            "end": 356.0,
+            "text": " Or I will take 3 cases."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 356.0,
+            "end": 361.0,
+            "text": " I will write here that if x is not equal to 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 361.0,
+            "end": 363.0,
+            "text": " If x is not equal to 90,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 363.0,
+            "end": 365.0,
+            "text": " then you have to print x"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " and write here is not 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 367.0,
+            "end": 370.0,
+            "text": " I will write here is not 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 370.0,
+            "end": 373.0,
+            "text": " And here I will do the same thing"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 373.0,
+            "end": 375.0,
+            "text": " with is not 80."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 375.0,
+            "end": 379.0,
+            "text": " And here I will write if x is not equal to 80."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 379.0,
+            "end": 382.0,
+            "text": " And then I will do it by default."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 382.0,
+            "end": 384.0,
+            "text": " Now, I will run this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 384.0,
+            "end": 386.0,
+            "text": " And I will write here is not 56."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 386.0,
+            "end": 388.0,
+            "text": " And I will enter."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 388.0,
+            "end": 390.0,
+            "text": " So, you see here is not 96."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 390.0,
+            "end": 391.0,
+            "text": " Because if this case matches,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 391.0,
+            "end": 393.0,
+            "text": " then the cases below it will not match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 393.0,
+            "end": 394.0,
+            "text": " Once a case matches,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 394.0,
+            "end": 396.0,
+            "text": " then it gets satisfied."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 396.0,
+            "end": 397.0,
+            "text": " Same here you see."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 397.0,
+            "end": 398.0,
+            "text": " If x is not equal to 80."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 398.0,
+            "end": 400.0,
+            "text": " Suppose x is 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 400.0,
+            "end": 401.0,
+            "text": " I have done 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 401.0,
+            "end": 402.0,
+            "text": " So, the obvious thing is"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 402.0,
+            "end": 403.0,
+            "text": " this thing will not match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 403.0,
+            "end": 404.0,
+            "text": " The 80 one will match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 404.0,
+            "end": 406.0,
+            "text": " I have done 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 406.0,
+            "end": 407.0,
+            "text": " 90 is not 80."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 407.0,
+            "end": 408.0,
+            "text": " It is written here is 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 408.0,
+            "end": 409.0,
+            "text": " This is printed is not 80."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 409.0,
+            "end": 411.0,
+            "text": " This line is basically printed."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 411.0,
+            "end": 413.0,
+            "text": " Remember, the Rappel you are making"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 413.0,
+            "end": 415.0,
+            "text": " should be of Python 3.10."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 415.0,
+            "end": 416.0,
+            "text": " And in future, it will be updated."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 416.0,
+            "end": 418.0,
+            "text": " The Rapplet by default"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 418.0,
+            "end": 421.0,
+            "text": " Python template will be updated"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 421.0,
+            "end": 422.0,
+            "text": " to Python 3.10."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 422.0,
+            "end": 423.0,
+            "text": " But till then,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 423.0,
+            "end": 425.0,
+            "text": " you have to use this template"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 425.0,
+            "end": 426.0,
+            "text": " as I have told."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 426.0,
+            "end": 428.0,
+            "text": " In case you are using Rapplet,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 428.0,
+            "end": 430.0,
+            "text": " then this thing is not applicable for VSCode."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 430.0,
+            "end": 431.0,
+            "text": " I am telling you again."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 431.0,
+            "end": 432.0,
+            "text": " If you have downloaded"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 432.0,
+            "end": 433.0,
+            "text": " Python 3.10,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 433.0,
+            "end": 435.0,
+            "text": " then if your old Python is installed,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 435.0,
+            "end": 436.0,
+            "text": " then you have to update Python."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 436.0,
+            "end": 438.0,
+            "text": " I will tell you that too."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 438.0,
+            "end": 439.0,
+            "text": " Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 439.0,
+            "end": 440.0,
+            "text": " I hope you are understanding"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 440.0,
+            "end": 441.0,
+            "text": " all these things."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 441.0,
+            "end": 442.0,
+            "text": " By default,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 442.0,
+            "end": 443.0,
+            "text": " you can run this program"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 443.0,
+            "end": 444.0,
+            "text": " if you want."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 444.0,
+            "end": 445.0,
+            "text": " And you will get to see"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 445.0,
+            "end": 447.0,
+            "text": " this thing in this too."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 447.0,
+            "end": 448.0,
+            "text": " Now, see here,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 448.0,
+            "end": 449.0,
+            "text": " default case will only be matched"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 449.0,
+            "end": 451.0,
+            "text": " if the above cases were not matched."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 451.0,
+            "end": 452.0,
+            "text": " If no case is matched,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 452.0,
+            "end": 453.0,
+            "text": " then the default case will be matched."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 453.0,
+            "end": 455.0,
+            "text": " This is a kind of else."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 455.0,
+            "end": 456.0,
+            "text": " You have read the if-else."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 456.0,
+            "end": 458.0,
+            "text": " You can understand this as a kind of else."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 458.0,
+            "end": 460.0,
+            "text": " So, I hope you have understood"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 460.0,
+            "end": 461.0,
+            "text": " these things"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 461.0,
+            "end": 462.0,
+            "text": " and you are clear about these things."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 462.0,
+            "end": 464.0,
+            "text": " That's all for now in this video."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 464.0,
+            "end": 466.0,
+            "text": " If you have not accessed the playlist yet,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 466.0,
+            "end": 467.0,
+            "text": " then do access it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 467.0,
+            "end": 468.0,
+            "text": " Thank you so much guys"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 468.0,
+            "end": 469.0,
+            "text": " for watching this video."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 469.0,
+            "end": 470.0,
+            "text": " And I will see you"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 470.0,
+            "end": 471.0,
+            "text": " next time."
+        }
+    ],
+    "text": " If I want to know whether you are a modern Python developer or not then I will ask you about the first match case statements. This is a new edition in Python which is 3.10 onwards and match case statements make Python programming very strong. We will go to our computer screen and see what is the match case feature that is brought to improve Python? How to use it? Let's get started. So I have come to my computer screen and I have made a rappel of match case as you can see. Now match case is a new edition in Python 3.10 I want to tell you this. So if you use Python's default rappel in replet as of now, as of recording this video, obviously it will be updated with time in Python's version in replet too. But if you see Python's version in any of your rappels, I will show you in my old rappel by running it in shell. I have run a program in day 13's rappel in shell. I have run a program in day 13's rappel in shell. I will show you by running it in shell. I will show you by writing only Python and you will know that it is using Python 3.8. But here we need Python 3.10. So what you have to do is, I am just showing you a demo rappel and I will make it outside. I will keep its name as Python demo. If you search Python 3.10, Python 3.10 should come. Come, here comes the coding cactus. This is using Python 3.10. I will write here Python 10 and here I will write demo. And I will make this rappel. So I will make this rappel public. Ok, I have clicked on create rappel. And now you see here, as soon as I made my rappel, I will run this program. There is a program written in it which will tell the version of Python. Similarly, I have made this match case day 16 program. If you are in VS code, then you don't need to worry about it. Just I wanted to tell you. Now see, if I come here in shell, and write Python, then see, Python 3.8.12. Ok, Python 3.8.12 has come here. Ok, now what will happen is, I will close this. Now in day 16, we are using Python 3.10. You can see here. But I don't want to write this program. I want to tell you something else through this video, which is match case statement. If you are coming from C, C++, or coming from a language like Java, then you will know that there are switch case statements in it. Ok, what are switch case statements? Basically, nothing. Switch case statements means that you have a variable. Basically, you are matching that variable. That means, if the value of variable is 17, then what to do? If it is 18, then what to do? Suppose you have 4 cases. For example, you ask someone, do you want to vote? Ok, do you want to cast your vote? Now, there are two answers to this. Either yes or no. If he is casting his vote, then you will ask him, who do you want to vote? He will say, I want to vote for option 1, option 2, option 3, option 4. Option 5 is not there. So, we work according to the option he chooses from these four. So, I will show you the example program very quickly. You will understand everything. Because I don't want to read out all these things. First, I want to show you the program. So that you will know exactly. Then, all the things will be clear. So, here you see, x is equal to 4. x is a variable which I want to match. I said match x. If x is 0, if case is 0, then print this. If case is 4, now I will keep it simplified. If case is 4, then print this. Case is 4. I am making the program a little simple. And if underscore is used for default case, then we will do this. Ok. I will erase this here. Ok. I will erase this like this. I will keep one default case. And you see, as soon as I run this program, because x is 4, here will come case is 4. Ok. Now I will do one thing. I will write int input here. And I will write here, enter the value of x. Ok. I will run it. And you see, you will be asked, enter the value of x. Suppose you wrote 5. Ok. What I will do next is, yes, I will write 5. So, this will go to default case. In fact, it has printed 5. Because in default case, we are printing the value of x basically. Now if I run this and make value 0. 0. Yes. Then what will happen? x is 0. This case is matched. So, this way we can match cases. There is one catch. I will talk about it. The catch is that if you are coming from language like C, C++. If you are coming from language like C, C++, then you should know that there is break statement. Ok. And if you have matched any case in that case, then you have to put break statement. If you are coming from C, C++, then I will tell you. You will understand about this. And if you are not coming, then there is no tension. If your Python is the first language, which is also there for most of the people. By any chance, you have done C, C, C++, C, then you should keep in mind that here you should not use break statement. There you should not use break statement. There you should not use break statement. That means, if there are 4 cases, case 1, case 2, case 3, case 4. If case 3 is matching, then case 4 will also match. The code inside case 4 will also be run. If you have put break in case 3, then it will not happen. There is nothing like this in Python. The code of the case which matches will be run. So, the code of the case which matches will be run. You should know this thing. Now, here I will tell you some miscellaneous things which you should know. So, here I have written to implement switch case like characteristics very similar to if else functionality, we use match case in Python. If you are coming from C, C++ or Java like language, you must have heard about this. If this is your first language, then we will talk about this. I have written this. Match statement will compare a given variable's value to different shapes. Also referred to as pattern. The main idea is to comparing a variable with all the patterns. So, these are all our patterns. 0, 4 and underscore default. Now, what happens here is that you can use if else also. Like I have written default case here. You can take 4 cases of if else. Or I will take 3 cases. I will write here that if x is not equal to 90. If x is not equal to 90, then you have to print x and write here is not 90. I will write here is not 90. And here I will do the same thing with is not 80. And here I will write if x is not equal to 80. And then I will do it by default. Now, I will run this. And I will write here is not 56. And I will enter. So, you see here is not 96. Because if this case matches, then the cases below it will not match. Once a case matches, then it gets satisfied. Same here you see. If x is not equal to 80. Suppose x is 90. I have done 90. So, the obvious thing is this thing will not match. The 80 one will match. I have done 90. 90 is not 80. It is written here is 90. This is printed is not 80. This line is basically printed. Remember, the Rappel you are making should be of Python 3.10. And in future, it will be updated. The Rapplet by default Python template will be updated to Python 3.10. But till then, you have to use this template as I have told. In case you are using Rapplet, then this thing is not applicable for VSCode. I am telling you again. If you have downloaded Python 3.10, then if your old Python is installed, then you have to update Python. I will tell you that too. Ok. I hope you are understanding all these things. By default, you can run this program if you want. And you will get to see this thing in this too. Now, see here, default case will only be matched if the above cases were not matched. If no case is matched, then the default case will be matched. This is a kind of else. You have read the if-else. You can understand this as a kind of else. So, I hope you have understood these things and you are clear about these things. That's all for now in this video. If you have not accessed the playlist yet, then do access it. Thank you so much guys for watching this video. And I will see you next time."
+}

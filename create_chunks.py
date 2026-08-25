@@ -23,7 +23,7 @@ for audio in audios:
         for segment in result["segments"]:
             chunks.append(
                 {"number":number,
-                 "title":title,
+                "title":title,
                 "start":segment["start"], 
                 "end":segment["end"], 
                 "text":segment["text"]

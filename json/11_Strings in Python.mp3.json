@@ -1,0 +1,3372 @@
+{
+    "chunks": [
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 0.0,
+            "end": 2.5,
+            "text": " You are back in 100 days of code"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 2.5,
+            "end": 4.2,
+            "text": " and I am also busy"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 4.2,
+            "end": 6.7,
+            "text": " and today I will tell you about strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 6.7,
+            "end": 8.700000000000001,
+            "text": " we have read a lot about strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 8.700000000000001,
+            "end": 11.0,
+            "text": " we have seen that it is a very special data type"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 11.0,
+            "end": 13.700000000000001,
+            "text": " we can write our name, write a poem or anything"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 13.700000000000001,
+            "end": 16.5,
+            "text": " we can close it in double quotes and write the string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 16.5,
+            "end": 18.2,
+            "text": " we have learnt this so far"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 18.2,
+            "end": 21.2,
+            "text": " in today's video I will tell you about strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 21.2,
+            "end": 25.0,
+            "text": " and I will show you what are the other ways to make strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " so without any delay let's go to the computer screen"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 28.0,
+            "end": 29.2,
+            "text": " let's get started"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 30.0,
+            "end": 38.7,
+            "text": " music"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 38.7,
+            "end": 41.7,
+            "text": " so I have come here in my computer screen"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 41.7,
+            "end": 43.7,
+            "text": " and now we will do something"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 43.7,
+            "end": 46.7,
+            "text": " we will open our rapplet quickly"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 46.7,
+            "end": 50.7,
+            "text": " so first of all I will open my rappels"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 50.7,
+            "end": 52.7,
+            "text": " and after going to my 0 to 0 python codes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 52.7,
+            "end": 55.7,
+            "text": " I will open our today's rappel"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 55.7,
+            "end": 57.7,
+            "text": " before that I would like to tell you something"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 57.7,
+            "end": 59.7,
+            "text": " many people are mentioning me on Instagram"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 59.7,
+            "end": 64.4,
+            "text": " on 100 days of code challenge"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 64.4,
+            "end": 66.4,
+            "text": " I am re-mentioning everyone"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 66.4,
+            "end": 68.4,
+            "text": " I just want to tell you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 68.4,
+            "end": 70.4,
+            "text": " in case you want to join me on insta"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 70.4,
+            "end": 72.4,
+            "text": " you can join and tag me daily"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 72.4,
+            "end": 74.4,
+            "text": " day 5, day 6, day 7"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 74.4,
+            "end": 76.4,
+            "text": " it is fun and my energy increases"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 76.4,
+            "end": 80.4,
+            "text": " today I will quickly tell you about strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 80.4,
+            "end": 83.4,
+            "text": " and today we will get to know about strings closely"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 83.4,
+            "end": 85.4,
+            "text": " we have read about strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 85.4,
+            "end": 88.4,
+            "text": " we have seen that string is a very interesting data type"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 88.4,
+            "end": 91.4,
+            "text": " but we will understand what exactly string is"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 91.4,
+            "end": 92.4,
+            "text": " so what happens is that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 92.4,
+            "end": 94.4,
+            "text": " if you close anything in python in double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 94.4,
+            "end": 96.4,
+            "text": " it becomes a string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 96.4,
+            "end": 98.4,
+            "text": " for example if I write here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 98.4,
+            "end": 100.4,
+            "text": " name is equal to harry in double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 100.4,
+            "end": 104.4,
+            "text": " so this is a string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 104.4,
+            "end": 105.4,
+            "text": " then let me write here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 105.4,
+            "end": 107.4,
+            "text": " friend is equal to Rohan"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 107.4,
+            "end": 109.4,
+            "text": " so this is another string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 109.4,
+            "end": 110.4,
+            "text": " if I write here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 110.4,
+            "end": 113.4,
+            "text": " another friend is equal to lovish"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 113.4,
+            "end": 115.4,
+            "text": " so this is another string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 115.4,
+            "end": 117.4,
+            "text": " now I will write lovish in single quotes also"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 117.4,
+            "end": 118.4,
+            "text": " like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 118.4,
+            "end": 119.4,
+            "text": " so I can make it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 119.4,
+            "end": 120.4,
+            "text": " so here double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 120.4,
+            "end": 121.4,
+            "text": " here single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 121.4,
+            "end": 126.4,
+            "text": " and we can make string with double quotes and single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 126.4,
+            "end": 127.4,
+            "text": " so I have written here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 127.4,
+            "end": 131.4,
+            "text": " in python anything that you enclose between single and double quotation marks is considered as string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 131.4,
+            "end": 136.4,
+            "text": " a string is essentially a sequence of array of textual data"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 136.4,
+            "end": 139.4,
+            "text": " strings are used when working with unicode characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 139.4,
+            "end": 141.4,
+            "text": " so this is very important"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 141.4,
+            "end": 143.4,
+            "text": " and here I have given an example"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 143.4,
+            "end": 146.4,
+            "text": " which you can copy and paste and run"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 146.4,
+            "end": 147.4,
+            "text": " if name is equal to harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 147.4,
+            "end": 149.4,
+            "text": " which I have already made"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 149.4,
+            "end": 151.4,
+            "text": " and after this I will run this code"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 151.4,
+            "end": 152.4,
+            "text": " so here it is simple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 152.4,
+            "end": 153.4,
+            "text": " hello harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 153.4,
+            "end": 155.4,
+            "text": " I will get to see its output"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 155.4,
+            "end": 156.4,
+            "text": " but here you see"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 156.4,
+            "end": 159.4,
+            "text": " it does not matter whether you enclose your string in single or double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 159.4,
+            "end": 162.4,
+            "text": " output remains exactly same"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 162.4,
+            "end": 168.4,
+            "text": " sometimes user has to make double quotation marks part of string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 168.4,
+            "end": 169.4,
+            "text": " now I will give you an example"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 169.4,
+            "end": 170.4,
+            "text": " if someone told you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 170.4,
+            "end": 173.4,
+            "text": " print this thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 173.4,
+            "end": 174.4,
+            "text": " if someone told you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 174.4,
+            "end": 176.4,
+            "text": " he said I want to eat an apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 176.4,
+            "end": 178.4,
+            "text": " print this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 178.4,
+            "end": 180.4,
+            "text": " I will make a string inside this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 180.4,
+            "end": 182.4,
+            "text": " you will say yes it is fine"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 182.4,
+            "end": 185.4,
+            "text": " if I make an apple string inside this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 185.4,
+            "end": 188.4,
+            "text": " and I will write in double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 188.4,
+            "end": 189.4,
+            "text": " he wants to"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 189.4,
+            "end": 191.4,
+            "text": " whatever it is I will copy it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 191.4,
+            "end": 194.4,
+            "text": " why I am so tensed in it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 194.4,
+            "end": 195.4,
+            "text": " I will copy it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 195.4,
+            "end": 197.4,
+            "text": " and here I will paste"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 197.4,
+            "end": 199.4,
+            "text": " and I will run this and show you what happens"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 199.4,
+            "end": 202.4,
+            "text": " I will think that it will print exactly literally"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 202.4,
+            "end": 203.4,
+            "text": " but here is an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 203.4,
+            "end": 204.4,
+            "text": " what is error saying"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 204.4,
+            "end": 205.4,
+            "text": " error is basically saying that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 205.4,
+            "end": 207.4,
+            "text": " you cannot put double quotes inside double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 207.4,
+            "end": 209.4,
+            "text": " so we had read escape sequence characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 209.4,
+            "end": 210.4,
+            "text": " here we will use that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 210.4,
+            "end": 212.4,
+            "text": " by doing backslash double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 212.4,
+            "end": 213.4,
+            "text": " we will do our work 36"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 213.4,
+            "end": 214.4,
+            "text": " otherwise what we will do"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 214.4,
+            "end": 217.4,
+            "text": " if we do not do backslash double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 217.4,
+            "end": 220.4,
+            "text": " let me show you by printing apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 220.4,
+            "end": 223.4,
+            "text": " if we do not want to do our work 36"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 223.4,
+            "end": 225.4,
+            "text": " by doing backslash double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 225.4,
+            "end": 227.4,
+            "text": " then what we can do"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 227.4,
+            "end": 229.4,
+            "text": " we can enclose string in single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 229.4,
+            "end": 230.4,
+            "text": " something like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 230.4,
+            "end": 231.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 231.4,
+            "end": 232.4,
+            "text": " something like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 232.4,
+            "end": 234.4,
+            "text": " we can enclose in single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 234.4,
+            "end": 235.4,
+            "text": " we can enclose our string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 235.4,
+            "end": 237.4,
+            "text": " and this will also work"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 237.4,
+            "end": 239.4,
+            "text": " ok now I will tell you about multi-line strings"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 239.4,
+            "end": 241.4,
+            "text": " suppose I want my string to have multiple lines"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 241.4,
+            "end": 244.4,
+            "text": " like if I want to make this kind of string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 244.4,
+            "end": 246.4,
+            "text": " hey I am good"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 246.4,
+            "end": 248.4,
+            "text": " I am showing multiple lines"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 248.4,
+            "end": 252.4,
+            "text": " suppose I am showing someone's chat here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 252.4,
+            "end": 253.4,
+            "text": " he said hi harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 253.4,
+            "end": 254.4,
+            "text": " hey I am good"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 254.4,
+            "end": 255.4,
+            "text": " I want to eat an apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 255.4,
+            "end": 257.4,
+            "text": " here is an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 257.4,
+            "end": 258.4,
+            "text": " he is saying that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 258.4,
+            "end": 260.4,
+            "text": " EOL while scanning string literal"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 260.4,
+            "end": 262.4,
+            "text": " so whenever python scans string literal"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 262.4,
+            "end": 263.4,
+            "text": " so basically what it does is"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 263.4,
+            "end": 266.4,
+            "text": " python will see"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 266.4,
+            "end": 268.4,
+            "text": " that here the string started"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 268.4,
+            "end": 270.4,
+            "text": " and it will find in this line"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 270.4,
+            "end": 272.4,
+            "text": " that where is this character enclosing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 272.4,
+            "end": 274.4,
+            "text": " and if it does not find then it will throw an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 274.4,
+            "end": 275.4,
+            "text": " and this is what is being said here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 275.4,
+            "end": 276.4,
+            "text": " that EOL"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 276.4,
+            "end": 279.4,
+            "text": " is coming end of line while scanning string literal"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 279.4,
+            "end": 280.4,
+            "text": " python is saying basically"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 280.4,
+            "end": 282.4,
+            "text": " I was scanning string literal"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 282.4,
+            "end": 284.4,
+            "text": " I wanted your string literal to be finished"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 284.4,
+            "end": 286.4,
+            "text": " but I could not see it anywhere"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 286.4,
+            "end": 288.4,
+            "text": " and your string literal was finished"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 288.4,
+            "end": 290.4,
+            "text": " so we solve this problem"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 290.4,
+            "end": 292.4,
+            "text": " by triple single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 292.4,
+            "end": 293.4,
+            "text": " or triple double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 293.4,
+            "end": 295.4,
+            "text": " so whenever we apply triple single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 295.4,
+            "end": 296.4,
+            "text": " like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 296.4,
+            "end": 298.4,
+            "text": " and here we finish triple single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 298.4,
+            "end": 300.4,
+            "text": " so in triple single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 300.4,
+            "end": 302.4,
+            "text": " or in triple double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 302.4,
+            "end": 303.4,
+            "text": " if you enclose anything"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 303.4,
+            "end": 304.4,
+            "text": " then it becomes a string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 304.4,
+            "end": 306.4,
+            "text": " so if I run this now"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 306.4,
+            "end": 308.4,
+            "text": " then you will see here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 308.4,
+            "end": 309.4,
+            "text": " hello harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 309.4,
+            "end": 310.4,
+            "text": " he said hi harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 310.4,
+            "end": 311.4,
+            "text": " hey I am good"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 311.4,
+            "end": 312.4,
+            "text": " means whatever string is there"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 312.4,
+            "end": 313.4,
+            "text": " you will see it printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 313.4,
+            "end": 315.4,
+            "text": " simple thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 315.4,
+            "end": 316.4,
+            "text": " now why is this useful"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 316.4,
+            "end": 318.4,
+            "text": " because sometimes we have to write something like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 318.4,
+            "end": 321.4,
+            "text": " suppose I copy and paste this whole thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 321.4,
+            "end": 322.4,
+            "text": " in print"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 322.4,
+            "end": 323.4,
+            "text": " suppose I say"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 323.4,
+            "end": 324.4,
+            "text": " st is equal to"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 324.4,
+            "end": 325.4,
+            "text": " this whole string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 325.4,
+            "end": 327.4,
+            "text": " so I can make st by applying triple double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 327.4,
+            "end": 328.4,
+            "text": " or triple single quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 328.4,
+            "end": 329.4,
+            "text": " and if I print st"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 329.4,
+            "end": 330.4,
+            "text": " then I will not get any error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 330.4,
+            "end": 331.4,
+            "text": " whatever I have copied and pasted"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 331.4,
+            "end": 332.4,
+            "text": " in that if there is a new line"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 332.4,
+            "end": 333.4,
+            "text": " or anything"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 333.4,
+            "end": 334.4,
+            "text": " that will handle everything"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 334.4,
+            "end": 335.4,
+            "text": " double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 335.4,
+            "end": 336.4,
+            "text": " then it becomes very convenient"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 336.4,
+            "end": 337.4,
+            "text": " now I will erase it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 337.4,
+            "end": 338.4,
+            "text": " a little bit"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 338.4,
+            "end": 339.4,
+            "text": " you can do this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 339.4,
+            "end": 340.4,
+            "text": " and see"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 340.4,
+            "end": 341.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 341.4,
+            "end": 342.4,
+            "text": " so the string I made"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 342.4,
+            "end": 343.4,
+            "text": " st is erased"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 343.4,
+            "end": 344.4,
+            "text": " it will be printed literally"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 344.4,
+            "end": 345.4,
+            "text": " if you use triple double quotes"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 345.4,
+            "end": 346.4,
+            "text": " so I made it like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 346.4,
+            "end": 347.4,
+            "text": " so I will make it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 347.4,
+            "end": 348.4,
+            "text": " like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 348.4,
+            "end": 349.4,
+            "text": " so I will make it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 349.4,
+            "end": 350.4,
+            "text": " like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 350.4,
+            "end": 351.4,
+            "text": " so this is how"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 351.4,
+            "end": 353.4,
+            "text": " a multi line string can be made"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 353.4,
+            "end": 354.4,
+            "text": " now we have made a string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 354.4,
+            "end": 355.4,
+            "text": " called apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 355.4,
+            "end": 356.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 356.4,
+            "end": 357.4,
+            "text": " now let's do one thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 357.4,
+            "end": 358.4,
+            "text": " let's work on the string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 358.4,
+            "end": 359.4,
+            "text": " named name"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 359.4,
+            "end": 362.4,
+            "text": " if I remove this print apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 362.4,
+            "end": 364.4,
+            "text": " and write something like this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 364.4,
+            "end": 366.4,
+            "text": " and let this be hello harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 366.4,
+            "end": 368.4,
+            "text": " if I put a for loop here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 368.4,
+            "end": 370.4,
+            "text": " or before that I want to tell you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 370.4,
+            "end": 371.4,
+            "text": " about indexing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 371.4,
+            "end": 373.4,
+            "text": " if I write name 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 373.4,
+            "end": 374.4,
+            "text": " then what will happen"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 374.4,
+            "end": 375.4,
+            "text": " this string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 375.4,
+            "end": 376.4,
+            "text": " harry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 376.4,
+            "end": 379.4,
+            "text": " this is a sequence of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 379.4,
+            "end": 380.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 380.4,
+            "end": 381.4,
+            "text": " these characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 381.4,
+            "end": 383.4,
+            "text": " are at this position"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 383.4,
+            "end": 384.4,
+            "text": " 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 384.4,
+            "end": 385.4,
+            "text": " 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 385.4,
+            "end": 386.4,
+            "text": " 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 386.4,
+            "end": 387.4,
+            "text": " 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 387.4,
+            "end": 388.4,
+            "text": " 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 388.4,
+            "end": 389.4,
+            "text": " so the index in programming"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 389.4,
+            "end": 390.4,
+            "text": " in most of the programming languages"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 390.4,
+            "end": 391.4,
+            "text": " starts from 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 391.4,
+            "end": 392.4,
+            "text": " what does this mean"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 392.4,
+            "end": 393.4,
+            "text": " the basic meaning of this is"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 393.4,
+            "end": 394.4,
+            "text": " if you write name 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 394.4,
+            "end": 395.4,
+            "text": " then you will get h"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 395.4,
+            "end": 396.4,
+            "text": " if you write name 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 396.4,
+            "end": 397.4,
+            "text": " then you will get the first element"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 397.4,
+            "end": 398.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 398.4,
+            "end": 399.4,
+            "text": " if you write name 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 399.4,
+            "end": 400.4,
+            "text": " then you will get the second element"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 400.4,
+            "end": 401.4,
+            "text": " that is the count starts from 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 401.4,
+            "end": 402.4,
+            "text": " if you count anything from 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 402.4,
+            "end": 403.4,
+            "text": " suppose you have 5 fingers"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 403.4,
+            "end": 404.4,
+            "text": " and you count these 5 fingers"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 404.4,
+            "end": 405.4,
+            "text": " from 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 405.4,
+            "end": 406.4,
+            "text": " then you will get"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 406.4,
+            "end": 407.4,
+            "text": " 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 407.4,
+            "end": 408.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 408.4,
+            "end": 409.4,
+            "text": " so if you count anything from 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 409.4,
+            "end": 410.4,
+            "text": " then you will get"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 410.4,
+            "end": 411.4,
+            "text": " 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 411.4,
+            "end": 412.4,
+            "text": " 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 412.4,
+            "end": 413.4,
+            "text": " 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 413.4,
+            "end": 414.4,
+            "text": " 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 414.4,
+            "end": 415.4,
+            "text": " 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 415.4,
+            "end": 416.4,
+            "text": " so the index of 5th finger"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 416.4,
+            "end": 417.4,
+            "text": " will be 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 417.4,
+            "end": 418.4,
+            "text": " the index of 1st finger"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 418.4,
+            "end": 419.4,
+            "text": " will be 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 419.4,
+            "end": 420.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 420.4,
+            "end": 421.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 421.4,
+            "end": 422.4,
+            "text": " it is easy"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 422.4,
+            "end": 423.4,
+            "text": " it is easy"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 423.4,
+            "end": 424.4,
+            "text": " if I run this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 424.4,
+            "end": 425.4,
+            "text": " then h will be printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 425.4,
+            "end": 426.4,
+            "text": " similarly"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 426.4,
+            "end": 427.4,
+            "text": " if I print name 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 427.4,
+            "end": 428.4,
+            "text": " then what will happen"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 428.4,
+            "end": 429.4,
+            "text": " here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 429.4,
+            "end": 430.4,
+            "text": " instead of name 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 430.4,
+            "end": 431.4,
+            "text": " a will be printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 431.4,
+            "end": 432.4,
+            "text": " and after this"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 432.4,
+            "end": 433.4,
+            "text": " rry"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 433.4,
+            "end": 434.4,
+            "text": " can also be printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 434.4,
+            "end": 435.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 435.4,
+            "end": 436.4,
+            "text": " so in python"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 436.4,
+            "end": 438.4,
+            "text": " string is like an array of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 438.4,
+            "end": 440.4,
+            "text": " is like an array of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 440.4,
+            "end": 441.4,
+            "text": " it is like an array of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 441.4,
+            "end": 442.4,
+            "text": " I didn't say exactly"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 442.4,
+            "end": 443.4,
+            "text": " that it is an array of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 443.4,
+            "end": 444.4,
+            "text": " just remember"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 444.4,
+            "end": 445.4,
+            "text": " it is like"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 445.4,
+            "end": 446.4,
+            "text": " an array of characters"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 446.4,
+            "end": 447.4,
+            "text": " what does array mean"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 447.4,
+            "end": 448.4,
+            "text": " it is a collection of items"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 448.4,
+            "end": 449.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 449.4,
+            "end": 450.4,
+            "text": " I will tell you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 450.4,
+            "end": 451.4,
+            "text": " name 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 451.4,
+            "end": 452.4,
+            "text": " name 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 452.4,
+            "end": 453.4,
+            "text": " name 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 453.4,
+            "end": 454.4,
+            "text": " how far can you go"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 454.4,
+            "end": 455.4,
+            "text": " 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 455.4,
+            "end": 456.4,
+            "text": " 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 456.4,
+            "end": 457.4,
+            "text": " 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 457.4,
+            "end": 458.4,
+            "text": " 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 458.4,
+            "end": 459.4,
+            "text": " 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 459.4,
+            "end": 460.4,
+            "text": " if you try to go to 5"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 460.4,
+            "end": 461.4,
+            "text": " in fact we try to go to 5"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 461.4,
+            "end": 462.4,
+            "text": " I know"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 462.4,
+            "end": 463.4,
+            "text": " if I try to print name 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 463.4,
+            "end": 464.4,
+            "text": " then r will come"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 464.4,
+            "end": 465.4,
+            "text": " name 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 465.4,
+            "end": 466.4,
+            "text": " r will come"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 466.4,
+            "end": 467.4,
+            "text": " name 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 467.4,
+            "end": 468.4,
+            "text": " name 5"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 468.4,
+            "end": 469.4,
+            "text": " can I print name 5"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 469.4,
+            "end": 470.4,
+            "text": " I will try"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 470.4,
+            "end": 471.4,
+            "text": " maybe something will happen"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 471.4,
+            "end": 472.4,
+            "text": " no"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 472.4,
+            "end": 473.4,
+            "text": " nothing will happen"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 473.4,
+            "end": 474.4,
+            "text": " error will come"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 474.4,
+            "end": 475.4,
+            "text": " see here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 475.4,
+            "end": 476.4,
+            "text": " it is giving you index error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 476.4,
+            "end": 477.4,
+            "text": " so you are also knowing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 477.4,
+            "end": 478.4,
+            "text": " error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 478.4,
+            "end": 479.4,
+            "text": " as we are moving forward"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 479.4,
+            "end": 480.4,
+            "text": " in this course"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 480.4,
+            "end": 481.4,
+            "text": " index error means"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 481.4,
+            "end": 482.4,
+            "text": " that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 482.4,
+            "end": 483.4,
+            "text": " your"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 483.4,
+            "end": 484.4,
+            "text": " whatever"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 484.4,
+            "end": 485.4,
+            "text": " your object is"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 485.4,
+            "end": 486.4,
+            "text": " while iterating it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 486.4,
+            "end": 487.4,
+            "text": " what happened"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 487.4,
+            "end": 488.4,
+            "text": " that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 488.4,
+            "end": 489.4,
+            "text": " the index"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 489.4,
+            "end": 490.4,
+            "text": " you tried to access"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 490.4,
+            "end": 491.4,
+            "text": " there was nothing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 491.4,
+            "end": 492.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 492.4,
+            "end": 493.4,
+            "text": " so this is index error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 493.4,
+            "end": 494.4,
+            "text": " now in the whole string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 494.4,
+            "end": 495.4,
+            "text": " see"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 495.4,
+            "end": 496.4,
+            "text": " manually"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 496.4,
+            "end": 497.4,
+            "text": " 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 497.4,
+            "end": 498.4,
+            "text": " 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 498.4,
+            "end": 499.4,
+            "text": " 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 499.4,
+            "end": 500.4,
+            "text": " 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 500.4,
+            "end": 501.4,
+            "text": " 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 501.4,
+            "end": 502.4,
+            "text": " 5"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 502.4,
+            "end": 503.4,
+            "text": " I will remove it"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 503.4,
+            "end": 504.4,
+            "text": " I will write here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 504.4,
+            "end": 505.4,
+            "text": " this throws an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 505.4,
+            "end": 506.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 506.4,
+            "end": 507.4,
+            "text": " throws an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 507.4,
+            "end": 508.4,
+            "text": " this will throw an error"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 508.4,
+            "end": 509.4,
+            "text": " because"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 509.4,
+            "end": 510.4,
+            "text": " there is nothing on 5 index"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 510.4,
+            "end": 511.4,
+            "text": " ok"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 511.4,
+            "end": 512.4,
+            "text": " so this thing"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 512.4,
+            "end": 513.4,
+            "text": " I have written"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 513.4,
+            "end": 514.4,
+            "text": " now what I will do"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 514.4,
+            "end": 515.4,
+            "text": " that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 515.4,
+            "end": 516.4,
+            "text": " I have printed"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 516.4,
+            "end": 517.4,
+            "text": " 5 characters string"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 517.4,
+            "end": 518.4,
+            "text": " what about apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 518.4,
+            "end": 519.4,
+            "text": " if I want to see all the characters of apple"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 519.4,
+            "end": 520.4,
+            "text": " then how will I see that"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 520.4,
+            "end": 521.4,
+            "text": " yes I know"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 521.4,
+            "end": 522.4,
+            "text": " 0"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 522.4,
+            "end": 523.4,
+            "text": " 1"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 523.4,
+            "end": 524.4,
+            "text": " 2"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 524.4,
+            "end": 525.4,
+            "text": " 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 525.4,
+            "end": 526.4,
+            "text": " 4"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 526.4,
+            "end": 527.4,
+            "text": " 5"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 527.4,
+            "end": 528.4,
+            "text": " 6"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 528.4,
+            "end": 529.4,
+            "text": " 7"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 529.4,
+            "end": 530.4,
+            "text": " 8"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 530.4,
+            "end": 531.4,
+            "text": " 9"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 531.4,
+            "end": 532.4,
+            "text": " 10"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 532.4,
+            "end": 533.4,
+            "text": " 11"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 533.4,
+            "end": 534.4,
+            "text": " 12"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 534.4,
+            "end": 535.4,
+            "text": " 13"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 535.4,
+            "end": 536.4,
+            "text": " 14"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 536.4,
+            "end": 537.4,
+            "text": " 15"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 537.4,
+            "end": 538.4,
+            "text": " 16"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 538.4,
+            "end": 539.4,
+            "text": " 17"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 539.4,
+            "end": 540.4,
+            "text": " 18"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 540.4,
+            "end": 541.4,
+            "text": " 19"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 541.4,
+            "end": 542.4,
+            "text": " 20"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 542.4,
+            "end": 543.4,
+            "text": " 21"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 543.4,
+            "end": 544.4,
+            "text": " 22"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 544.4,
+            "end": 545.4,
+            "text": " 23"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 545.4,
+            "end": 546.4,
+            "text": " 24"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 546.4,
+            "end": 547.4,
+            "text": " 25"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 547.4,
+            "end": 548.4,
+            "text": " 26"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 548.4,
+            "end": 549.4,
+            "text": " 27"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 549.4,
+            "end": 550.4,
+            "text": " 28"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 550.4,
+            "end": 551.4,
+            "text": " 29"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 551.4,
+            "end": 552.4,
+            "text": " 30"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 552.4,
+            "end": 553.4,
+            "text": " 31"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 553.4,
+            "end": 554.4,
+            "text": " 32"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 554.4,
+            "end": 555.4,
+            "text": " 33"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 555.4,
+            "end": 556.4,
+            "text": " 33"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 556.4,
+            "end": 557.4,
+            "text": " 34"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 557.4,
+            "end": 558.4,
+            "text": " 35"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 558.4,
+            "end": 559.4,
+            "text": " 36"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 559.4,
+            "end": 560.4,
+            "text": " 37"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 560.4,
+            "end": 561.4,
+            "text": " 38"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 561.4,
+            "end": 562.4,
+            "text": " 39"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 562.4,
+            "end": 563.4,
+            "text": " 40"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 563.4,
+            "end": 564.4,
+            "text": " 41"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 564.4,
+            "end": 565.4,
+            "text": " 42"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 565.4,
+            "end": 566.4,
+            "text": " 43"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 566.4,
+            "end": 567.4,
+            "text": " 44"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 567.4,
+            "end": 568.4,
+            "text": " 45"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 568.4,
+            "end": 569.4,
+            "text": " 46"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 569.4,
+            "end": 570.4,
+            "text": " 47"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 570.4,
+            "end": 571.4,
+            "text": " 48"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 571.4,
+            "end": 572.4,
+            "text": " 49"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 572.4,
+            "end": 573.4,
+            "text": " 50"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 573.4,
+            "end": 574.4,
+            "text": " 51"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 574.4,
+            "end": 575.4,
+            "text": " 52"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 575.4,
+            "end": 576.4,
+            "text": " 53"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 576.4,
+            "end": 577.4,
+            "text": " 54"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 577.4,
+            "end": 578.4,
+            "text": " 55"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 578.4,
+            "end": 579.4,
+            "text": " 56"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 579.4,
+            "end": 580.4,
+            "text": " 57"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 580.4,
+            "end": 581.4,
+            "text": " 58"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 581.4,
+            "end": 582.4,
+            "text": " 69"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 582.4,
+            "end": 583.4,
+            "text": " 69"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 583.4,
+            "end": 584.4,
+            "text": " 70"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 584.4,
+            "end": 585.4,
+            "text": " 70"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 585.4,
+            "end": 586.4,
+            "text": " 71"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 586.4,
+            "end": 587.4,
+            "text": " 72"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 587.4,
+            "end": 588.4,
+            "text": " 73"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 588.4,
+            "end": 589.4,
+            "text": " 74"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 589.4,
+            "end": 590.4,
+            "text": " 75"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 590.4,
+            "end": 591.4,
+            "text": " 76"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 591.4,
+            "end": 592.4,
+            "text": " 77"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 592.4,
+            "end": 593.4,
+            "text": " 78"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 593.4,
+            "end": 594.4,
+            "text": " 79"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 594.4,
+            "end": 595.4,
+            "text": " 80"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 595.4,
+            "end": 596.4,
+            "text": " 81"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 596.4,
+            "end": 597.4,
+            "text": " 82"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 597.4,
+            "end": 598.4,
+            "text": " 83"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 598.4,
+            "end": 599.4,
+            "text": " 84"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 599.4,
+            "end": 600.4,
+            "text": " 85"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 600.4,
+            "end": 601.4,
+            "text": " 86"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 601.4,
+            "end": 602.4,
+            "text": " 87"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 602.4,
+            "end": 603.4,
+            "text": " 88"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 603.4,
+            "end": 604.4,
+            "text": " 89"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 604.4,
+            "end": 605.4,
+            "text": " 90"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 605.4,
+            "end": 606.4,
+            "text": " 91"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 606.4,
+            "end": 607.4,
+            "text": " 92"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 607.4,
+            "end": 608.4,
+            "text": " 93"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 608.4,
+            "end": 609.4,
+            "text": " 94"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 609.4,
+            "end": 610.4,
+            "text": " 95"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 610.4,
+            "end": 611.4,
+            "text": " 96"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 611.4,
+            "end": 612.4,
+            "text": " 97"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 612.4,
+            "end": 613.4,
+            "text": " 97"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 613.4,
+            "end": 614.4,
+            "text": " 97"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 614.4,
+            "end": 615.4,
+            "text": " 98"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 615.4,
+            "end": 616.4,
+            "text": " 100"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 616.4,
+            "end": 617.4,
+            "text": " 100"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 617.4,
+            "end": 618.4,
+            "text": " 2000"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 618.4,
+            "end": 619.4,
+            "text": " 24"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 619.4,
+            "end": 620.4,
+            "text": " 25"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 620.4,
+            "end": 621.4,
+            "text": " 26"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 621.4,
+            "end": 622.4,
+            "text": " 27"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 622.4,
+            "end": 623.4,
+            "text": " 28"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 623.4,
+            "end": 624.4,
+            "text": " 20"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 624.4,
+            "end": 625.4,
+            "text": " 24"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 625.4,
+            "end": 626.4,
+            "text": " 29"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 626.4,
+            "end": 627.4,
+            "text": " 30"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 627.4,
+            "end": 628.4,
+            "text": " 31"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 628.4,
+            "end": 629.4,
+            "text": " 3"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 629.4,
+            "end": 630.4,
+            "text": " 26"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 630.4,
+            "end": 631.4,
+            "text": " 24"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 631.4,
+            "end": 632.4,
+            "text": " 25"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 632.4,
+            "end": 633.4,
+            "text": " 26"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 633.4,
+            "end": 634.4,
+            "text": " 27"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 634.4,
+            "end": 635.4,
+            "text": " 28"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 635.4,
+            "end": 636.4,
+            "text": " 29"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 636.4,
+            "end": 637.4,
+            "text": " 30"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 637.4,
+            "end": 638.4,
+            "text": " 31"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 638.4,
+            "end": 639.4,
+            "text": " 32"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 639.4,
+            "end": 640.4,
+            "text": " 33"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 640.4,
+            "end": 641.4,
+            "text": " 34"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 641.4,
+            "end": 642.4,
+            "text": " 35"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 642.4,
+            "end": 643.4,
+            "text": " 34"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 643.4,
+            "end": 644.4,
+            "text": " 35"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 644.4,
+            "end": 645.12,
+            "text": " 36"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 645.12,
+            "end": 645.3199999999999,
+            "text": " 36"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 645.3199999999999,
+            "end": 645.4,
+            "text": " 37"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 645.4,
+            "end": 647.4,
+            "text": " already know what loops are."
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 647.4,
+            "end": 649.4,
+            "text": " So, that's all for now in this video guys."
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 649.4,
+            "end": 651.4,
+            "text": " In the upcoming videos, I will tell you"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 651.4,
+            "end": 653.4,
+            "text": " about string and other things."
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 653.4,
+            "end": 655.4,
+            "text": " And there we will read"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 655.4,
+            "end": 657.4,
+            "text": " how we can"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 657.4,
+            "end": 659.4,
+            "text": " do all these things."
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 659.4,
+            "end": 661.4,
+            "text": " If you haven't"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 661.4,
+            "end": 663.4,
+            "text": " accessed python's playlist yet,"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 663.4,
+            "end": 665.4,
+            "text": " then do it now. You can click here"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 665.4,
+            "end": 667.4,
+            "text": " and bookmark it or click here and"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 667.4,
+            "end": 669.4,
+            "text": " save this playlist. That's all for now"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 669.4,
+            "end": 671.4,
+            "text": " in this video guys. Thank you so much"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 671.4,
+            "end": 673.4,
+            "text": " guys for watching this video and I will"
+        },
+        {
+            "number": "11",
+            "title": "Strings in Python",
+            "start": 673.4,
+            "end": 675.4,
+            "text": " see you next time."
+        }
+    ],
+    "text": " You are back in 100 days of code and I am also busy and today I will tell you about strings we have read a lot about strings we have seen that it is a very special data type we can write our name, write a poem or anything we can close it in double quotes and write the string we have learnt this so far in today's video I will tell you about strings and I will show you what are the other ways to make strings so without any delay let's go to the computer screen let's get started music so I have come here in my computer screen and now we will do something we will open our rapplet quickly so first of all I will open my rappels and after going to my 0 to 0 python codes I will open our today's rappel before that I would like to tell you something many people are mentioning me on Instagram on 100 days of code challenge I am re-mentioning everyone I just want to tell you in case you want to join me on insta you can join and tag me daily day 5, day 6, day 7 it is fun and my energy increases today I will quickly tell you about strings and today we will get to know about strings closely we have read about strings we have seen that string is a very interesting data type but we will understand what exactly string is so what happens is that if you close anything in python in double quotes it becomes a string for example if I write here name is equal to harry in double quotes so this is a string then let me write here friend is equal to Rohan so this is another string if I write here another friend is equal to lovish so this is another string now I will write lovish in single quotes also like this so I can make it so here double quotes here single quotes and we can make string with double quotes and single quotes so I have written here in python anything that you enclose between single and double quotation marks is considered as string a string is essentially a sequence of array of textual data strings are used when working with unicode characters so this is very important and here I have given an example which you can copy and paste and run if name is equal to harry which I have already made and after this I will run this code so here it is simple hello harry I will get to see its output but here you see it does not matter whether you enclose your string in single or double quotes output remains exactly same sometimes user has to make double quotation marks part of string now I will give you an example if someone told you print this thing if someone told you he said I want to eat an apple print this I will make a string inside this you will say yes it is fine if I make an apple string inside this and I will write in double quotes he wants to whatever it is I will copy it why I am so tensed in it I will copy it and here I will paste and I will run this and show you what happens I will think that it will print exactly literally but here is an error what is error saying error is basically saying that you cannot put double quotes inside double quotes so we had read escape sequence characters here we will use that by doing backslash double quotes we will do our work 36 otherwise what we will do if we do not do backslash double quotes let me show you by printing apple if we do not want to do our work 36 by doing backslash double quotes then what we can do we can enclose string in single quotes something like this ok something like this we can enclose in single quotes we can enclose our string and this will also work ok now I will tell you about multi-line strings suppose I want my string to have multiple lines like if I want to make this kind of string hey I am good I am showing multiple lines suppose I am showing someone's chat here he said hi harry hey I am good I want to eat an apple here is an error he is saying that EOL while scanning string literal so whenever python scans string literal so basically what it does is python will see that here the string started and it will find in this line that where is this character enclosing and if it does not find then it will throw an error and this is what is being said here that EOL is coming end of line while scanning string literal python is saying basically I was scanning string literal I wanted your string literal to be finished but I could not see it anywhere and your string literal was finished so we solve this problem by triple single quotes or triple double quotes so whenever we apply triple single quotes like this and here we finish triple single quotes so in triple single quotes or in triple double quotes if you enclose anything then it becomes a string so if I run this now then you will see here hello harry he said hi harry hey I am good means whatever string is there you will see it printed simple thing now why is this useful because sometimes we have to write something like this suppose I copy and paste this whole thing in print suppose I say st is equal to this whole string so I can make st by applying triple double quotes or triple single quotes and if I print st then I will not get any error whatever I have copied and pasted in that if there is a new line or anything that will handle everything double quotes then it becomes very convenient now I will erase it a little bit you can do this and see ok so the string I made st is erased it will be printed literally if you use triple double quotes so I made it like this so I will make it like this so I will make it like this so this is how a multi line string can be made now we have made a string called apple ok now let's do one thing let's work on the string named name if I remove this print apple and write something like this and let this be hello harry if I put a for loop here or before that I want to tell you about indexing if I write name 0 then what will happen this string harry this is a sequence of characters ok these characters are at this position 0 1 2 3 4 so the index in programming in most of the programming languages starts from 0 what does this mean the basic meaning of this is if you write name 0 then you will get h if you write name 0 then you will get the first element ok if you write name 1 then you will get the second element that is the count starts from 0 if you count anything from 0 suppose you have 5 fingers and you count these 5 fingers from 0 then you will get 0 ok so if you count anything from 0 then you will get 0 1 2 3 4 so the index of 5th finger will be 4 the index of 1st finger will be 0 ok ok it is easy it is easy if I run this then h will be printed similarly if I print name 1 then what will happen here instead of name 1 a will be printed and after this rry can also be printed ok so in python string is like an array of characters is like an array of characters it is like an array of characters I didn't say exactly that it is an array of characters just remember it is like an array of characters what does array mean it is a collection of items ok I will tell you name 0 name 1 name 2 how far can you go 0 1 2 3 4 if you try to go to 5 in fact we try to go to 5 I know if I try to print name 2 then r will come name 3 r will come name 4 name 5 can I print name 5 I will try maybe something will happen no nothing will happen error will come see here it is giving you index error so you are also knowing error as we are moving forward in this course index error means that your whatever your object is while iterating it what happened that the index you tried to access there was nothing ok so this is index error now in the whole string see manually 0 1 2 3 4 5 I will remove it I will write here this throws an error ok throws an error this will throw an error because there is nothing on 5 index ok so this thing I have written now what I will do that I have printed 5 characters string what about apple if I want to see all the characters of apple then how will I see that yes I know 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 69 69 70 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 97 97 98 100 100 2000 24 25 26 27 28 20 24 29 30 31 3 26 24 25 26 27 28 29 30 31 32 33 34 35 34 35 36 36 37 already know what loops are. So, that's all for now in this video guys. In the upcoming videos, I will tell you about string and other things. And there we will read how we can do all these things. If you haven't accessed python's playlist yet, then do it now. You can click here and bookmark it or click here and save this playlist. That's all for now in this video guys. Thank you so much guys for watching this video and I will see you next time."
+}

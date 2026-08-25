@@ -1,0 +1,2805 @@
+{
+    "chunks": [
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 0.0,
+            "end": 2.0,
+            "text": " We saw for loops in the last video."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 2.0,
+            "end": 8.0,
+            "text": " It was fun. We used for loops and we saw how a for loop makes things very easy."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 8.0,
+            "end": 14.0,
+            "text": " And along with for loop, we saw how we can print multiplication tables."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 14.0,
+            "end": 17.0,
+            "text": " Now we will see how the same thing can be done in while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 17.0,
+            "end": 21.0,
+            "text": " And why are while loops made? Why are they put in Python programming?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 21.0,
+            "end": 25.0,
+            "text": " We introduced while loop in Python programming so that the time of the programmer is saved."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 25.0,
+            "end": 28.0,
+            "text": " How? Let's go to the computer screen and I will tell you."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 30.0,
+            "end": 39.0,
+            "text": " So now we are going to talk about while loop in Python."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 39.0,
+            "end": 41.0,
+            "text": " How can we use while loop?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 41.0,
+            "end": 45.0,
+            "text": " First of all, I will tell you that you can use while loop or for loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 45.0,
+            "end": 47.0,
+            "text": " Both will help you."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 47.0,
+            "end": 51.0,
+            "text": " But while loop syntax is convenient for us in some cases."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 51.0,
+            "end": 53.0,
+            "text": " And sometimes for loop syntax is convenient."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 53.0,
+            "end": 58.0,
+            "text": " In the syntax of for loop, we saw that we write for, we write in range."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 58.0,
+            "end": 60.0,
+            "text": " And if I have written for, I will write for."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 60.0,
+            "end": 63.0,
+            "text": " And if I have written for, I will print for."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 63.0,
+            "end": 66.0,
+            "text": " So the simple thing is that I will get 0, 1 and 2 by printing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 66.0,
+            "end": 68.0,
+            "text": " You all know this."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 68.0,
+            "end": 72.0,
+            "text": " If I do this with the help of while loop, then what I will do is, first of all, I will make a variable."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 72.0,
+            "end": 76.0,
+            "text": " Then I will write while i is less than 3."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 76.0,
+            "end": 79.0,
+            "text": " And after this I will print i."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 79.0,
+            "end": 82.0,
+            "text": " And after that I will increment the value of i."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 82.0,
+            "end": 84.0,
+            "text": " Let me explain what I have done."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 84.0,
+            "end": 86.0,
+            "text": " Look, what I did here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 86.0,
+            "end": 89.0,
+            "text": " I gave a condition in while."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 89.0,
+            "end": 92.0,
+            "text": " I said that make the value of i to 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 92.0,
+            "end": 95.0,
+            "text": " After that what I did is, I said while."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 95.0,
+            "end": 99.0,
+            "text": " That means till the time i is less than 3, till then what I will do?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 99.0,
+            "end": 101.0,
+            "text": " I will keep printing i."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 101.0,
+            "end": 105.0,
+            "text": " And in every iteration I am increasing the value of i."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 105.0,
+            "end": 108.0,
+            "text": " So once 0 will be printed, then after that i value will be 1."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 108.0,
+            "end": 111.0,
+            "text": " Then 1 will be printed, i value will be 2."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 111.0,
+            "end": 114.0,
+            "text": " Then 2 will be printed, i value will be 3."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 114.0,
+            "end": 117.0,
+            "text": " But as the value of i will keep increasing and this loop will keep executing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 117.0,
+            "end": 121.0,
+            "text": " This condition will be checked in every iteration."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 121.0,
+            "end": 123.0,
+            "text": " Now I will explain to you how this works."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 123.0,
+            "end": 125.0,
+            "text": " What is the value of i? 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 125.0,
+            "end": 127.0,
+            "text": " First of all, it will come here in line number 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 127.0,
+            "end": 130.0,
+            "text": " It will say that is this condition is being satisfied or not?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 130.0,
+            "end": 135.0,
+            "text": " Because if it is not being satisfied then we will not want to execute anything in it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 135.0,
+            "end": 140.0,
+            "text": " Okay fine, it will execute because this condition is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 140.0,
+            "end": 142.0,
+            "text": " 0 is less than 3 is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 142.0,
+            "end": 144.0,
+            "text": " So the answer to this is yes."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 144.0,
+            "end": 146.0,
+            "text": " That yes, the condition is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 146.0,
+            "end": 148.0,
+            "text": " Print i means print 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 148.0,
+            "end": 149.0,
+            "text": " 0 will be printed here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 149.0,
+            "end": 154.0,
+            "text": " Then after this i is equal to i plus 1 means i value will be 1."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 154.0,
+            "end": 155.0,
+            "text": " This will go here again."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 155.0,
+            "end": 157.0,
+            "text": " Is 1 less than 3? Yes it is."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 157.0,
+            "end": 159.0,
+            "text": " So it will print 1 also."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 159.0,
+            "end": 161.0,
+            "text": " i value will be 2 now."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 161.0,
+            "end": 164.0,
+            "text": " Is 2 less than 3? Yes it is."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 164.0,
+            "end": 165.0,
+            "text": " This 2 will print."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 165.0,
+            "end": 167.0,
+            "text": " i value will be 3 now."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 167.0,
+            "end": 170.0,
+            "text": " Is 3 less than 3? No, it is not."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 170.0,
+            "end": 171.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 171.0,
+            "end": 173.0,
+            "text": " Because 3 less than 3 is not there."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 173.0,
+            "end": 174.0,
+            "text": " That is why you see here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 174.0,
+            "end": 175.0,
+            "text": " i value."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 175.0,
+            "end": 177.0,
+            "text": " Now the value will not be printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 177.0,
+            "end": 179.0,
+            "text": " The masala inside it will not be executed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 179.0,
+            "end": 182.0,
+            "text": " And it will come out of the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 182.0,
+            "end": 185.0,
+            "text": " And I write here done with the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 185.0,
+            "end": 186.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 186.0,
+            "end": 188.0,
+            "text": " Now I will remove this for loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 188.0,
+            "end": 192.0,
+            "text": " If I run this then 0, 1 and 2 will work here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 192.0,
+            "end": 193.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 193.0,
+            "end": 196.0,
+            "text": " But if I make it i is less than equal to 3."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 196.0,
+            "end": 198.0,
+            "text": " You also keep this in mind."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 198.0,
+            "end": 200.0,
+            "text": " 3 is less than equal to 3 is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 200.0,
+            "end": 201.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 201.0,
+            "end": 204.0,
+            "text": " If we talk about 3 is less than equal to 3 then it is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 204.0,
+            "end": 206.0,
+            "text": " Because less than and equal to means this."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 206.0,
+            "end": 208.0,
+            "text": " Either it is less or equal."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 208.0,
+            "end": 209.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 209.0,
+            "end": 212.0,
+            "text": " So if we talk about 3, if we talk about i is equal to 3 then this condition is satisfied."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 212.0,
+            "end": 214.0,
+            "text": " 3 is less than equal to 3."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 214.0,
+            "end": 216.0,
+            "text": " So while 3 is less than equal to 3,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 216.0,
+            "end": 218.0,
+            "text": " 3 will be printed here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 218.0,
+            "end": 219.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 219.0,
+            "end": 220.0,
+            "text": " So that is why what will happen here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 220.0,
+            "end": 222.0,
+            "text": " Instead of 0, 1, 2, 0, 1, 2, 3 will be printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 222.0,
+            "end": 224.0,
+            "text": " If I put less than equal to here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 224.0,
+            "end": 227.0,
+            "text": " So now see here 0, 1, 2, 3 is printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 227.0,
+            "end": 228.0,
+            "text": " So this is how while loop works."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 228.0,
+            "end": 231.0,
+            "text": " Ideally we do not use while loop with numbers much."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 231.0,
+            "end": 233.0,
+            "text": " Rather with complex conditions."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 233.0,
+            "end": 234.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 234.0,
+            "end": 238.0,
+            "text": " As I will tell you that suppose the user gave an input."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 238.0,
+            "end": 239.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 239.0,
+            "end": 241.0,
+            "text": " Suppose the user gave an input."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 241.0,
+            "end": 243.0,
+            "text": " So I will write int input."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 243.0,
+            "end": 248.0,
+            "text": " I had told you that we can take int input enter the number."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 248.0,
+            "end": 251.0,
+            "text": " In this way we can take user's input as an integer."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 251.0,
+            "end": 253.0,
+            "text": " This is important as an integer."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 253.0,
+            "end": 257.0,
+            "text": " I will say while i is less than equal to 3."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 257.0,
+            "end": 258.0,
+            "text": " What you do?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 258.0,
+            "end": 259.0,
+            "text": " Keep taking input from the user."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 259.0,
+            "end": 261.0,
+            "text": " So I will put it in the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 261.0,
+            "end": 262.0,
+            "text": " I will say."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 262.0,
+            "end": 265.0,
+            "text": " Keep taking input from the user till."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 265.0,
+            "end": 267.0,
+            "text": " I will make this number a little bigger."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 267.0,
+            "end": 269.0,
+            "text": " Keep putting a small number less than 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 269.0,
+            "end": 270.0,
+            "text": " And keep printing it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 270.0,
+            "end": 272.0,
+            "text": " And from here I will remove i is equal to i plus 1."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 272.0,
+            "end": 273.0,
+            "text": " So what is this loop doing?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 273.0,
+            "end": 276.0,
+            "text": " It is saying keep taking input from the user."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 276.0,
+            "end": 277.0,
+            "text": " Keep taking."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 277.0,
+            "end": 278.0,
+            "text": " Till when?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 278.0,
+            "end": 279.0,
+            "text": " Till you keep taking."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 279.0,
+            "end": 284.0,
+            "text": " Till the value of i is less than equal to 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 284.0,
+            "end": 286.0,
+            "text": " So I will show you this program by running it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 286.0,
+            "end": 287.0,
+            "text": " As soon as I will run it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 287.0,
+            "end": 289.0,
+            "text": " Here it is saying i is not defined."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 289.0,
+            "end": 290.0,
+            "text": " What kind of a joke is this?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 290.0,
+            "end": 291.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 291.0,
+            "end": 292.0,
+            "text": " I will do one more thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 292.0,
+            "end": 295.0,
+            "text": " I have to take an initial value of i from the user."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 295.0,
+            "end": 297.0,
+            "text": " So before running while loop I will take i's value."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 297.0,
+            "end": 298.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 298.0,
+            "end": 300.0,
+            "text": " Now see I took i's value from the user."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 300.0,
+            "end": 301.0,
+            "text": " I said tell me what is i?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 301.0,
+            "end": 302.0,
+            "text": " So first of all this line will run."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 302.0,
+            "end": 303.0,
+            "text": " And i will be asked for i's value."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 303.0,
+            "end": 305.0,
+            "text": " Suppose I told 8."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 305.0,
+            "end": 307.0,
+            "text": " Now because 8 is less than equal to 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 307.0,
+            "end": 309.0,
+            "text": " It will ask me again and it will print it this time."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 309.0,
+            "end": 311.0,
+            "text": " Or suppose I do 9."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 311.0,
+            "end": 312.0,
+            "text": " It will print 9."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 312.0,
+            "end": 313.0,
+            "text": " 9."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 313.0,
+            "end": 314.0,
+            "text": " Enter."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 314.0,
+            "end": 316.0,
+            "text": " So see it printed 9 and asked me this question again."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 316.0,
+            "end": 317.0,
+            "text": " Suppose I write 34."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 317.0,
+            "end": 319.0,
+            "text": " It asked me this question again."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 319.0,
+            "end": 320.0,
+            "text": " Suppose I write 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 320.0,
+            "end": 322.0,
+            "text": " 38 is actually less than equal to 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 322.0,
+            "end": 324.0,
+            "text": " So it will keep running in the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 324.0,
+            "end": 326.0,
+            "text": " These two lines will keep executing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 326.0,
+            "end": 327.0,
+            "text": " Till when?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 327.0,
+            "end": 328.0,
+            "text": " Till when?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 328.0,
+            "end": 330.0,
+            "text": " Till when i's value is less than equal to 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 330.0,
+            "end": 334.0,
+            "text": " And the moment the value of i becomes greater than 38."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 334.0,
+            "end": 337.0,
+            "text": " That means if this condition is not satisfied."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 337.0,
+            "end": 339.0,
+            "text": " So it will come out of the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 339.0,
+            "end": 341.0,
+            "text": " Done with the loop print."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 341.0,
+            "end": 342.0,
+            "text": " And it will finish this work."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 342.0,
+            "end": 343.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 343.0,
+            "end": 346.0,
+            "text": " So here if I have made i's value 98."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 346.0,
+            "end": 347.0,
+            "text": " So 98 is printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 347.0,
+            "end": 348.0,
+            "text": " Condition is checked."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 348.0,
+            "end": 349.0,
+            "text": " Condition was false."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 349.0,
+            "end": 350.0,
+            "text": " It is printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 350.0,
+            "end": 352.0,
+            "text": " And the program is over."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 352.0,
+            "end": 354.0,
+            "text": " I hope you understood this."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 354.0,
+            "end": 359.0,
+            "text": " Now see here I have written as the name suggests while loop executes statements while the condition is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 359.0,
+            "end": 361.0,
+            "text": " Till the condition is true while loop will keep executing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 361.0,
+            "end": 365.0,
+            "text": " As soon as the condition becomes false the interpreter comes out of the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 365.0,
+            "end": 367.0,
+            "text": " Interpreter means python which is executing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 367.0,
+            "end": 368.0,
+            "text": " What does interpreter mean?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 368.0,
+            "end": 370.0,
+            "text": " It is executing our program."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 370.0,
+            "end": 372.0,
+            "text": " It is controlling our program."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 372.0,
+            "end": 376.0,
+            "text": " Whenever I say interpreter it means that interpreter will come out."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 376.0,
+            "end": 377.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 377.0,
+            "end": 378.0,
+            "text": " That means the control will come out."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 378.0,
+            "end": 379.0,
+            "text": " And if this condition is true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 379.0,
+            "end": 381.0,
+            "text": " If this condition is true then it will keep rotating in this loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 381.0,
+            "end": 382.0,
+            "text": " I can say interpreter."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 382.0,
+            "end": 383.0,
+            "text": " I can say control."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 383.0,
+            "end": 384.0,
+            "text": " I can say program control."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 384.0,
+            "end": 385.0,
+            "text": " It is the same thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 385.0,
+            "end": 386.0,
+            "text": " You understand what I am saying."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 386.0,
+            "end": 387.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 387.0,
+            "end": 388.0,
+            "text": " Now this is the program."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 388.0,
+            "end": 389.0,
+            "text": " You can run this."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 389.0,
+            "end": 390.0,
+            "text": " Here I have given a very simple example of a decrementing loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 390.0,
+            "end": 391.0,
+            "text": " Okay."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 391.0,
+            "end": 392.0,
+            "text": " Now this is also important."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 392.0,
+            "end": 393.0,
+            "text": " Let me comment it out."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 393.0,
+            "end": 394.0,
+            "text": " This is also very important."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 394.0,
+            "end": 395.0,
+            "text": " This is a decrementing loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 395.0,
+            "end": 396.0,
+            "text": " This is a decrementing while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 396.0,
+            "end": 397.0,
+            "text": " What is happening?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 397.0,
+            "end": 398.0,
+            "text": " The value of count is 5 first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 398.0,
+            "end": 399.0,
+            "text": " And the condition is saying this time that count should be greater than 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 399.0,
+            "end": 400.0,
+            "text": " So if I keep decreasing the value of count then the loop will not work."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 400.0,
+            "end": 401.0,
+            "text": " So if I decrease the value of count then the loop will not work."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 401.0,
+            "end": 402.0,
+            "text": " Because count value will become zero at one time when it is taken."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 402.0,
+            "end": 403.0,
+            "text": " So this is a reverse loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 403.0,
+            "end": 404.0,
+            "text": " Reverse while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 404.0,
+            "end": 405.0,
+            "text": " Decrementing while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 405.0,
+            "end": 406.0,
+            "text": " First 5 will be printed then 4 will be printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 406.0,
+            "end": 407.0,
+            "text": " 3 2 1."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 407.0,
+            "end": 408.0,
+            "text": " If I explain the execution of this to you then listen."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 408.0,
+            "end": 409.0,
+            "text": " Count value was 5 first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 409.0,
+            "end": 410.0,
+            "text": " This condition was true because 5 is greater than 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 410.0,
+            "end": 411.0,
+            "text": " Print count printed 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 411.0,
+            "end": 412.0,
+            "text": " Then count is equal to count minus 4."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 412.0,
+            "end": 413.0,
+            "text": " Count value became 4."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 413.0,
+            "end": 414.0,
+            "text": " 2 by 2."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 414.0,
+            "end": 415.0,
+            "text": " So now this condition is correct."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 415.0,
+            "end": 416.0,
+            "text": " It is a decrementing while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 416.0,
+            "end": 417.0,
+            "text": " The value of count is 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 417.0,
+            "end": 418.0,
+            "text": " The value of count is 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 418.0,
+            "end": 419.0,
+            "text": " Now the condition is that count is greater than 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 419.0,
+            "end": 422.0,
+            "text": " If I keep decreasing the value of count then the condition should be greater than 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 422.0,
+            "end": 423.0,
+            "text": " What is happening?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 423.0,
+            "end": 424.0,
+            "text": " Count value is 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 424.0,
+            "end": 425.0,
+            "text": " Count is greater than 0."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 425.0,
+            "end": 430.0,
+            "text": " Print count and print 5. Then count is equal to count minus 4."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 430.0,
+            "end": 433.0,
+            "text": " Again condition is checked because it is in while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 433.0,
+            "end": 438.0,
+            "text": " Is 4 greater than 0? Yes, 4 will print and value will be 3 again because of this line."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 438.0,
+            "end": 443.0,
+            "text": " Then 3 will check, 3 will print, 2 will print, 1 will print and so on."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 443.0,
+            "end": 448.0,
+            "text": " At one time value of count will be 0. Is 0 greater than 0? No, absolutely not."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 448.0,
+            "end": 453.0,
+            "text": " So this condition will be false and the program will exit out of the loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 453.0,
+            "end": 457.0,
+            "text": " I hope you understood this. Here the count variable is set to 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 457.0,
+            "end": 461.0,
+            "text": " I have explained this thing here. Which determines after each iteration."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 461.0,
+            "end": 464.0,
+            "text": " Iteration means that whenever it enters the loop, there is an iteration."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 464.0,
+            "end": 467.0,
+            "text": " Once it enters the loop, condition is checked and it enters the loop, then there is an iteration."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 467.0,
+            "end": 470.0,
+            "text": " Again condition is checked and it enters the loop, then there is an iteration."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 470.0,
+            "end": 473.0,
+            "text": " This is the meaning of iteration. Depending upon the while loop condition,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 473.0,
+            "end": 476.0,
+            "text": " we need to either increment or decrement the counter variable."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 476.0,
+            "end": 480.0,
+            "text": " Now we have to remove or increase according to our program."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 480.0,
+            "end": 482.0,
+            "text": " If we made a mistake in while loop,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 482.0,
+            "end": 483.0,
+            "text": " as much as we can,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 483.0,
+            "end": 486.0,
+            "text": " let's say I made a mistake and made it count is equal to count plus 1."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 486.0,
+            "end": 488.0,
+            "text": " This will become an infinite loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 488.0,
+            "end": 489.0,
+            "text": " Let me show you."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 489.0,
+            "end": 491.0,
+            "text": " See this has become an infinite loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 491.0,
+            "end": 493.0,
+            "text": " And it will keep printing the value."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 493.0,
+            "end": 494.0,
+            "text": " Do you understand?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 494.0,
+            "end": 498.0,
+            "text": " That means first it will do 5, then 6, 7, 8, 9, 10."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 498.0,
+            "end": 500.0,
+            "text": " It will keep doing it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 500.0,
+            "end": 504.0,
+            "text": " You can see that until I cancel it, it will not stop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 504.0,
+            "end": 505.0,
+            "text": " Do you see?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 505.0,
+            "end": 507.0,
+            "text": " I have to cancel it now."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 507.0,
+            "end": 508.0,
+            "text": " And I will delete it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 508.0,
+            "end": 510.0,
+            "text": " Then it will be cancelled."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 510.0,
+            "end": 512.0,
+            "text": " And what is happening here?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 512.0,
+            "end": 514.0,
+            "text": " I have run it in infinite while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 514.0,
+            "end": 515.0,
+            "text": " Now how do I cancel it?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 515.0,
+            "end": 519.0,
+            "text": " I think I can close this console and do this work."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 519.0,
+            "end": 520.0,
+            "text": " Oh God!"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 520.0,
+            "end": 521.0,
+            "text": " I can stop the program."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 521.0,
+            "end": 523.0,
+            "text": " There was an option of stop above."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 523.0,
+            "end": 524.0,
+            "text": " It did not stop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 524.0,
+            "end": 525.0,
+            "text": " Why did this happen?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 525.0,
+            "end": 526.0,
+            "text": " Stop it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 526.0,
+            "end": 527.0,
+            "text": " Yes, it is fine."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 527.0,
+            "end": 528.0,
+            "text": " Now my stop is in."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 528.0,
+            "end": 529.0,
+            "text": " Oh!"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 529.0,
+            "end": 530.0,
+            "text": " I have run it again."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 530.0,
+            "end": 531.0,
+            "text": " I have run it again."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 531.0,
+            "end": 532.0,
+            "text": " I will fix it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 532.0,
+            "end": 533.0,
+            "text": " I will fix it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 533.0,
+            "end": 534.0,
+            "text": " I will stop it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 534.0,
+            "end": 536.0,
+            "text": " Sorry, Replicate people."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 536.0,
+            "end": 539.0,
+            "text": " I am taking so much of your compute."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 539.0,
+            "end": 540.0,
+            "text": " I will run infinite loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 540.0,
+            "end": 541.0,
+            "text": " I will fix it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 541.0,
+            "end": 542.0,
+            "text": " I will run infinite loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 542.0,
+            "end": 543.0,
+            "text": " Let me tell you an incident."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 543.0,
+            "end": 547.0,
+            "text": " What happened was that many ants came on my laptop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 547.0,
+            "end": 548.0,
+            "text": " It is a matter of college time."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 548.0,
+            "end": 550.0,
+            "text": " Many ants came on the laptop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 550.0,
+            "end": 552.0,
+            "text": " What I did was I ran infinite while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 552.0,
+            "end": 554.0,
+            "text": " I was in Java programming language."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 554.0,
+            "end": 555.0,
+            "text": " But the thing was the same."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 555.0,
+            "end": 558.0,
+            "text": " And my laptop wings started to rotate so fast."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 558.0,
+            "end": 560.0,
+            "text": " It seems like it will fly like a drone."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 560.0,
+            "end": 561.0,
+            "text": " And ants also ran away."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 561.0,
+            "end": 562.0,
+            "text": " It was done."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 562.0,
+            "end": 567.0,
+            "text": " So while loop can be useful in other things too."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 567.0,
+            "end": 570.0,
+            "text": " So now if I run it here, this time it will run 5, 4, 3, 2, 1."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 570.0,
+            "end": 572.0,
+            "text": " It will print absolutely fine."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 572.0,
+            "end": 575.0,
+            "text": " Now else can also be used with while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 575.0,
+            "end": 578.0,
+            "text": " And else is used like this."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 578.0,
+            "end": 582.0,
+            "text": " If it doesn't go inside while loop, then it will go inside else."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 582.0,
+            "end": 586.0,
+            "text": " Now I will write print I am inside else."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 586.0,
+            "end": 587.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 587.0,
+            "end": 588.0,
+            "text": " The count value is 5."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 588.0,
+            "end": 589.0,
+            "text": " I will tell you how it works."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 589.0,
+            "end": 590.0,
+            "text": " It will run."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 590.0,
+            "end": 591.0,
+            "text": " It will run."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 591.0,
+            "end": 592.0,
+            "text": " It will run."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 592.0,
+            "end": 593.0,
+            "text": " It will run."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 593.0,
+            "end": 596.0,
+            "text": " And finally when this condition will be false, then it will print I am inside else."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 596.0,
+            "end": 598.0,
+            "text": " So it is a very simple thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 598.0,
+            "end": 599.0,
+            "text": " Now see how to use else."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 599.0,
+            "end": 603.0,
+            "text": " You can even use the else statement with the while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 603.0,
+            "end": 606.0,
+            "text": " Essentially what the else statement does is that as soon as the while loop condition becomes"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 606.0,
+            "end": 610.0,
+            "text": " false, the interpreter comes out of the while loop and the else statement is executed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 610.0,
+            "end": 611.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 611.0,
+            "end": 617.0,
+            "text": " As soon as it comes out of the while loop, the else will be executed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 617.0,
+            "end": 618.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 618.0,
+            "end": 622.0,
+            "text": " I hope you understood that whenever this condition, means whenever it couldn't go inside while"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 622.0,
+            "end": 625.0,
+            "text": " loop because of the condition being wrong, it will execute the else."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 625.0,
+            "end": 626.0,
+            "text": " It is a simple thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 626.0,
+            "end": 627.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 627.0,
+            "end": 631.0,
+            "text": " Now if I make this count is equal to minus 5, then will the else execute?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 631.0,
+            "end": 633.0,
+            "text": " You tell me in the comments below."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 633.0,
+            "end": 634.0,
+            "text": " Will it or not?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 634.0,
+            "end": 635.0,
+            "text": " You have to tell me."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 635.0,
+            "end": 637.0,
+            "text": " I hope you all guessed that it will."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 637.0,
+            "end": 638.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 638.0,
+            "end": 641.0,
+            "text": " Now you see here, I am inside else will be printed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 641.0,
+            "end": 642.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 642.0,
+            "end": 643.0,
+            "text": " So this is a very simple thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 643.0,
+            "end": 645.0,
+            "text": " Now I want to tell you one more thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 645.0,
+            "end": 646.0,
+            "text": " What is that?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 646.0,
+            "end": 647.0,
+            "text": " I will tell you."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 647.0,
+            "end": 651.0,
+            "text": " We have in more programming languages, do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 651.0,
+            "end": 652.0,
+            "text": " It doesn't happen in Python."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 652.0,
+            "end": 653.0,
+            "text": " I will tell you first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 653.0,
+            "end": 654.0,
+            "text": " What happens in do while loop is that it executes the loop at least once."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 654.0,
+            "end": 655.0,
+            "text": " Do while loop is a very simple thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 655.0,
+            "end": 656.0,
+            "text": " It is a very simple thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 656.0,
+            "end": 661.0,
+            "text": " Do while loop is made for such cases which we discussed here first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 661.0,
+            "end": 662.0,
+            "text": " Which I have just uncommented."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 662.0,
+            "end": 664.0,
+            "text": " Now I will comment the below one."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 664.0,
+            "end": 667.0,
+            "text": " What we did is that we run it once outside the while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 667.0,
+            "end": 668.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 668.0,
+            "end": 673.0,
+            "text": " Now if I write printib here, then it will become a perfect do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 673.0,
+            "end": 674.0,
+            "text": " What do do while loop do?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 674.0,
+            "end": 677.0,
+            "text": " It runs the loop content first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 677.0,
+            "end": 679.0,
+            "text": " Like this is the content of this while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 679.0,
+            "end": 681.0,
+            "text": " Do while loop runs it first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 681.0,
+            "end": 684.0,
+            "text": " Irrespective of whether the condition is true or not."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 684.0,
+            "end": 685.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 685.0,
+            "end": 686.0,
+            "text": " Now what will happen if do while loop is here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 686.0,
+            "end": 688.0,
+            "text": " This is the do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 688.0,
+            "end": 689.0,
+            "text": " And I will tell you the syntax of do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 689.0,
+            "end": 690.0,
+            "text": " It doesn't work in Python."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 690.0,
+            "end": 691.0,
+            "text": " I will tell you."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 691.0,
+            "end": 692.0,
+            "text": " It is in C, Java, C++."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 692.0,
+            "end": 693.0,
+            "text": " But you should know how do while loop works."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 693.0,
+            "end": 694.0,
+            "text": " If I talk about C language."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 694.0,
+            "end": 695.0,
+            "text": " Now I am not teaching you C language."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 695.0,
+            "end": 696.0,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 696.0,
+            "end": 697.0,
+            "text": " Don't think that I am teaching you C language here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 697.0,
+            "end": 698.0,
+            "text": " Here is condition and here is content."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 698.0,
+            "end": 699.0,
+            "text": " So, the loop body."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 699.0,
+            "end": 700.0,
+            "text": " In fact, I don't need content."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 700.0,
+            "end": 701.0,
+            "text": " I should write loop body here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 701.0,
+            "end": 702.0,
+            "text": " So, what happens is that I have written loop body here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 702.0,
+            "end": 703.0,
+            "text": " So, I have written loop body here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 703.0,
+            "end": 704.0,
+            "text": " What happens?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 704.0,
+            "end": 705.0,
+            "text": " I am writing loop body."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 705.0,
+            "end": 706.0,
+            "text": " So, loop body is written here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 706.0,
+            "end": 707.0,
+            "text": " So, I am putting content here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 707.0,
+            "end": 708.0,
+            "text": " So, I have written loop body here."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 715.0,
+            "end": 717.86,
+            "text": " So, what happens is that this thing is executed first."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 717.86,
+            "end": 719.62,
+            "text": " Then only condition will become true."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 719.62,
+            "end": 720.76,
+            "text": " It is a simple thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 720.76,
+            "end": 721.76,
+            "text": " This is do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 721.76,
+            "end": 724.68,
+            "text": " So, sometimes in Python there is a question that emulate do while loop in Python."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 724.68,
+            "end": 725.68,
+            "text": " Ok."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 725.68,
+            "end": 726.68,
+            "text": " So, this thing comes."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 726.68,
+            "end": 728.18,
+            "text": " This is a question that is asked a lot."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 728.18,
+            "end": 729.96,
+            "text": " That's why I am telling you what is do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 729.96,
+            "end": 734.92,
+            "text": " Now, if you say that I am just learning Python, I don't mean anything in Python."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 734.92,
+            "end": 736.92,
+            "text": " So, it is not like that."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 736.92,
+            "end": 737.92,
+            "text": " Don't think like that."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 737.92,
+            "end": 742.0,
+            "text": " Because, if you don't know what do while loop is, then how will you emulate it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 742.0,
+            "end": 743.8,
+            "text": " So, do while loop is simple while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 743.8,
+            "end": 745.0,
+            "text": " Which is executed at least once."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 745.0,
+            "end": 748.0,
+            "text": " It is always possible to check whether the condition is true or not."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 748.0,
+            "end": 751.0,
+            "text": " Once it is executed, then it will be checked and then it will be executed."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 751.0,
+            "end": 753.0,
+            "text": " If the condition is true, then it will be executed again."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 753.0,
+            "end": 755.0,
+            "text": " If it is false, then it will come out."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 755.0,
+            "end": 757.0,
+            "text": " So this is do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 757.0,
+            "end": 759.0,
+            "text": " Now I will tell you one more thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 759.0,
+            "end": 762.0,
+            "text": " In the next video, I will tell you about break and continue statement."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 762.0,
+            "end": 766.0,
+            "text": " In the meantime, what you have to do is try to figure it out yourself."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 766.0,
+            "end": 768.0,
+            "text": " Now you will say, why should I figure it out myself?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 768.0,
+            "end": 771.0,
+            "text": " See, when you figure out things by yourself,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 771.0,
+            "end": 774.0,
+            "text": " and after that you will understand, then you will have a different feeling."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 774.0,
+            "end": 775.0,
+            "text": " Remember this."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 775.0,
+            "end": 778.0,
+            "text": " In the next video, I will tell you about break and continue statement."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 778.0,
+            "end": 782.0,
+            "text": " And it is your duty that you come back to this rappel,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 782.0,
+            "end": 786.0,
+            "text": " to the day 18 rappel and try the emulation of do while loop by yourself."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 786.0,
+            "end": 788.0,
+            "text": " What does emulation mean?"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 788.0,
+            "end": 793.0,
+            "text": " What you have to do is simply do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 793.0,
+            "end": 796.0,
+            "text": " Now this is one way to emulate do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 796.0,
+            "end": 797.0,
+            "text": " I wrote body twice."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 797.0,
+            "end": 801.0,
+            "text": " If the body was of 2000 lines, then our code would be of 4000 lines."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 801.0,
+            "end": 803.0,
+            "text": " Because you write once outside and once inside."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 803.0,
+            "end": 804.0,
+            "text": " That is the idea."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 804.0,
+            "end": 805.0,
+            "text": " So there is no detail."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 805.0,
+            "end": 808.0,
+            "text": " So there is a better way which you will adopt."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 808.0,
+            "end": 809.0,
+            "text": " Watch the next video once."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 809.0,
+            "end": 811.0,
+            "text": " Watch the day 19 video."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 811.0,
+            "end": 815.0,
+            "text": " After that you try to emulate do while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 815.0,
+            "end": 818.0,
+            "text": " I hope everyone understood what is while loop."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 818.0,
+            "end": 819.0,
+            "text": " Everyone understood this thing."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 819.0,
+            "end": 822.0,
+            "text": " If you have not accessed the playlist of python yet,"
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 822.0,
+            "end": 824.0,
+            "text": " then definitely access it."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 824.0,
+            "end": 826.0,
+            "text": " That's all for now in this video."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 826.0,
+            "end": 828.0,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 828.0,
+            "end": 831.0,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "17",
+            "title": "While Loops in Python",
+            "start": 834.0,
+            "end": 849.0,
+            "text": " Bye."
+        }
+    ],
+    "text": " We saw for loops in the last video. It was fun. We used for loops and we saw how a for loop makes things very easy. And along with for loop, we saw how we can print multiplication tables. Now we will see how the same thing can be done in while loop. And why are while loops made? Why are they put in Python programming? We introduced while loop in Python programming so that the time of the programmer is saved. How? Let's go to the computer screen and I will tell you. So now we are going to talk about while loop in Python. How can we use while loop? First of all, I will tell you that you can use while loop or for loop. Both will help you. But while loop syntax is convenient for us in some cases. And sometimes for loop syntax is convenient. In the syntax of for loop, we saw that we write for, we write in range. And if I have written for, I will write for. And if I have written for, I will print for. So the simple thing is that I will get 0, 1 and 2 by printing. You all know this. If I do this with the help of while loop, then what I will do is, first of all, I will make a variable. Then I will write while i is less than 3. And after this I will print i. And after that I will increment the value of i. Let me explain what I have done. Look, what I did here. I gave a condition in while. I said that make the value of i to 0. After that what I did is, I said while. That means till the time i is less than 3, till then what I will do? I will keep printing i. And in every iteration I am increasing the value of i. So once 0 will be printed, then after that i value will be 1. Then 1 will be printed, i value will be 2. Then 2 will be printed, i value will be 3. But as the value of i will keep increasing and this loop will keep executing. This condition will be checked in every iteration. Now I will explain to you how this works. What is the value of i? 0. First of all, it will come here in line number 5. It will say that is this condition is being satisfied or not? Because if it is not being satisfied then we will not want to execute anything in it. Okay fine, it will execute because this condition is true. 0 is less than 3 is true. So the answer to this is yes. That yes, the condition is true. Print i means print 0. 0 will be printed here. Then after this i is equal to i plus 1 means i value will be 1. This will go here again. Is 1 less than 3? Yes it is. So it will print 1 also. i value will be 2 now. Is 2 less than 3? Yes it is. This 2 will print. i value will be 3 now. Is 3 less than 3? No, it is not. Okay. Because 3 less than 3 is not there. That is why you see here. i value. Now the value will not be printed. The masala inside it will not be executed. And it will come out of the loop. And I write here done with the loop. Okay. Now I will remove this for loop. If I run this then 0, 1 and 2 will work here. Okay. But if I make it i is less than equal to 3. You also keep this in mind. 3 is less than equal to 3 is true. Okay. If we talk about 3 is less than equal to 3 then it is true. Because less than and equal to means this. Either it is less or equal. Okay. So if we talk about 3, if we talk about i is equal to 3 then this condition is satisfied. 3 is less than equal to 3. So while 3 is less than equal to 3, 3 will be printed here. Okay. So that is why what will happen here. Instead of 0, 1, 2, 0, 1, 2, 3 will be printed. If I put less than equal to here. So now see here 0, 1, 2, 3 is printed. So this is how while loop works. Ideally we do not use while loop with numbers much. Rather with complex conditions. Okay. As I will tell you that suppose the user gave an input. Okay. Suppose the user gave an input. So I will write int input. I had told you that we can take int input enter the number. In this way we can take user's input as an integer. This is important as an integer. I will say while i is less than equal to 3. What you do? Keep taking input from the user. So I will put it in the loop. I will say. Keep taking input from the user till. I will make this number a little bigger. Keep putting a small number less than 38. And keep printing it. And from here I will remove i is equal to i plus 1. So what is this loop doing? It is saying keep taking input from the user. Keep taking. Till when? Till you keep taking. Till the value of i is less than equal to 38. So I will show you this program by running it. As soon as I will run it. Here it is saying i is not defined. What kind of a joke is this? Okay. I will do one more thing. I have to take an initial value of i from the user. So before running while loop I will take i's value. Okay. Now see I took i's value from the user. I said tell me what is i? So first of all this line will run. And i will be asked for i's value. Suppose I told 8. Now because 8 is less than equal to 38. It will ask me again and it will print it this time. Or suppose I do 9. It will print 9. 9. Enter. So see it printed 9 and asked me this question again. Suppose I write 34. It asked me this question again. Suppose I write 38. 38 is actually less than equal to 38. So it will keep running in the loop. These two lines will keep executing. Till when? Till when? Till when i's value is less than equal to 38. And the moment the value of i becomes greater than 38. That means if this condition is not satisfied. So it will come out of the loop. Done with the loop print. And it will finish this work. Okay. So here if I have made i's value 98. So 98 is printed. Condition is checked. Condition was false. It is printed. And the program is over. I hope you understood this. Now see here I have written as the name suggests while loop executes statements while the condition is true. Till the condition is true while loop will keep executing. As soon as the condition becomes false the interpreter comes out of the loop. Interpreter means python which is executing. What does interpreter mean? It is executing our program. It is controlling our program. Whenever I say interpreter it means that interpreter will come out. Okay. That means the control will come out. And if this condition is true. If this condition is true then it will keep rotating in this loop. I can say interpreter. I can say control. I can say program control. It is the same thing. You understand what I am saying. Okay. Now this is the program. You can run this. Here I have given a very simple example of a decrementing loop. Okay. Now this is also important. Let me comment it out. This is also very important. This is a decrementing loop. This is a decrementing while loop. What is happening? The value of count is 5 first. And the condition is saying this time that count should be greater than 0. So if I keep decreasing the value of count then the loop will not work. So if I decrease the value of count then the loop will not work. Because count value will become zero at one time when it is taken. So this is a reverse loop. Reverse while loop. Decrementing while loop. First 5 will be printed then 4 will be printed. 3 2 1. If I explain the execution of this to you then listen. Count value was 5 first. This condition was true because 5 is greater than 0. Print count printed 5. Then count is equal to count minus 4. Count value became 4. 2 by 2. So now this condition is correct. It is a decrementing while loop. The value of count is 5. The value of count is 5. Now the condition is that count is greater than 0. If I keep decreasing the value of count then the condition should be greater than 0. What is happening? Count value is 5. Count is greater than 0. Print count and print 5. Then count is equal to count minus 4. Again condition is checked because it is in while loop. Is 4 greater than 0? Yes, 4 will print and value will be 3 again because of this line. Then 3 will check, 3 will print, 2 will print, 1 will print and so on. At one time value of count will be 0. Is 0 greater than 0? No, absolutely not. So this condition will be false and the program will exit out of the loop. I hope you understood this. Here the count variable is set to 5. I have explained this thing here. Which determines after each iteration. Iteration means that whenever it enters the loop, there is an iteration. Once it enters the loop, condition is checked and it enters the loop, then there is an iteration. Again condition is checked and it enters the loop, then there is an iteration. This is the meaning of iteration. Depending upon the while loop condition, we need to either increment or decrement the counter variable. Now we have to remove or increase according to our program. If we made a mistake in while loop, as much as we can, let's say I made a mistake and made it count is equal to count plus 1. This will become an infinite loop. Let me show you. See this has become an infinite loop. And it will keep printing the value. Do you understand? That means first it will do 5, then 6, 7, 8, 9, 10. It will keep doing it. You can see that until I cancel it, it will not stop. Do you see? I have to cancel it now. And I will delete it. Then it will be cancelled. And what is happening here? I have run it in infinite while loop. Now how do I cancel it? I think I can close this console and do this work. Oh God! I can stop the program. There was an option of stop above. It did not stop. Why did this happen? Stop it. Yes, it is fine. Now my stop is in. Oh! I have run it again. I have run it again. I will fix it. I will fix it. I will stop it. Sorry, Replicate people. I am taking so much of your compute. I will run infinite loop. I will fix it. I will run infinite loop. Let me tell you an incident. What happened was that many ants came on my laptop. It is a matter of college time. Many ants came on the laptop. What I did was I ran infinite while loop. I was in Java programming language. But the thing was the same. And my laptop wings started to rotate so fast. It seems like it will fly like a drone. And ants also ran away. It was done. So while loop can be useful in other things too. So now if I run it here, this time it will run 5, 4, 3, 2, 1. It will print absolutely fine. Now else can also be used with while loop. And else is used like this. If it doesn't go inside while loop, then it will go inside else. Now I will write print I am inside else. Ok. The count value is 5. I will tell you how it works. It will run. It will run. It will run. It will run. And finally when this condition will be false, then it will print I am inside else. So it is a very simple thing. Now see how to use else. You can even use the else statement with the while loop. Essentially what the else statement does is that as soon as the while loop condition becomes false, the interpreter comes out of the while loop and the else statement is executed. Ok. As soon as it comes out of the while loop, the else will be executed. Ok. I hope you understood that whenever this condition, means whenever it couldn't go inside while loop because of the condition being wrong, it will execute the else. It is a simple thing. Ok. Now if I make this count is equal to minus 5, then will the else execute? You tell me in the comments below. Will it or not? You have to tell me. I hope you all guessed that it will. Ok. Now you see here, I am inside else will be printed. Ok. So this is a very simple thing. Now I want to tell you one more thing. What is that? I will tell you. We have in more programming languages, do while loop. It doesn't happen in Python. I will tell you first. What happens in do while loop is that it executes the loop at least once. Do while loop is a very simple thing. It is a very simple thing. Do while loop is made for such cases which we discussed here first. Which I have just uncommented. Now I will comment the below one. What we did is that we run it once outside the while loop. Ok. Now if I write printib here, then it will become a perfect do while loop. What do do while loop do? It runs the loop content first. Like this is the content of this while loop. Do while loop runs it first. Irrespective of whether the condition is true or not. Ok. Now what will happen if do while loop is here. This is the do while loop. And I will tell you the syntax of do while loop. It doesn't work in Python. I will tell you. It is in C, Java, C++. But you should know how do while loop works. If I talk about C language. Now I am not teaching you C language. Ok. Don't think that I am teaching you C language here. Here is condition and here is content. So, the loop body. In fact, I don't need content. I should write loop body here. So, what happens is that I have written loop body here. So, I have written loop body here. What happens? I am writing loop body. So, loop body is written here. So, I am putting content here. So, I have written loop body here. So, what happens is that this thing is executed first. Then only condition will become true. It is a simple thing. This is do while loop. So, sometimes in Python there is a question that emulate do while loop in Python. Ok. So, this thing comes. This is a question that is asked a lot. That's why I am telling you what is do while loop. Now, if you say that I am just learning Python, I don't mean anything in Python. So, it is not like that. Don't think like that. Because, if you don't know what do while loop is, then how will you emulate it. So, do while loop is simple while loop. Which is executed at least once. It is always possible to check whether the condition is true or not. Once it is executed, then it will be checked and then it will be executed. If the condition is true, then it will be executed again. If it is false, then it will come out. So this is do while loop. Now I will tell you one more thing. In the next video, I will tell you about break and continue statement. In the meantime, what you have to do is try to figure it out yourself. Now you will say, why should I figure it out myself? See, when you figure out things by yourself, and after that you will understand, then you will have a different feeling. Remember this. In the next video, I will tell you about break and continue statement. And it is your duty that you come back to this rappel, to the day 18 rappel and try the emulation of do while loop by yourself. What does emulation mean? What you have to do is simply do while loop. Now this is one way to emulate do while loop. I wrote body twice. If the body was of 2000 lines, then our code would be of 4000 lines. Because you write once outside and once inside. That is the idea. So there is no detail. So there is a better way which you will adopt. Watch the next video once. Watch the day 19 video. After that you try to emulate do while loop. I hope everyone understood what is while loop. Everyone understood this thing. If you have not accessed the playlist of python yet, then definitely access it. That's all for now in this video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}
