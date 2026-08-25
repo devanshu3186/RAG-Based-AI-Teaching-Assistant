@@ -1,54 +1,44 @@
-from sentence_transformers import SentenceTransformer, util
+from sentence_transformers import SentenceTransformer
 import json
 import os
 import pandas as pd
-import numpy as np
+import joblib
 
 # Load a lightweight, popular open-source model
 model = SentenceTransformer("all-mpnet-base-v2")
-def create_embeddings(text):
+def create_embeddings(all_texts):
 
-    embedding = model.encode(text)  # Generate vector embedding
-
-    # embedding_list=embedding.tolist()  # numpy array to list conversion
-
+    #Process everything in batches
+    embedding = model.encode(
+    sentences=all_texts,
+    batch_size=64,           # Adjust based on your GPU/CPU memory
+    show_progress_bar=True,  # Displays a progress bar
+    convert_to_numpy=True,   # Returns a numpy array
+    )
     return  embedding
 
+if __name__=="__main__":
 
-json_dir = sorted(os.listdir("json"))
+    json_dir = sorted(os.listdir("json"))
 
-my_dicts=[]
-chunk_id=0
-for json_file in json_dir:
-    with open(f"json/{json_file}", "r") as f:
-        data=json.load(f)
-    print(f"Creating embeddings for {json_file}")
-    for chunk in data["chunks"]:
-        chunk["chunk_id"]=chunk_id
-        chunk["embedding"]=create_embeddings(chunk["text"])
-        chunk_id+=1
-        my_dicts.append(chunk)
+    my_dicts=[]
+    chunk_id=0
+    for json_file in json_dir:
+        with open(f"json/{json_file}", "r") as f:
+            data=json.load(f)
+        print(f"Creating embeddings for {json_file}")
 
-    break
-    
+        #Get the list of text from all chunks
+        all_texts=[chunk["text"] for chunk in data["chunks"]]
+        embeddings=create_embeddings(all_texts) 
 
-df=pd.DataFrame.from_records(my_dicts)
-
-
-incoming_query=input("Ask a Question: ")
-question_embedding=create_embeddings(incoming_query)
+        for i, chunk in enumerate(data["chunks"]):
+            chunk["chunk_id"]=chunk_id
+            chunk["embedding"]=embeddings[i]
+            chunk_id+=1
+            my_dicts.append(chunk)
 
 
-# Find similarities of question embedding with other embeddings 
-
-# chunk_embeddings_list = df["embedding"].values.tolist()  #Slow approach
-
-chunk_embeddings_array = np.stack(df["embedding"].values) # Combine all separate embedding arrays into one 2D array of shape (number_of_chunks, 768)
-
-similarities = util.cos_sim(question_embedding, chunk_embeddings_array).flatten()
-print(similarities)
-top_results=4
-max_idx=similarities.argsort(descending=True)[:top_results]
-print(max_idx)
-new_df=df.loc[max_idx]
-print(new_df[["title", "number", "text"]])
+    # Saving the DataFrame
+    df=pd.DataFrame.from_records(my_dicts)
+    joblib.dump(df, "chunks_embedding.pkl")

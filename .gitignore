@@ -1,2 +1,4 @@
 /.vscode
 /unused
+chunks_embedding.pkl
+/__pycache__
