@@ -1,0 +1,565 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 0.0,
+            "end": 19.8,
+            "text": " Welcome back to 100 days of code guys.  In today's video we will talk about modules and what is pip?  Modules are used to borrow other people's code.  You can use the code written by someone else in your python program with the help of modules.  Modules are of two types, we have built-in modules and we have external modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 19.8,
+            "end": 38.4,
+            "text": " Which are installed with the help of pip.  External modules are the codes that people have written and they want you to use their code in your python program.  Suppose I am using this phone and I don't know what is going on inside this phone and how it is working.  And I am able to use this phone even after that.  This is an external module for me."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 38.4,
+            "end": 57.9,
+            "text": " I don't know what is its implementation but I am able to use it.  Built-in modules on the other hand are those modules that are shipped with python programming language.  That means you don't need to install externally.  We take modules in practice because we don't want to code everything from scratch.  If you are working in a big machine learning program."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 57.9,
+            "end": 75.9,
+            "text": " If you are making a self-driving car with some artificial intelligence.  Then you don't want to write an average of 10 numbers.  Or you can write a program to get the geometric mean of 10 numbers again.  It can have human error.  This code which is written inside the modules is well tested and written by experts."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 75.9,
+            "end": 94.9,
+            "text": " And because many people have used it, there are very few chances of error in it.  If you want you can write the program from scratch for your understanding.  But if you will use modules then you will have time.  Efforts will be saved and you will be able to work on a big thing.  Let's go to the computer screen and we will install some modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 94.9,
+            "end": 116.9,
+            "text": " And we will see how all these things work.  Let's get started.  So guys I have come inside my computer screen.  And I will open my day 3 raffle here quickly.  And here you will get to see this video which I am recording right now."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 116.9,
+            "end": 128.9,
+            "text": " But because this video is not recorded here so I will keep it aside.  You will get to see the video here.  By the way let me tell you.  And along with that I will adjust it in some way.  You can adjust it according to your own."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 128.9,
+            "end": 143.9,
+            "text": " I want to tell you quickly what are the modules inside Python.  Whenever you write any code in Python programming language.  Then you can write it in two ways.  Either you are writing that code yourself.  Or you can take help of modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 143.9,
+            "end": 152.9,
+            "text": " If you have installed Python in your computer.  And you go to your terminal.  And you write pip.  Then you will get to see a utility.  Because I am in Mac."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 152.9,
+            "end": 162.9,
+            "text": " So pip 3 will work in my computer.  If you are in Linux or Mac then pip 3 will work.  In Windows pip works.  But you can see here as soon as I wrote pip 3.  I got to see a lot of things here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 162.9,
+            "end": 175.9,
+            "text": " If I write pip 3 install pandas.  Now you don't need to know what pandas is.  What I am writing.  So you see here it is written collecting pandas.  It is downloading a package from 1.1 MBPS."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 175.9,
+            "end": 186.9,
+            "text": " Let me explain what is going on here.  When I write pip install pandas.  Then I give command to my pip.  That I have to install a package named pandas.  Now what is pandas?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 186.9,
+            "end": 196.9,
+            "text": " It is a data analysis library.  As you can see here.  But let me tell you.  That you can use many modules in the same way.  See here I have used pandas."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 196.9,
+            "end": 207.9,
+            "text": " Now I will tell you a very good analogy to explain these built-in modules and external modules.  When you were small.  Your mother used to send you to take things.  And she used to tell you to go and get milk.  Go and get curd."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 207.9,
+            "end": 215.9,
+            "text": " Or go and get bread.  Go and get butter.  And whatever you used to bring and keep at home.  It was available at your home.  So you were basically the package manager of your home."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 215.9,
+            "end": 223.9,
+            "text": " Whatever you needed.  You used to bring it from a suitable place and keep it at home.  In the same way, pip is a package manager.  Whatever you need.  It is brought from the internet."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 223.9,
+            "end": 234.9,
+            "text": " And installs it in your python interpreter.  For example, it has installed pandas here as you can see.  Now I can use pandas.  But is it necessary to bring everything?  It is necessary to bring everything."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 234.9,
+            "end": 244.9,
+            "text": " If you need a refrigerator.  Then almost every house has a refrigerator.  And you don't need to bring the refrigerator from outside.  It is a built-in module.  It is present in your house."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 244.9,
+            "end": 251.9,
+            "text": " Every house has a needle.  There is a thread.  There is a spoon in every house.  There is a plate in every house.  So these are all built-in modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 251.9,
+            "end": 261.9,
+            "text": " They are found in every house.  So you don't need to bring it from outside every time.  Similarly, built-in modules and external modules work.  So whatever module we have to install.  We can install it with the help of pip."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 261.9,
+            "end": 270.9,
+            "text": " And after that.  If I write python 3 here.  And if you are in windows then write python.  So you will get to see python 3.11 in this way.  I will zoom it a little."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 270.9,
+            "end": 280.9,
+            "text": " So if I write here import pandas.  So you see now I will not get to see the error.  But if I write here import sklearn.  So I will get to see the error.  Module not found error."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 280.9,
+            "end": 289.9,
+            "text": " No module named sklearn.  It happened because this module was not present in my computer.  Now you don't worry at all.  What are all these things being written.  You will not understand."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 289.9,
+            "end": 297.9,
+            "text": " I know.  Just for your understanding.  I am telling you how to grab modules.  So I will come out of python's rappel.  I will write exit."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 297.9,
+            "end": 307.9,
+            "text": " Now if I want to install sklearn.  So I will write pip3 install sklearn.  Now when I use the package.  So I will write sklearn.  But I will install it with the name of sklearn."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 307.9,
+            "end": 317.9,
+            "text": " So you can see it is being installed.  And it is being installed at a very good speed.  And now if I write python 3 and import sklearn.  Then my work will be done.  Now it is installing some dependencies."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 317.9,
+            "end": 323.9,
+            "text": " Which may take more time.  What is sklearn?  It is a machine learning library.  Are we using it now?  Not just yet."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 323.9,
+            "end": 331.9,
+            "text": " So if I write sklearn.  So you will get to see here.  Machine learning library in python.  We will do everything.  We will do everything."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 331.9,
+            "end": 337.9,
+            "text": " We will make a blast.  You don't worry.  Now many people are commenting me.  That it is going very slow.  We know all these things."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 337.9,
+            "end": 345.9,
+            "text": " I meet them after some days.  And when the difficulty level will increase a little.  And there will be understanding.  This is the guarantee of this.  You follow me step by step all day."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 345.9,
+            "end": 359.9,
+            "text": " Now I want to show you.  It will be installed as soon as it is installed.  And after that as soon as I write python 3.  I want to show you import sklearn.  That the import sklearn will work here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 359.9,
+            "end": 366.9,
+            "text": " Now see I will do import sklearn.  It will work.  No error will come.  So I will exit it here.  Now this thing which we are writing python 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 366.9,
+            "end": 375.9,
+            "text": " And seeing here.  This is rappel.  This is REPL.  REPL means read, evaluate, print loop.  Ok."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 375.9,
+            "end": 383.9,
+            "text": " We will not use this.  We will write proper programs.  And python script will be written.  And we will execute it.  And for this I am using rapplet."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 383.9,
+            "end": 396.9,
+            "text": " Can you do this without rapplet?  Absolutely it is possible.  But I am using rapplet because rapplet is very convenient.  So I will make a file named main.py.  And I will take its output console here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 396.9,
+            "end": 407.9,
+            "text": " You see as soon as I drag it and leave it here.  So here I will get to see the output.  You will get to see my video here.  Which will be super convenient for you.  So in main.py what I will write here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 407.9,
+            "end": 416.9,
+            "text": " I will write here import pandas.  And you know what is the best thing about rapplet.  As soon as I will run it.  It will detect that pandas is not there.  It will automatically install it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 416.9,
+            "end": 429.9,
+            "text": " So you don't get confused that why there is no error.  There is no error because rapplet has started installing it for your convenience.  Rapplet wants that when you are doing programming.  You should be comfortable.  But concepts are important for you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 429.9,
+            "end": 440.9,
+            "text": " If you will run here then you will get to see the error.  As I have shown you.  But in rapplet you see.  It has started automatically installing pandas.  Because rapplet knows that pandas has been imported."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 440.9,
+            "end": 453.9,
+            "text": " So definitely I want to use pandas.  So why not it should be automatically installed.  Which is a very good thing about rapplet.  So in python they have installed pandas.  Now suppose I write print hi here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 453.9,
+            "end": 459.9,
+            "text": " I will write it like this.  And now I will run it.  So it is installed.  Because pandas hi is here.  I am getting to see."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 459.9,
+            "end": 467.9,
+            "text": " So this is the specialty of rapplet.  Now for your convenience.  I have written in text.  So you can see.  This is the module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 467.9,
+            "end": 473.9,
+            "text": " It is like a code library.  Which someone else has written.  And you can bring it in your program.  By using import keyword.  I will tell you more about it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 473.9,
+            "end": 483.9,
+            "text": " Built-in modules and external modules.  There are two types of modules.  Built-in modules are those.  Which are shipped with python programming language.  So let's write built-in modules here in python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 483.9,
+            "end": 491.9,
+            "text": " And see which are those modules.  Which are built-in in python.  Which are the modules.  Which I do not need to install again and again.  See here the list of all the modules has come."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 491.9,
+            "end": 500.9,
+            "text": " You can see here.  There is a module named hashlib.  Let's use it.  Let's see by doing import hashlib.  And see when I do import hashlib."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 500.9,
+            "end": 506.9,
+            "text": " So will it be installed.  So see I have run it.  I am running it.  And you see.  It is not installed."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 506.9,
+            "end": 512.9,
+            "text": " It has written simple hi.  But on the other hand.  If I write here.  Import tensorflow.  I will show you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 512.9,
+            "end": 520.9,
+            "text": " If I write tensorflow.  So tensorflow will start installing here.  You see here.  It has started installing tensorflow.  Because tensorflow is not a built-in module."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 520.9,
+            "end": 526.9,
+            "text": " It is an external module.  Which you need to download from the internet.  And bring it.  That's why it is being brought.  So external modules."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 526.9,
+            "end": 531.9,
+            "text": " Have to bring.  Like your home's stuff.  Which is finished in the house.  You have to bring it.  Every day."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 531.9,
+            "end": 536.9,
+            "text": " You have to bring milk.  But you don't have to bring the plate every day.  Because it is in your house.  So the plate is a built-in module.  And the milk you are bringing every day from outside."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 536.9,
+            "end": 541.9,
+            "text": " What is that?  That is an external module.  Okay.  It is fun.  See here."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 541.9,
+            "end": 546.9,
+            "text": " How to use pip command.  I have told you this.  You will write pip install pandas.  Pandas will be installed.  You can use this button to copy the code."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 546.9,
+            "end": 551.9,
+            "text": " So whatever code I am writing here.  You copy something like this.  And after that.  You can copy it.  And then."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 551.9,
+            "end": 556.9,
+            "text": " You can run it.  So what happens in pandas?  There is a module.  Pandas.  In which read csv function is there."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 556.9,
+            "end": 561.9,
+            "text": " Csv is a file like excel.  You can read it.  But don't get into this mess right now.  I am just telling you.  How this thing works."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 561.9,
+            "end": 566.9,
+            "text": " I will get you to read excel in detail in the coming time.  So don't worry.  Even by its mistake.  Okay.  Now many people are asking."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 566.9,
+            "end": 571.9,
+            "text": " Which python tutorial should I follow?  Always you guys.  Latest video.  I will tell you.  I will tell you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 571.9,
+            "end": 576.9,
+            "text": " I will tell you.  I will tell you.  I will tell you.  I will tell you.  I will tell you."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 576.9,
+            "end": 581.9,
+            "text": " I will tell you.  I will tell you.  I will tell you.  I will tell you.  So always you guys follow latest videos."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 581.9,
+            "end": 586.9,
+            "text": " Latest videos have a lot of hype.  So if you are seeing this latest video.  So you guys follow it.  And many people are asking.  Which version of python should I use?"
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 586.9,
+            "end": 591.9,
+            "text": " So I will tell you.  The latest version.  You guys use that.  If you come on replate.  Then you don't have to take tension for that."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 591.9,
+            "end": 596.9,
+            "text": " And I will tell you.  As long as it is python 3.  Python 3.7.  Python 3.11.  Python 3.8."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 596.9,
+            "end": 601.9,
+            "text": " There is not much difference between these.  Your programs will work.  Yes.  But if python 4 comes.  Or python 5 comes."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 601.9,
+            "end": 606.9,
+            "text": " Then it will be very difficult.  Because python 3.  Python 3.  Python 3.  Python 3."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 606.9,
+            "end": 612.9,
+            "text": " Python 3.  So this can be.  A major upgrade.  Maybe.  That it won't be guaranteed."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 612.9,
+            "end": 618.0,
+            "text": " that,  Some things will remain same in python 4.  Maybe.  So,  That also it is about to see."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 618.0,
+            "end": 624.3,
+            "text": " But,  never take tension for this.  That what python you want to use?  That was I am watching Pythonza 3.11.  So Hobone 2 use it."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 624.3,
+            "end": 629.9599999999999,
+            "text": " Of 3.11.  Or it is one one..  Yes,  you can see.  OK."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 629.9599999999999,
+            "end": 636.16,
+            "text": " Basic chasing going to remain.  If in thisimeter,  KSite CEO .  after you writing python.  That almost all the things."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 636.16,
+            "end": 649.76,
+            "text": " All is do.  OK.  See, Python 3.8.12 is installed in this.  So if I write print hello, ok.  W doesn't come in hello, I know the spelling of hello."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 649.76,
+            "end": 661.76,
+            "text": " I will hit enter, see hello has come here.  So you get this terminal here.  And your IDE is built in the browser.  So it is a little easy.  I will also come here, I will see you below."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 661.76,
+            "end": 675.76,
+            "text": " You will see here, it will float inside this window.  And then here you will see the text tutorial written by me.  I have written it with a lot of effort.  So do not skip reading, it is also easy by mistake.  So you will have a very good learning experience."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 675.76,
+            "end": 692.76,
+            "text": " In our first tutorial of Python, we crossed almost 3 lakh views in 24 days.  So this video was very trending.  So you must access it.  Click here to bookmark the playlist.  Click here to save this playlist."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 692.76,
+            "end": 699.76,
+            "text": " You will have a lot of fun.  Python 3.8.12 is installed.  Python is a very powerful programming language.  YouTube uses Python.  Python is also used by Instagram."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 699.76,
+            "end": 712.76,
+            "text": " Python is used by Facebook.  Who uses Python?  In fact, the question is who does not use Python?  Python is such a great and versatile language  that almost all the big companies use Python."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 712.76,
+            "end": 723.76,
+            "text": " Now it is clear to us why we are doing programming.  Because we are humans.  As humans, we do some good things.  And as a computer, the computer does some good things.  So we want to get the work done from the computer in which the computer is good."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 723.76,
+            "end": 736.76,
+            "text": " And we are doing the good work in our daily lives.  So that's why we use Python programming language.  Because it is very easy.  I will definitely meet you in day 4.  That's all for now in this video."
+        },
+        {
+            "number": "3",
+            "title": "Modules and Pip",
+            "start": 736.76,
+            "end": 760.76,
+            "text": " Thank you so much guys for watching this video.  And I will see you next time.  Bye."
+        }
+    ],
+    "text": " Welcome back to 100 days of code guys. In today's video we will talk about modules and what is pip? Modules are used to borrow other people's code. You can use the code written by someone else in your python program with the help of modules. Modules are of two types, we have built-in modules and we have external modules. Which are installed with the help of pip. External modules are the codes that people have written and they want you to use their code in your python program. Suppose I am using this phone and I don't know what is going on inside this phone and how it is working. And I am able to use this phone even after that. This is an external module for me. I don't know what is its implementation but I am able to use it. Built-in modules on the other hand are those modules that are shipped with python programming language. That means you don't need to install externally. We take modules in practice because we don't want to code everything from scratch. If you are working in a big machine learning program. If you are making a self-driving car with some artificial intelligence. Then you don't want to write an average of 10 numbers. Or you can write a program to get the geometric mean of 10 numbers again. It can have human error. This code which is written inside the modules is well tested and written by experts. And because many people have used it, there are very few chances of error in it. If you want you can write the program from scratch for your understanding. But if you will use modules then you will have time. Efforts will be saved and you will be able to work on a big thing. Let's go to the computer screen and we will install some modules. And we will see how all these things work. Let's get started. So guys I have come inside my computer screen. And I will open my day 3 raffle here quickly. And here you will get to see this video which I am recording right now. But because this video is not recorded here so I will keep it aside. You will get to see the video here. By the way let me tell you. And along with that I will adjust it in some way. You can adjust it according to your own. I want to tell you quickly what are the modules inside Python. Whenever you write any code in Python programming language. Then you can write it in two ways. Either you are writing that code yourself. Or you can take help of modules. If you have installed Python in your computer. And you go to your terminal. And you write pip. Then you will get to see a utility. Because I am in Mac. So pip 3 will work in my computer. If you are in Linux or Mac then pip 3 will work. In Windows pip works. But you can see here as soon as I wrote pip 3. I got to see a lot of things here. If I write pip 3 install pandas. Now you don't need to know what pandas is. What I am writing. So you see here it is written collecting pandas. It is downloading a package from 1.1 MBPS. Let me explain what is going on here. When I write pip install pandas. Then I give command to my pip. That I have to install a package named pandas. Now what is pandas? It is a data analysis library. As you can see here. But let me tell you. That you can use many modules in the same way. See here I have used pandas. Now I will tell you a very good analogy to explain these built-in modules and external modules. When you were small. Your mother used to send you to take things. And she used to tell you to go and get milk. Go and get curd. Or go and get bread. Go and get butter. And whatever you used to bring and keep at home. It was available at your home. So you were basically the package manager of your home. Whatever you needed. You used to bring it from a suitable place and keep it at home. In the same way, pip is a package manager. Whatever you need. It is brought from the internet. And installs it in your python interpreter. For example, it has installed pandas here as you can see. Now I can use pandas. But is it necessary to bring everything? It is necessary to bring everything. If you need a refrigerator. Then almost every house has a refrigerator. And you don't need to bring the refrigerator from outside. It is a built-in module. It is present in your house. Every house has a needle. There is a thread. There is a spoon in every house. There is a plate in every house. So these are all built-in modules. They are found in every house. So you don't need to bring it from outside every time. Similarly, built-in modules and external modules work. So whatever module we have to install. We can install it with the help of pip. And after that. If I write python 3 here. And if you are in windows then write python. So you will get to see python 3.11 in this way. I will zoom it a little. So if I write here import pandas. So you see now I will not get to see the error. But if I write here import sklearn. So I will get to see the error. Module not found error. No module named sklearn. It happened because this module was not present in my computer. Now you don't worry at all. What are all these things being written. You will not understand. I know. Just for your understanding. I am telling you how to grab modules. So I will come out of python's rappel. I will write exit. Now if I want to install sklearn. So I will write pip3 install sklearn. Now when I use the package. So I will write sklearn. But I will install it with the name of sklearn. So you can see it is being installed. And it is being installed at a very good speed. And now if I write python 3 and import sklearn. Then my work will be done. Now it is installing some dependencies. Which may take more time. What is sklearn? It is a machine learning library. Are we using it now? Not just yet. So if I write sklearn. So you will get to see here. Machine learning library in python. We will do everything. We will do everything. We will make a blast. You don't worry. Now many people are commenting me. That it is going very slow. We know all these things. I meet them after some days. And when the difficulty level will increase a little. And there will be understanding. This is the guarantee of this. You follow me step by step all day. Now I want to show you. It will be installed as soon as it is installed. And after that as soon as I write python 3. I want to show you import sklearn. That the import sklearn will work here. Now see I will do import sklearn. It will work. No error will come. So I will exit it here. Now this thing which we are writing python 3. And seeing here. This is rappel. This is REPL. REPL means read, evaluate, print loop. Ok. We will not use this. We will write proper programs. And python script will be written. And we will execute it. And for this I am using rapplet. Can you do this without rapplet? Absolutely it is possible. But I am using rapplet because rapplet is very convenient. So I will make a file named main.py. And I will take its output console here. You see as soon as I drag it and leave it here. So here I will get to see the output. You will get to see my video here. Which will be super convenient for you. So in main.py what I will write here. I will write here import pandas. And you know what is the best thing about rapplet. As soon as I will run it. It will detect that pandas is not there. It will automatically install it. So you don't get confused that why there is no error. There is no error because rapplet has started installing it for your convenience. Rapplet wants that when you are doing programming. You should be comfortable. But concepts are important for you. If you will run here then you will get to see the error. As I have shown you. But in rapplet you see. It has started automatically installing pandas. Because rapplet knows that pandas has been imported. So definitely I want to use pandas. So why not it should be automatically installed. Which is a very good thing about rapplet. So in python they have installed pandas. Now suppose I write print hi here. I will write it like this. And now I will run it. So it is installed. Because pandas hi is here. I am getting to see. So this is the specialty of rapplet. Now for your convenience. I have written in text. So you can see. This is the module. It is like a code library. Which someone else has written. And you can bring it in your program. By using import keyword. I will tell you more about it. Built-in modules and external modules. There are two types of modules. Built-in modules are those. Which are shipped with python programming language. So let's write built-in modules here in python. And see which are those modules. Which are built-in in python. Which are the modules. Which I do not need to install again and again. See here the list of all the modules has come. You can see here. There is a module named hashlib. Let's use it. Let's see by doing import hashlib. And see when I do import hashlib. So will it be installed. So see I have run it. I am running it. And you see. It is not installed. It has written simple hi. But on the other hand. If I write here. Import tensorflow. I will show you. If I write tensorflow. So tensorflow will start installing here. You see here. It has started installing tensorflow. Because tensorflow is not a built-in module. It is an external module. Which you need to download from the internet. And bring it. That's why it is being brought. So external modules. Have to bring. Like your home's stuff. Which is finished in the house. You have to bring it. Every day. You have to bring milk. But you don't have to bring the plate every day. Because it is in your house. So the plate is a built-in module. And the milk you are bringing every day from outside. What is that? That is an external module. Okay. It is fun. See here. How to use pip command. I have told you this. You will write pip install pandas. Pandas will be installed. You can use this button to copy the code. So whatever code I am writing here. You copy something like this. And after that. You can copy it. And then. You can run it. So what happens in pandas? There is a module. Pandas. In which read csv function is there. Csv is a file like excel. You can read it. But don't get into this mess right now. I am just telling you. How this thing works. I will get you to read excel in detail in the coming time. So don't worry. Even by its mistake. Okay. Now many people are asking. Which python tutorial should I follow? Always you guys. Latest video. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. I will tell you. So always you guys follow latest videos. Latest videos have a lot of hype. So if you are seeing this latest video. So you guys follow it. And many people are asking. Which version of python should I use? So I will tell you. The latest version. You guys use that. If you come on replate. Then you don't have to take tension for that. And I will tell you. As long as it is python 3. Python 3.7. Python 3.11. Python 3.8. There is not much difference between these. Your programs will work. Yes. But if python 4 comes. Or python 5 comes. Then it will be very difficult. Because python 3. Python 3. Python 3. Python 3. Python 3. So this can be. A major upgrade. Maybe. That it won't be guaranteed. that, Some things will remain same in python 4. Maybe. So, That also it is about to see. But, never take tension for this. That what python you want to use? That was I am watching Pythonza 3.11. So Hobone 2 use it. Of 3.11. Or it is one one.. Yes, you can see. OK. Basic chasing going to remain. If in thisimeter, KSite CEO . after you writing python. That almost all the things. All is do. OK. See, Python 3.8.12 is installed in this. So if I write print hello, ok. W doesn't come in hello, I know the spelling of hello. I will hit enter, see hello has come here. So you get this terminal here. And your IDE is built in the browser. So it is a little easy. I will also come here, I will see you below. You will see here, it will float inside this window. And then here you will see the text tutorial written by me. I have written it with a lot of effort. So do not skip reading, it is also easy by mistake. So you will have a very good learning experience. In our first tutorial of Python, we crossed almost 3 lakh views in 24 days. So this video was very trending. So you must access it. Click here to bookmark the playlist. Click here to save this playlist. You will have a lot of fun. Python 3.8.12 is installed. Python is a very powerful programming language. YouTube uses Python. Python is also used by Instagram. Python is used by Facebook. Who uses Python? In fact, the question is who does not use Python? Python is such a great and versatile language that almost all the big companies use Python. Now it is clear to us why we are doing programming. Because we are humans. As humans, we do some good things. And as a computer, the computer does some good things. So we want to get the work done from the computer in which the computer is good. And we are doing the good work in our daily lives. So that's why we use Python programming language. Because it is very easy. I will definitely meet you in day 4. That's all for now in this video. Thank you so much guys for watching this video. And I will see you next time. Bye."
+}

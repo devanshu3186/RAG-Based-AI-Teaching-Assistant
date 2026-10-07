@@ -1,0 +1,859 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 0.0,
+            "end": 19.0,
+            "text": " Welcome back to 100 days of code  In today's video we will see comments, escape sequence characters and print statement  Whenever we do coding in Python programming language or any language  Sometimes we want to leave some text in that program which is not executed  Whatever we write in our program is executed by Python interpreter"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 19.0,
+            "end": 40.0,
+            "text": " But sometimes we want to write some lines in our program which is not executed  For example if I am writing a program  Then maybe after 6 months I will forget what is happening in that program  So for me it will be natural to write some lines in my program  I want to add some lines which will tell future harry what program he wrote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 40.0,
+            "end": 56.0,
+            "text": " Or if I am working with my friend Shivam or with my friend Rohan  Then I have to tell them what I am doing in my program  How my program is working  In this way I will use comments  Escape sequence characters of Python"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 56.0,
+            "end": 80.0,
+            "text": " Print statement we will see in this video  Let's go to computer screen and let's get started  So what I will do here is  I am going to open my file main.py  So I am going to files and I will open main.py here as always"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 80.0,
+            "end": 96.0,
+            "text": " And here my main.py output is going to be  That you will see  So if I am writing here print hey I am a good boy  So there is no doubt that I am a good boy  So here print hey I am a good boy will be printed"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 96.0,
+            "end": 113.0,
+            "text": " In fact in print statement in double quotes whatever you will give  You will get to see here  So here I got to see hey I am a good boy  And here you see if I am writing here hey I am a good boy  Suppose I hit enter here and write and this viewer"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 113.0,
+            "end": 125.0,
+            "text": " Is also a good boy slash girl  So if I will run this here  So what red line I am getting to see  This is a sign of danger  What kind of error is this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 125.0,
+            "end": 136.0,
+            "text": " URL while scanning string literal  Now I will tell you what does it mean  Python is basically saying that you know what  You wrote print here and you started double quotes  But you hit enter here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 136.0,
+            "end": 146.0,
+            "text": " I did not like it at all  I didn't like it  So you will say that what should I do  I want a new line of boy  After that python says to you that it is fine"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 146.0,
+            "end": 161.0,
+            "text": " You guys want a new line right  So you guys do the use of escape sequence characters  Here you have to put backslash n like this  And you don't have to hit this new line  Just write backslash n python will take care of it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 161.0,
+            "end": 172.0,
+            "text": " So you guys will say backslash n is fine  I am a good boy wrote backslash n  You will run the code as it is  And you will see I am a good boy  And after that this viewer is also a good boy slash girl"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 172.0,
+            "end": 183.0,
+            "text": " And after that what was this  What was backslash n  This was an escape sequence character  I will talk about this today  And I will tell you what are these escape sequence characters"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 183.0,
+            "end": 195.0,
+            "text": " And what are these escape sequence characters  But before that I want to tell you  What are the comments  Suppose I am working on a codebase  I am creating code with harry.com"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 195.0,
+            "end": 208.0,
+            "text": " And we are making that website with a lot of noise  Both of them are working on it  Suppose I want to tell you  That there is a new design coming up on the homepage of code with harry.com  And I will bring it after two days"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 208.0,
+            "end": 220.0,
+            "text": " And suppose I am going to comment  That don't change this design  Don't remove this line from here  I want to write here  Hey harry please don't remove this line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 220.0,
+            "end": 229.0,
+            "text": " Suppose I want to say this  I say harry don't remove this line  I am working on it  For this line I want to keep this in codebase  But you guys are seeing here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 229.0,
+            "end": 238.0,
+            "text": " Python Devtan is angry  Nagraj is saying that what is going on  Where did this invalid syntax come from  I understand print  I understand a lot of other syntax"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 238.0,
+            "end": 246.0,
+            "text": " But this hey harry please don't remove this line  I didn't like it  Python says this to us  So we will run this  So obviously we will get to see the error in this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 246.0,
+            "end": 255.0,
+            "text": " There is no doubt and you will also know  Now what is this  But I still want to keep this line  Please I say to python please  Python says okay don't cry like a child"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 255.0,
+            "end": 265.0,
+            "text": " Yes don't cry like a child  I will tell you how to keep it  Python says that look there is a comment inside me  Comments means that you can keep any text  I don't care about that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 265.0,
+            "end": 276.0,
+            "text": " You will say wow  Python you are so good  Python says yes I am so good  What should I do  Python says you put a character like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 276.0,
+            "end": 284.0,
+            "text": " And this will become a comment  What will become  This will become a comment  And after this if you have marked any line as comment  First of all it is replating for you guys"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 284.0,
+            "end": 294.0,
+            "text": " Syntax highlighting  In any id you will write syntax highlighting  In this case I have this comment  This comment is showing in green colour  And see here this syntax highlighting is going on"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 294.0,
+            "end": 307.0,
+            "text": " I have written print it is showing in yellow colour  After this the string literal is showing in some orange colour  Then these brackets are also showing in different colour  Error is showing in red colour  So this is syntax highlighting"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 307.0,
+            "end": 320.0,
+            "text": " Which is done by any id or any other id  Hey harry please don't remove this line  Now let's run it  And now our program is running  That means I can write some text in my program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 320.0,
+            "end": 332.0,
+            "text": " I can write some information  For example I want to mark that  This program's author is harry  And for example I want to mark this thing  That this course is 100 days of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 332.0,
+            "end": 339.0,
+            "text": " Ok  For example I want to write this thing  So I can write  I can write here  Now I will tell you guys a secret"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 339.0,
+            "end": 347.0,
+            "text": " Ok what is that secret  Now that is not a secret  Because I have told you  You guys can select multiple lines  And control or command if you are in mac"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 347.0,
+            "end": 359.0,
+            "text": " Control plus forward slash  As you will press this  You can comment or uncomment any code base  So I will show you guys comment out many lines in this way  So don't ask me how I did it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 359.0,
+            "end": 372.0,
+            "text": " Because I must have done it with control plus forward slash  So control plus forward slash  You guys can use this  Ok  Any one line or multiple lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 372.0,
+            "end": 379.0,
+            "text": " Hey what happened to Siri  Siri no I am not talking to you  So here I was telling you that  These lines  Multiple lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 379.0,
+            "end": 388.0,
+            "text": " You can mark them as comments  Or you can uncomment them too  Ok  Ok this is very good  So here I have written the same thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 388.0,
+            "end": 399.0,
+            "text": " That a comment is a part of coding file  That the programmer does not want to execute  Rather the programmer uses it to  Either explain a block of code  Or to avoid the execution of a specific part of code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 399.0,
+            "end": 406.0,
+            "text": " While testing  Do you understand this  This means  That suppose I write a comment here  Suppose I write code only"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 406.0,
+            "end": 415.0,
+            "text": " Ok  Suppose I want to write this too  Print hello word  Ok  Now suppose I show my boss this program"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 415.0,
+            "end": 422.0,
+            "text": " I say boss I wrote this program  How is it looking  I wrote this and this  Boss says this is very good  No I don't like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 422.0,
+            "end": 431.0,
+            "text": " Let's remove the hello word  I will say ok  So I will select and do control forward slash  And now I can remove this code  Now suppose my boss's boss"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 431.0,
+            "end": 436.0,
+            "text": " Says to my boss  What is going on  Why did you remove the hello word  It was looking so good  So I will remove it again"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 436.0,
+            "end": 444.0,
+            "text": " I can do this again  And hello word will come again  Ok  So this is how hello word can be done  Comment or uncomment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 444.0,
+            "end": 450.0,
+            "text": " Ok  So I have written the same thing here  I have given you an example  You don't even need to write code  Copy and paste it from here"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 450.0,
+            "end": 458.0,
+            "text": " Run it like this  Ok  As you do this  Now see here  You will not get to see this is a single line comment error"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 458.0,
+            "end": 467.0,
+            "text": " You will get to see this is a print statement  I have given one more example here  You can write a comment after a line  That means  Suppose you have written something like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 467.0,
+            "end": 475.0,
+            "text": " I am pasting it  And I will do something like this  You see I have written print  And after this  What can I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 475.0,
+            "end": 483.0,
+            "text": " Actually I removed this  I should have used a bracket  Now see you guys  As soon as I write print here  And after this I write hello word"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 483.0,
+            "end": 492.0,
+            "text": " And after this  I can write any comment here  Ok  That means my code will be executed  And as soon as it will get this pound symbol"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 492.0,
+            "end": 497.0,
+            "text": " It will say ok  I understood  Whatever you have written I will execute it  If you don't want to do it  Then I will ignore it"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 497.0,
+            "end": 506.0,
+            "text": " So Python interpreter  Will ignore this printing hello word  What happens if this doesn't happen  Obviously error comes  You guys also know"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 506.0,
+            "end": 512.0,
+            "text": " What will come  Syntax error will come  It will be said that what is going on  What is this printing hello word  Print hello word was fine"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 512.0,
+            "end": 518.0,
+            "text": " Python God will say  But he will say  What did you put in printing hello word  I didn't like it  Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 518.0,
+            "end": 527.0,
+            "text": " Which will be such a thing  So you guys can see here  That as soon as I will put pound symbol here  And after this I will run  Then it will work"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 527.0,
+            "end": 533.0,
+            "text": " Ok  You can see it worked  Now see here  What can I do  That I can comment out the code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 533.0,
+            "end": 542.0,
+            "text": " I have already told you  But one more thing I want to tell you  That how will you write multi line comments  Now I will tell you the story of multi line comments  Suppose someone told me"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 542.0,
+            "end": 550.0,
+            "text": " That  Let's take this example  I will uncomment it  Suppose someone told me  That uncomment these three lines"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 550.0,
+            "end": 557.0,
+            "text": " I have two ways  Now because I am living in modern world nowadays  I have IDE  I have replit  I have modern IDEs"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 557.0,
+            "end": 562.0,
+            "text": " So I will select and  Control forward slash  This shortcut is provided  Through replit  Through VS code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 562.0,
+            "end": 567.0,
+            "text": " Through modern IDEs  Which will help you  To comment or uncomment  But if I can't do this  Then what will I do"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 567.0,
+            "end": 572.0,
+            "text": " So for my convenience  I will put triple single quote  And whatever I write in it  I will press alt  And down arrow"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 572.0,
+            "end": 577.0,
+            "text": " By the way to move the line  Ok  So you guys learn this shortcut too  And now  I will tell you"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 577.0,
+            "end": 582.0,
+            "text": " How to write multiple line comments  So if you have multiple line comments  Then you can write multiple line comments  So you can write multiple line comments  And then"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 582.0,
+            "end": 588.0,
+            "text": " You guys learn this too  Ok  All the shortcuts of VS code  Work in replit  So you guys won't face any problem"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 588.0,
+            "end": 593.0,
+            "text": " Ok  And if you want to learn  The shortcuts of VS code  Then you guys can  Search Google"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 593.0,
+            "end": 598.0,
+            "text": " I have a video of VS code  You can watch that too  But now  We will focus on Python  So if I will enclose"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 598.0,
+            "end": 605.0,
+            "text": " Anything in triple single quote  Then it will become  Multi line comment  What was written before this  Was not multi line comment"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 605.0,
+            "end": 610.0,
+            "text": " Obviously  That was also a kind of  Multi line comment  So I wrote that here  That you can use pound symbol"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 610.0,
+            "end": 615.0,
+            "text": " To put multi line comment  You can put  But  This method  Triple single quote"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 615.0,
+            "end": 620.0,
+            "text": " Or triple double quote  You guys can also put  I will tell you this too  Triple single quote  Program is working"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 620.0,
+            "end": 625.0,
+            "text": " But triple double quote  Will also work  One two three  I have put triple double quote  And I will do one more thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 625.0,
+            "end": 630.0,
+            "text": " I will press shift and  Ctrl X  I will press  Ctrl V  By selecting"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 630.0,
+            "end": 635.0,
+            "text": " And now I will run  So  After that  It will work  Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 635.0,
+            "end": 640.0,
+            "text": " Are you seeing  Here it works  Very good  It is fun  Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 640.0,
+            "end": 645.0,
+            "text": " Now here  We can comment  And uncomment  Anything  If I have written any line"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 645.0,
+            "end": 650.0,
+            "text": " Or multiple lines  I will select them  And press Ctrl  Or command  Plus forward slash"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 650.0,
+            "end": 655.0,
+            "text": " So I  Can use  To comment  This shortcut  Ok"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 655.0,
+            "end": 660.0,
+            "text": " I hope  You guys  Understand  Ok  Let's talk about"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 660.0,
+            "end": 665.0,
+            "text": " Escape sequence characters  If you guys  Have to  Insert characters  In a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 665.0,
+            "end": 670.0,
+            "text": " For example  Here it is written  Hey I am  A good boy  And after that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 670.0,
+            "end": 675.0,
+            "text": " If I have to insert  A character  Let's say  Newline character  So how will I do that"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 675.0,
+            "end": 680.0,
+            "text": " I will do one thing  That I will comment out this  So that  You guys  Will see"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 680.0,
+            "end": 685.0,
+            "text": " The output of this print statement  You guys understood  Why I did this  So that you guys  Stay focused"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 685.0,
+            "end": 690.0,
+            "text": " In this print statement  Hey I am a good boy  And this  Viewer is also  A good boy"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 690.0,
+            "end": 695.0,
+            "text": " Slash girl  Ok  Now see here  This tutorial  Which I have written"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 695.0,
+            "end": 700.0,
+            "text": " What have I written in this  I have written  To insert characters  That cannot directly be  Used in a string"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 700.0,
+            "end": 705.0,
+            "text": " So now  We will use  Escape sequence character  So now  One thing"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 705.0,
+            "end": 710.0,
+            "text": " That a character  Which cannot be used  In a string  Can be used  In an escape sequence"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 710.0,
+            "end": 715.0,
+            "text": " Character  For example  If I enter  A newline character  Literally"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 715.0,
+            "end": 720.0,
+            "text": " Then there will be an error  Because  Python will not be able  To parse this  If you have inserted"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 720.0,
+            "end": 725.0,
+            "text": " Newline in a string  Literally  Then it will not be able  To parse  So we insert"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 725.0,
+            "end": 730.0,
+            "text": " Newline character  Backslash  Plus n  Which is a newline character  It is an escape sequence character"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 730.0,
+            "end": 735.0,
+            "text": " Which you can insert  Any time  In a string  So you will get to see  Newline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 735.0,
+            "end": 740.0,
+            "text": " In some way  So if I run this  Then  Hey I am a good boy  Will be done in a newline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 740.0,
+            "end": 745.0,
+            "text": " What about  I  Hey I am a good boy  Want to enclose  In double code"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 745.0,
+            "end": 750.0,
+            "text": " In some way  This should work  What is the problem  You will think like this  If you think like this"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 750.0,
+            "end": 755.0,
+            "text": " Then  Are you seeing this redline  Replit has given a sign  It has set a warning  Tantantantantan"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 755.0,
+            "end": 779.4,
+            "text": " Ok  So ID  It recorded the warning  There were signals  It has set"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 779.4,
+            "end": 785.16,
+            "text": "\u0430\u043b\u044c\u043d\u044b\u0435  you are see  Next  Let's see  Newline"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 785.16,
+            "end": 793.92,
+            "text": " I think  Like this  double quote means it will be ending here.  Okay, it is ending here.  Then what is this? This is invalid syntax for Python."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 793.92,
+            "end": 810.92,
+            "text": " Because if this double quote comes from here and makes a string,  then what is this good boy after this?  So here you will get to see the error.  So to avoid this, we don't use double quote character.  We use backslash double quote which is a double quote escape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 810.92,
+            "end": 825.92,
+            "text": " So this is a character, this is a character.  Now I will run this. So here I will see only double quote.  See I am a good boy is coming in double quote.  Did you see backslash here? No, you didn't.  But I used backslash. Why did I do that?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 825.92,
+            "end": 843.92,
+            "text": " Because I wanted to use backslash double quote which is one character.  It looks like two but it is one character.  Backslash double quote which produces a single double quote in output.  What happens is an escape sequence character.  An escape sequence character is a backslash followed by the character you want to insert."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 843.92,
+            "end": 857.92,
+            "text": " An example of a character that cannot be directly used as a string.  I have given it here.  If the string in your print is made in this way in single quote,  then you cannot use single quote also.  Do you understand?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 857.92,
+            "end": 870.92,
+            "text": " Now we will read these things in more detail in the chapter on strings.  But if I put it in single quote, I cannot put single quote.  I will have to put backslash single quote.  See, there is an error.  I will put backslash single quote."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 870.92,
+            "end": 878.92,
+            "text": " So this single quote will come.  After hey I am.  A single quote came.  So I can put single quote in strings like this.  So this was our escape sequence character."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 878.92,
+            "end": 893.92,
+            "text": " I hope you understood.  Now I want to tell you about print statement.  Some other things.  The first thing I want to tell you is that in print you can give multiple values.  Like I can give here hey, six and seven."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 893.92,
+            "end": 901.92,
+            "text": " I can give these three values.  If I run it, I will get to see all three.  Hey, six and seven.  As you can see in your computer screen.  You can see."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 901.92,
+            "end": 914.92,
+            "text": " Now after this, one more parameter of this is separator.  I am here scp is equal to.  If I put this character.  And now I run it.  So you will see that when I put scp is equal to this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 914.92,
+            "end": 927.92,
+            "text": " So this will be separated from tilde character.  As you can see here.  After hey, one tilde came.  Then after that, another tilde came.  So if you want to join any three things with a given separator, you can do it like this."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 927.92,
+            "end": 933.92,
+            "text": " Like I just did.  Okay.  You can do this thing.  After this, there is one more parameter.  End is equal to."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 933.92,
+            "end": 947.92,
+            "text": " Suppose here instead of end is equal to, I write 009.  What does this mean?  This means that if I write another print statement.  And suppose I write print harry in it.  And I run it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 947.92,
+            "end": 959.92,
+            "text": " So you see that hey, six, seven will come.  After that, whatever is the next print statement, 009 will come before that.  Ideally, we write end is equal to.  Suppose 009 backslash n.  Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 959.92,
+            "end": 967.92,
+            "text": " By the way, we put backslash n and end is equal to.  We can also put null.  By default, backslash n is there.  Okay.  We can also put end is equal to null."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 967.92,
+            "end": 981.92,
+            "text": " Okay.  You should also know this.  Now here I put 009 backslash n.  So whenever I run the next print statement, 009 backslash n will be appended in this print statement.  What is the difference between sep and end?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 981.92,
+            "end": 996.92,
+            "text": " Sep means that the multiple values given in one print statement, what will be separated from that.  The default separator is space.  As I have written here that the default separator is space.  Then what does end mean?  Specify what to print at the end."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 996.92,
+            "end": 1004.92,
+            "text": " When this print statement will end, then what will be printed?  You can write anything here.  It will be printed.  By default, there is a new line.  Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1004.92,
+            "end": 1017.92,
+            "text": " If you want to override this behavior that you go from one print to another print, then there should not be a new line.  As you see, I ran this print statement.  After that, a new line was automatically printed.  Then after that, a new line was also printed.  After that, a new line was automatically printed."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1017.92,
+            "end": 1032.92,
+            "text": " It happens if I don't put end is equal to this.  But because I have put end is equal to 009 backslash n,  that's why it will be printed after this print statement.  And sep is the separator.  That you have given multiple values in one print, so what is between them?"
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1032.92,
+            "end": 1038.92,
+            "text": " Okay.  Great.  Now after this, there is one more argument.  File.  And you guys keep this in mind."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1038.92,
+            "end": 1052.92,
+            "text": " I wrote this because I want you to know that you can write print statements on file too.  An object with a write method.  Default is sys.stdout.  That means it will write on stdout.  Wherever you are running, it will show you on the console."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1052.92,
+            "end": 1064.92,
+            "text": " We will talk about this fourth argument later.  I will come to this in detail in the coming videos.  As we will progress in this course.  Now here I have written one more thing.  Parameters 2 and 4 are optional."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1064.92,
+            "end": 1077.92,
+            "text": " 2 and 4 parameters are optional.  That means you don't need to put separator, end and all these things.  You don't need to write file too.  Without this, your print statement is also not there.  As we have seen, we have not put separator."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1077.92,
+            "end": 1085.92,
+            "text": " Neither we have put end.  Neither we have given multiple values.  You can give single value too.  But even if you give multiple values, it will work.  Okay."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1085.92,
+            "end": 1095.92,
+            "text": " I hope you are enjoying it.  If you have not accessed this code yet, then do it.  Everyone do bookmark the playlist.  All the videos are going to be added in that playlist.  Click on it."
+        },
+        {
+            "number": "5",
+            "title": "Comments, Escape Sequences & Print Statement",
+            "start": 1095.92,
+            "end": 1107.92,
+            "text": " Click here and bookmark this playlist.  And click here and save it.  That's all for this video guys.  Thank you so much guys for watching this video.  And I will see you next time."
+        }
+    ],
+    "text": " Welcome back to 100 days of code In today's video we will see comments, escape sequence characters and print statement Whenever we do coding in Python programming language or any language Sometimes we want to leave some text in that program which is not executed Whatever we write in our program is executed by Python interpreter But sometimes we want to write some lines in our program which is not executed For example if I am writing a program Then maybe after 6 months I will forget what is happening in that program So for me it will be natural to write some lines in my program I want to add some lines which will tell future harry what program he wrote Or if I am working with my friend Shivam or with my friend Rohan Then I have to tell them what I am doing in my program How my program is working In this way I will use comments Escape sequence characters of Python Print statement we will see in this video Let's go to computer screen and let's get started So what I will do here is I am going to open my file main.py So I am going to files and I will open main.py here as always And here my main.py output is going to be That you will see So if I am writing here print hey I am a good boy So there is no doubt that I am a good boy So here print hey I am a good boy will be printed In fact in print statement in double quotes whatever you will give You will get to see here So here I got to see hey I am a good boy And here you see if I am writing here hey I am a good boy Suppose I hit enter here and write and this viewer Is also a good boy slash girl So if I will run this here So what red line I am getting to see This is a sign of danger What kind of error is this URL while scanning string literal Now I will tell you what does it mean Python is basically saying that you know what You wrote print here and you started double quotes But you hit enter here I did not like it at all I didn't like it So you will say that what should I do I want a new line of boy After that python says to you that it is fine You guys want a new line right So you guys do the use of escape sequence characters Here you have to put backslash n like this And you don't have to hit this new line Just write backslash n python will take care of it So you guys will say backslash n is fine I am a good boy wrote backslash n You will run the code as it is And you will see I am a good boy And after that this viewer is also a good boy slash girl And after that what was this What was backslash n This was an escape sequence character I will talk about this today And I will tell you what are these escape sequence characters And what are these escape sequence characters But before that I want to tell you What are the comments Suppose I am working on a codebase I am creating code with harry.com And we are making that website with a lot of noise Both of them are working on it Suppose I want to tell you That there is a new design coming up on the homepage of code with harry.com And I will bring it after two days And suppose I am going to comment That don't change this design Don't remove this line from here I want to write here Hey harry please don't remove this line Suppose I want to say this I say harry don't remove this line I am working on it For this line I want to keep this in codebase But you guys are seeing here Python Devtan is angry Nagraj is saying that what is going on Where did this invalid syntax come from I understand print I understand a lot of other syntax But this hey harry please don't remove this line I didn't like it Python says this to us So we will run this So obviously we will get to see the error in this There is no doubt and you will also know Now what is this But I still want to keep this line Please I say to python please Python says okay don't cry like a child Yes don't cry like a child I will tell you how to keep it Python says that look there is a comment inside me Comments means that you can keep any text I don't care about that You will say wow Python you are so good Python says yes I am so good What should I do Python says you put a character like this And this will become a comment What will become This will become a comment And after this if you have marked any line as comment First of all it is replating for you guys Syntax highlighting In any id you will write syntax highlighting In this case I have this comment This comment is showing in green colour And see here this syntax highlighting is going on I have written print it is showing in yellow colour After this the string literal is showing in some orange colour Then these brackets are also showing in different colour Error is showing in red colour So this is syntax highlighting Which is done by any id or any other id Hey harry please don't remove this line Now let's run it And now our program is running That means I can write some text in my program I can write some information For example I want to mark that This program's author is harry And for example I want to mark this thing That this course is 100 days of code Ok For example I want to write this thing So I can write I can write here Now I will tell you guys a secret Ok what is that secret Now that is not a secret Because I have told you You guys can select multiple lines And control or command if you are in mac Control plus forward slash As you will press this You can comment or uncomment any code base So I will show you guys comment out many lines in this way So don't ask me how I did it Because I must have done it with control plus forward slash So control plus forward slash You guys can use this Ok Any one line or multiple lines Hey what happened to Siri Siri no I am not talking to you So here I was telling you that These lines Multiple lines You can mark them as comments Or you can uncomment them too Ok Ok this is very good So here I have written the same thing That a comment is a part of coding file That the programmer does not want to execute Rather the programmer uses it to Either explain a block of code Or to avoid the execution of a specific part of code While testing Do you understand this This means That suppose I write a comment here Suppose I write code only Ok Suppose I want to write this too Print hello word Ok Now suppose I show my boss this program I say boss I wrote this program How is it looking I wrote this and this Boss says this is very good No I don't like this Let's remove the hello word I will say ok So I will select and do control forward slash And now I can remove this code Now suppose my boss's boss Says to my boss What is going on Why did you remove the hello word It was looking so good So I will remove it again I can do this again And hello word will come again Ok So this is how hello word can be done Comment or uncomment Ok So I have written the same thing here I have given you an example You don't even need to write code Copy and paste it from here Run it like this Ok As you do this Now see here You will not get to see this is a single line comment error You will get to see this is a print statement I have given one more example here You can write a comment after a line That means Suppose you have written something like this I am pasting it And I will do something like this You see I have written print And after this What can I do Actually I removed this I should have used a bracket Now see you guys As soon as I write print here And after this I write hello word And after this I can write any comment here Ok That means my code will be executed And as soon as it will get this pound symbol It will say ok I understood Whatever you have written I will execute it If you don't want to do it Then I will ignore it So Python interpreter Will ignore this printing hello word What happens if this doesn't happen Obviously error comes You guys also know What will come Syntax error will come It will be said that what is going on What is this printing hello word Print hello word was fine Python God will say But he will say What did you put in printing hello word I didn't like it Ok Which will be such a thing So you guys can see here That as soon as I will put pound symbol here And after this I will run Then it will work Ok You can see it worked Now see here What can I do That I can comment out the code I have already told you But one more thing I want to tell you That how will you write multi line comments Now I will tell you the story of multi line comments Suppose someone told me That Let's take this example I will uncomment it Suppose someone told me That uncomment these three lines I have two ways Now because I am living in modern world nowadays I have IDE I have replit I have modern IDEs So I will select and Control forward slash This shortcut is provided Through replit Through VS code Through modern IDEs Which will help you To comment or uncomment But if I can't do this Then what will I do So for my convenience I will put triple single quote And whatever I write in it I will press alt And down arrow By the way to move the line Ok So you guys learn this shortcut too And now I will tell you How to write multiple line comments So if you have multiple line comments Then you can write multiple line comments So you can write multiple line comments And then You guys learn this too Ok All the shortcuts of VS code Work in replit So you guys won't face any problem Ok And if you want to learn The shortcuts of VS code Then you guys can Search Google I have a video of VS code You can watch that too But now We will focus on Python So if I will enclose Anything in triple single quote Then it will become Multi line comment What was written before this Was not multi line comment Obviously That was also a kind of Multi line comment So I wrote that here That you can use pound symbol To put multi line comment You can put But This method Triple single quote Or triple double quote You guys can also put I will tell you this too Triple single quote Program is working But triple double quote Will also work One two three I have put triple double quote And I will do one more thing I will press shift and Ctrl X I will press Ctrl V By selecting And now I will run So After that It will work Ok Are you seeing Here it works Very good It is fun Ok Now here We can comment And uncomment Anything If I have written any line Or multiple lines I will select them And press Ctrl Or command Plus forward slash So I Can use To comment This shortcut Ok I hope You guys Understand Ok Let's talk about Escape sequence characters If you guys Have to Insert characters In a string For example Here it is written Hey I am A good boy And after that If I have to insert A character Let's say Newline character So how will I do that I will do one thing That I will comment out this So that You guys Will see The output of this print statement You guys understood Why I did this So that you guys Stay focused In this print statement Hey I am a good boy And this Viewer is also A good boy Slash girl Ok Now see here This tutorial Which I have written What have I written in this I have written To insert characters That cannot directly be Used in a string So now We will use Escape sequence character So now One thing That a character Which cannot be used In a string Can be used In an escape sequence Character For example If I enter A newline character Literally Then there will be an error Because Python will not be able To parse this If you have inserted Newline in a string Literally Then it will not be able To parse So we insert Newline character Backslash Plus n Which is a newline character It is an escape sequence character Which you can insert Any time In a string So you will get to see Newline In some way So if I run this Then Hey I am a good boy Will be done in a newline What about I Hey I am a good boy Want to enclose In double code In some way This should work What is the problem You will think like this If you think like this Then Are you seeing this redline Replit has given a sign It has set a warning Tantantantantan Ok So ID It recorded the warning There were signals It has set\u0430\u043b\u044c\u043d\u044b\u0435 you are see Next Let's see Newline I think Like this double quote means it will be ending here. Okay, it is ending here. Then what is this? This is invalid syntax for Python. Because if this double quote comes from here and makes a string, then what is this good boy after this? So here you will get to see the error. So to avoid this, we don't use double quote character. We use backslash double quote which is a double quote escape sequence character. So this is a character, this is a character. Now I will run this. So here I will see only double quote. See I am a good boy is coming in double quote. Did you see backslash here? No, you didn't. But I used backslash. Why did I do that? Because I wanted to use backslash double quote which is one character. It looks like two but it is one character. Backslash double quote which produces a single double quote in output. What happens is an escape sequence character. An escape sequence character is a backslash followed by the character you want to insert. An example of a character that cannot be directly used as a string. I have given it here. If the string in your print is made in this way in single quote, then you cannot use single quote also. Do you understand? Now we will read these things in more detail in the chapter on strings. But if I put it in single quote, I cannot put single quote. I will have to put backslash single quote. See, there is an error. I will put backslash single quote. So this single quote will come. After hey I am. A single quote came. So I can put single quote in strings like this. So this was our escape sequence character. I hope you understood. Now I want to tell you about print statement. Some other things. The first thing I want to tell you is that in print you can give multiple values. Like I can give here hey, six and seven. I can give these three values. If I run it, I will get to see all three. Hey, six and seven. As you can see in your computer screen. You can see. Now after this, one more parameter of this is separator. I am here scp is equal to. If I put this character. And now I run it. So you will see that when I put scp is equal to this. So this will be separated from tilde character. As you can see here. After hey, one tilde came. Then after that, another tilde came. So if you want to join any three things with a given separator, you can do it like this. Like I just did. Okay. You can do this thing. After this, there is one more parameter. End is equal to. Suppose here instead of end is equal to, I write 009. What does this mean? This means that if I write another print statement. And suppose I write print harry in it. And I run it. So you see that hey, six, seven will come. After that, whatever is the next print statement, 009 will come before that. Ideally, we write end is equal to. Suppose 009 backslash n. Okay. By the way, we put backslash n and end is equal to. We can also put null. By default, backslash n is there. Okay. We can also put end is equal to null. Okay. You should also know this. Now here I put 009 backslash n. So whenever I run the next print statement, 009 backslash n will be appended in this print statement. What is the difference between sep and end? Sep means that the multiple values given in one print statement, what will be separated from that. The default separator is space. As I have written here that the default separator is space. Then what does end mean? Specify what to print at the end. When this print statement will end, then what will be printed? You can write anything here. It will be printed. By default, there is a new line. Okay. If you want to override this behavior that you go from one print to another print, then there should not be a new line. As you see, I ran this print statement. After that, a new line was automatically printed. Then after that, a new line was also printed. After that, a new line was automatically printed. It happens if I don't put end is equal to this. But because I have put end is equal to 009 backslash n, that's why it will be printed after this print statement. And sep is the separator. That you have given multiple values in one print, so what is between them? Okay. Great. Now after this, there is one more argument. File. And you guys keep this in mind. I wrote this because I want you to know that you can write print statements on file too. An object with a write method. Default is sys.stdout. That means it will write on stdout. Wherever you are running, it will show you on the console. We will talk about this fourth argument later. I will come to this in detail in the coming videos. As we will progress in this course. Now here I have written one more thing. Parameters 2 and 4 are optional. 2 and 4 parameters are optional. That means you don't need to put separator, end and all these things. You don't need to write file too. Without this, your print statement is also not there. As we have seen, we have not put separator. Neither we have put end. Neither we have given multiple values. You can give single value too. But even if you give multiple values, it will work. Okay. I hope you are enjoying it. If you have not accessed this code yet, then do it. Everyone do bookmark the playlist. All the videos are going to be added in that playlist. Click on it. Click here and bookmark this playlist. And click here and save it. That's all for this video guys. Thank you so much guys for watching this video. And I will see you next time."
+}

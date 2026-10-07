@@ -1,0 +1,376 @@
+{
+    "chunks": [
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 0.0,
+            "end": 15.0,
+            "text": " If I want to know whether you are a modern Python developer or not  then I will ask you about the first match case statements.  This is a new edition in Python which is 3.10 onwards  and match case statements make Python programming very strong.  We will go to our computer screen and see"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 15.0,
+            "end": 36.0,
+            "text": " what is the match case feature that is brought to improve Python?  How to use it?  Let's get started.  So I have come to my computer screen and I have made a rappel of match case  as you can see."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 36.0,
+            "end": 50.0,
+            "text": " Now match case is a new edition in Python 3.10  I want to tell you this.  So if you use Python's default rappel in replet as of now,  as of recording this video,  obviously it will be updated with time in Python's version in replet too."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 50.0,
+            "end": 61.0,
+            "text": " But if you see Python's version in any of your rappels,  I will show you in my old rappel by running it in shell.  I have run a program in day 13's rappel in shell.  I have run a program in day 13's rappel in shell.  I will show you by running it in shell."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 61.0,
+            "end": 76.0,
+            "text": " I will show you by writing only Python and you will know that it is using Python 3.8.  But here we need Python 3.10.  So what you have to do is,  I am just showing you a demo rappel and I will make it outside.  I will keep its name as Python demo."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 76.0,
+            "end": 89.0,
+            "text": " If you search Python 3.10,  Python 3.10 should come.  Come, here comes the coding cactus.  This is using Python 3.10.  I will write here Python 10"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 89.0,
+            "end": 101.0,
+            "text": " and here I will write demo.  And I will make this rappel.  So I will make this rappel public.  Ok, I have clicked on create rappel.  And now you see here,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 101.0,
+            "end": 116.0,
+            "text": " as soon as I made my rappel,  I will run this program.  There is a program written in it which will tell the version of Python.  Similarly, I have made this match case day 16 program.  If you are in VS code, then you don't need to worry about it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 116.0,
+            "end": 128.0,
+            "text": " Just I wanted to tell you.  Now see, if I come here in shell,  and write Python,  then see, Python 3.8.12.  Ok, Python 3.8.12 has come here."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 128.0,
+            "end": 140.0,
+            "text": " Ok, now what will happen is,  I will close this.  Now in day 16, we are using Python 3.10.  You can see here.  But I don't want to write this program."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 140.0,
+            "end": 151.0,
+            "text": " I want to tell you something else through this video,  which is match case statement.  If you are coming from C, C++,  or coming from a language like Java,  then you will know that there are switch case statements in it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 151.0,
+            "end": 161.0,
+            "text": " Ok, what are switch case statements?  Basically, nothing.  Switch case statements means that you have a variable.  Basically, you are matching that variable.  That means, if the value of variable is 17,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 161.0,
+            "end": 168.0,
+            "text": " then what to do?  If it is 18, then what to do?  Suppose you have 4 cases.  For example,  you ask someone,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 168.0,
+            "end": 175.0,
+            "text": " do you want to vote?  Ok, do you want to cast your vote?  Now, there are two answers to this.  Either yes or no.  If he is casting his vote,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 175.0,
+            "end": 181.0,
+            "text": " then you will ask him,  who do you want to vote?  He will say,  I want to vote for option 1, option 2, option 3, option 4.  Option 5 is not there."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 181.0,
+            "end": 196.0,
+            "text": " So, we work according to the option he chooses from these four.  So, I will show you the example program very quickly.  You will understand everything.  Because I don't want to read out all these things.  First, I want to show you the program."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 196.0,
+            "end": 203.0,
+            "text": " So that you will know exactly.  Then, all the things will be clear.  So, here you see,  x is equal to 4.  x is a variable which I want to match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 203.0,
+            "end": 208.0,
+            "text": " I said match x.  If x is 0,  if case is 0,  then print this.  If case is 4,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 208.0,
+            "end": 214.0,
+            "text": " now I will keep it simplified.  If case is 4,  then print this.  Case is 4.  I am making the program a little simple."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 214.0,
+            "end": 223.0,
+            "text": " And if underscore is used for default case,  then we will do this.  Ok.  I will erase this here.  Ok."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 223.0,
+            "end": 229.0,
+            "text": " I will erase this like this.  I will keep one default case.  And you see,  as soon as I run this program,  because x is 4,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 229.0,
+            "end": 235.0,
+            "text": " here will come case is 4.  Ok.  Now I will do one thing.  I will write int input here.  And I will write here,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 235.0,
+            "end": 241.0,
+            "text": " enter the value of x.  Ok.  I will run it.  And you see,  you will be asked,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 241.0,
+            "end": 246.0,
+            "text": " enter the value of x.  Suppose you wrote 5.  Ok.  What I will do next is,  yes,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 246.0,
+            "end": 252.0,
+            "text": " I will write 5.  So, this will go to default case.  In fact,  it has printed 5.  Because in default case,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 252.0,
+            "end": 260.0,
+            "text": " we are printing the value of x basically.  Now if I run this and make value 0.  0.  Yes.  Then what will happen?"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 260.0,
+            "end": 267.0,
+            "text": " x is 0.  This case is matched.  So, this way we can match cases.  There is one catch.  I will talk about it."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 267.0,
+            "end": 276.0,
+            "text": " The catch is that  if you are coming from language like C, C++.  If you are coming from language like C, C++,  then you should know that  there is break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 276.0,
+            "end": 284.0,
+            "text": " Ok.  And if you have matched any case in that case,  then you have to put break statement.  If you are coming from C, C++,  then I will tell you."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 284.0,
+            "end": 289.0,
+            "text": " You will understand about this.  And if you are not coming,  then there is no tension.  If your Python is the first language,  which is also there for most of the people."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 289.0,
+            "end": 296.0,
+            "text": " By any chance,  you have done C, C, C++, C,  then you should keep in mind that  here you should not use break statement.  There you should not use break statement."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 296.0,
+            "end": 305.0,
+            "text": " There you should not use break statement.  That means, if there are 4 cases,  case 1, case 2, case 3, case 4.  If case 3 is matching,  then case 4 will also match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 305.0,
+            "end": 313.0,
+            "text": " The code inside case 4 will also be run.  If you have put break in case 3,  then it will not happen.  There is nothing like this in Python.  The code of the case which matches will be run."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 313.0,
+            "end": 323.0,
+            "text": " So, the code of the case which matches will be run.  You should know this thing.  Now, here I will tell you some miscellaneous things  which you should know.  So, here I have written"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 323.0,
+            "end": 331.0,
+            "text": " to implement switch case like characteristics  very similar to if else functionality,  we use match case in Python.  If you are coming from C, C++ or Java like language,  you must have heard about this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 331.0,
+            "end": 338.0,
+            "text": " If this is your first language,  then we will talk about this.  I have written this.  Match statement will compare a given variable's value  to different shapes."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 338.0,
+            "end": 347.0,
+            "text": " Also referred to as pattern.  The main idea is to comparing a variable  with all the patterns.  So, these are all our patterns.  0, 4 and underscore default."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 347.0,
+            "end": 356.0,
+            "text": " Now, what happens here is  that you can use if else also.  Like I have written default case here.  You can take 4 cases of if else.  Or I will take 3 cases."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 356.0,
+            "end": 370.0,
+            "text": " I will write here that if x is not equal to 90.  If x is not equal to 90,  then you have to print x  and write here is not 90.  I will write here is not 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 370.0,
+            "end": 384.0,
+            "text": " And here I will do the same thing  with is not 80.  And here I will write if x is not equal to 80.  And then I will do it by default.  Now, I will run this."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 384.0,
+            "end": 393.0,
+            "text": " And I will write here is not 56.  And I will enter.  So, you see here is not 96.  Because if this case matches,  then the cases below it will not match."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 393.0,
+            "end": 400.0,
+            "text": " Once a case matches,  then it gets satisfied.  Same here you see.  If x is not equal to 80.  Suppose x is 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 400.0,
+            "end": 406.0,
+            "text": " I have done 90.  So, the obvious thing is  this thing will not match.  The 80 one will match.  I have done 90."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 406.0,
+            "end": 413.0,
+            "text": " 90 is not 80.  It is written here is 90.  This is printed is not 80.  This line is basically printed.  Remember, the Rappel you are making"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 413.0,
+            "end": 422.0,
+            "text": " should be of Python 3.10.  And in future, it will be updated.  The Rapplet by default  Python template will be updated  to Python 3.10."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 422.0,
+            "end": 430.0,
+            "text": " But till then,  you have to use this template  as I have told.  In case you are using Rapplet,  then this thing is not applicable for VSCode."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 430.0,
+            "end": 436.0,
+            "text": " I am telling you again.  If you have downloaded  Python 3.10,  then if your old Python is installed,  then you have to update Python."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 436.0,
+            "end": 442.0,
+            "text": " I will tell you that too.  Ok.  I hope you are understanding  all these things.  By default,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 442.0,
+            "end": 448.0,
+            "text": " you can run this program  if you want.  And you will get to see  this thing in this too.  Now, see here,"
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 448.0,
+            "end": 455.0,
+            "text": " default case will only be matched  if the above cases were not matched.  If no case is matched,  then the default case will be matched.  This is a kind of else."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 455.0,
+            "end": 462.0,
+            "text": " You have read the if-else.  You can understand this as a kind of else.  So, I hope you have understood  these things  and you are clear about these things."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 462.0,
+            "end": 469.0,
+            "text": " That's all for now in this video.  If you have not accessed the playlist yet,  then do access it.  Thank you so much guys  for watching this video."
+        },
+        {
+            "number": "15",
+            "title": "Match Case Statements in Python",
+            "start": 469.0,
+            "end": 471.0,
+            "text": " And I will see you  next time."
+        }
+    ],
+    "text": " If I want to know whether you are a modern Python developer or not then I will ask you about the first match case statements. This is a new edition in Python which is 3.10 onwards and match case statements make Python programming very strong. We will go to our computer screen and see what is the match case feature that is brought to improve Python? How to use it? Let's get started. So I have come to my computer screen and I have made a rappel of match case as you can see. Now match case is a new edition in Python 3.10 I want to tell you this. So if you use Python's default rappel in replet as of now, as of recording this video, obviously it will be updated with time in Python's version in replet too. But if you see Python's version in any of your rappels, I will show you in my old rappel by running it in shell. I have run a program in day 13's rappel in shell. I have run a program in day 13's rappel in shell. I will show you by running it in shell. I will show you by writing only Python and you will know that it is using Python 3.8. But here we need Python 3.10. So what you have to do is, I am just showing you a demo rappel and I will make it outside. I will keep its name as Python demo. If you search Python 3.10, Python 3.10 should come. Come, here comes the coding cactus. This is using Python 3.10. I will write here Python 10 and here I will write demo. And I will make this rappel. So I will make this rappel public. Ok, I have clicked on create rappel. And now you see here, as soon as I made my rappel, I will run this program. There is a program written in it which will tell the version of Python. Similarly, I have made this match case day 16 program. If you are in VS code, then you don't need to worry about it. Just I wanted to tell you. Now see, if I come here in shell, and write Python, then see, Python 3.8.12. Ok, Python 3.8.12 has come here. Ok, now what will happen is, I will close this. Now in day 16, we are using Python 3.10. You can see here. But I don't want to write this program. I want to tell you something else through this video, which is match case statement. If you are coming from C, C++, or coming from a language like Java, then you will know that there are switch case statements in it. Ok, what are switch case statements? Basically, nothing. Switch case statements means that you have a variable. Basically, you are matching that variable. That means, if the value of variable is 17, then what to do? If it is 18, then what to do? Suppose you have 4 cases. For example, you ask someone, do you want to vote? Ok, do you want to cast your vote? Now, there are two answers to this. Either yes or no. If he is casting his vote, then you will ask him, who do you want to vote? He will say, I want to vote for option 1, option 2, option 3, option 4. Option 5 is not there. So, we work according to the option he chooses from these four. So, I will show you the example program very quickly. You will understand everything. Because I don't want to read out all these things. First, I want to show you the program. So that you will know exactly. Then, all the things will be clear. So, here you see, x is equal to 4. x is a variable which I want to match. I said match x. If x is 0, if case is 0, then print this. If case is 4, now I will keep it simplified. If case is 4, then print this. Case is 4. I am making the program a little simple. And if underscore is used for default case, then we will do this. Ok. I will erase this here. Ok. I will erase this like this. I will keep one default case. And you see, as soon as I run this program, because x is 4, here will come case is 4. Ok. Now I will do one thing. I will write int input here. And I will write here, enter the value of x. Ok. I will run it. And you see, you will be asked, enter the value of x. Suppose you wrote 5. Ok. What I will do next is, yes, I will write 5. So, this will go to default case. In fact, it has printed 5. Because in default case, we are printing the value of x basically. Now if I run this and make value 0. 0. Yes. Then what will happen? x is 0. This case is matched. So, this way we can match cases. There is one catch. I will talk about it. The catch is that if you are coming from language like C, C++. If you are coming from language like C, C++, then you should know that there is break statement. Ok. And if you have matched any case in that case, then you have to put break statement. If you are coming from C, C++, then I will tell you. You will understand about this. And if you are not coming, then there is no tension. If your Python is the first language, which is also there for most of the people. By any chance, you have done C, C, C++, C, then you should keep in mind that here you should not use break statement. There you should not use break statement. There you should not use break statement. That means, if there are 4 cases, case 1, case 2, case 3, case 4. If case 3 is matching, then case 4 will also match. The code inside case 4 will also be run. If you have put break in case 3, then it will not happen. There is nothing like this in Python. The code of the case which matches will be run. So, the code of the case which matches will be run. You should know this thing. Now, here I will tell you some miscellaneous things which you should know. So, here I have written to implement switch case like characteristics very similar to if else functionality, we use match case in Python. If you are coming from C, C++ or Java like language, you must have heard about this. If this is your first language, then we will talk about this. I have written this. Match statement will compare a given variable's value to different shapes. Also referred to as pattern. The main idea is to comparing a variable with all the patterns. So, these are all our patterns. 0, 4 and underscore default. Now, what happens here is that you can use if else also. Like I have written default case here. You can take 4 cases of if else. Or I will take 3 cases. I will write here that if x is not equal to 90. If x is not equal to 90, then you have to print x and write here is not 90. I will write here is not 90. And here I will do the same thing with is not 80. And here I will write if x is not equal to 80. And then I will do it by default. Now, I will run this. And I will write here is not 56. And I will enter. So, you see here is not 96. Because if this case matches, then the cases below it will not match. Once a case matches, then it gets satisfied. Same here you see. If x is not equal to 80. Suppose x is 90. I have done 90. So, the obvious thing is this thing will not match. The 80 one will match. I have done 90. 90 is not 80. It is written here is 90. This is printed is not 80. This line is basically printed. Remember, the Rappel you are making should be of Python 3.10. And in future, it will be updated. The Rapplet by default Python template will be updated to Python 3.10. But till then, you have to use this template as I have told. In case you are using Rapplet, then this thing is not applicable for VSCode. I am telling you again. If you have downloaded Python 3.10, then if your old Python is installed, then you have to update Python. I will tell you that too. Ok. I hope you are understanding all these things. By default, you can run this program if you want. And you will get to see this thing in this too. Now, see here, default case will only be matched if the above cases were not matched. If no case is matched, then the default case will be matched. This is a kind of else. You have read the if-else. You can understand this as a kind of else. So, I hope you have understood these things and you are clear about these things. That's all for now in this video. If you have not accessed the playlist yet, then do access it. Thank you so much guys for watching this video. And I will see you next time."
+}

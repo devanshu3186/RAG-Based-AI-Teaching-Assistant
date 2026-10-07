@@ -1,0 +1,397 @@
+{
+    "chunks": [
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 0.0,
+            "end": 17.240000000000002,
+            "text": " You guys have done a great job in 100 days of code.  The tempo of everyone is very high.  So today I am going to tell you how we can take user input.  If you interact with any program and it responds after that,  then you will enjoy it a lot."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 17.26,
+            "end": 31.439999999999998,
+            "text": " You know why the game is so addictive, why children play games.  Because whatever inputs they are giving to the computer,  the computer responds to them according to their inputs.  And then they like this thing very much that we are giving input  and the computer is responding."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 31.459999999999997,
+            "end": 57.58,
+            "text": " You can also give inputs like this to your Python programs.  I will tell you how this is done.  How the Python program is given input from your keyboard.  Let's go to the computer screen and let's get started.  The user input in Python programming is taken with the help of input function."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 57.599999999999994,
+            "end": 71.18,
+            "text": " Now the input function is,  the user takes a string prompt from you in Python programming.  That means it asks you what input you want to give.  You can put any message in it.  I will show you exactly how these things work."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 71.2,
+            "end": 83.58,
+            "text": " Let's zoom out a little.  Let's zoom out a little.  Okay, I zoomed in a little too much.  Okay, so I zoomed out a little bit.  I zoomed out a little bit so that it looks a little bit and it is fun."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 83.6,
+            "end": 90.9,
+            "text": " So it is a very simple thing.  To take user input, we use the input function.  Input function.  What is the input function?  It is a very simple thing."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 90.92,
+            "end": 105.82000000000001,
+            "text": " What you have to do is,  you have to do a variable is equal to input in this way.  In Python, we can take user input directly using input function.  The input function gives a return value as string character.  Hence, we have to pass that into the variable."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 105.84,
+            "end": 113.44,
+            "text": " Now I will tell you what it means.  See, it is a very simple thing.  If I write a is equal to input.  Just write this much.  And then after that, I write print a."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 113.46000000000001,
+            "end": 124.22,
+            "text": " So we have made this the most basic program to take input in Python.  Now I will write Harry here.  And I am entering.  So it says, Harry has been printed.  Here I could have done something like this."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 124.24,
+            "end": 136.46,
+            "text": " I could have said that my name is and after that I will write a.  So my name is Harry will be printed.  Because Harry is in a.  Okay.  So this thing was very simple."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 136.48,
+            "end": 144.28,
+            "text": " And you guys understood.  Okay, I will write Harry first.  And after that my name is Harry will be written.  This thing was very simple.  You understood it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 144.3,
+            "end": 149.48,
+            "text": " It is good.  It is very good.  Okay.  But what you guys can do.  You can also give a string in it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 149.5,
+            "end": 163.06,
+            "text": " I can do something like this.  I will give it enter your name and colon space.  So here you will write enter your name.  That is, the string I have put in the input.  It will show me this literally."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 163.07999999999998,
+            "end": 176.39999999999998,
+            "text": " And if I write Harry here.  So my name is Harry.  Something like this will show.  This means that the input function assigns a string in a variable.  That string which input the user."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 176.42,
+            "end": 194.18,
+            "text": " Like I have written a is equal to input.  So the string which the user is going to write will come in a.  And your program waits if you have not given any string in the input.  And if you have given a string, then that string shows.  And after that the program waits for you to input something from your keyboard."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 194.20000000000002,
+            "end": 199.08,
+            "text": " Okay.  This is the input function.  My name is a.  You guys wrote it.  So my name is Harry."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 199.10000000000002,
+            "end": 211.1,
+            "text": " So everyone is clear till here.  Now what happens is that a lot of people make a program.  I mean in Python programming I will say that this is the biggest doubt for people.  One of the.  Biggest doubts that people come up with."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 211.11999999999998,
+            "end": 220.66,
+            "text": " Now I will tell you what happens.  People say that b is equal to input.  Enter first number.  Okay.  I will in fact make this x."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 220.67999999999998,
+            "end": 229.0,
+            "text": " Okay.  I will make this y.  And here I will write input second number.  Okay.  So first number will come in x."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 229.01999999999998,
+            "end": 237.04,
+            "text": " Second number will come in y.  Now you print x plus y.  And I also got a comment.  I don't know whose comment was that.  But I got this comment with this problem."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 237.04,
+            "end": 245.62,
+            "text": " Now I will tell you what was this.  Now see if you print first number 10.  And second number 3.  Suppose I print 100.  Print first number."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 245.64,
+            "end": 251.44,
+            "text": " In fact it is running on the top.  So I will write Harry now.  Now it says first number 2.  I gave 12.  Second number 100."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 251.45999999999998,
+            "end": 258.15999999999997,
+            "text": " What should come?  112 should come.  100 and 12 is 112.  But no.  12 is 100."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 258.18,
+            "end": 264.94,
+            "text": " Now you will say that what is going on.  Python is bad.  That means it is a mess.  Many people talk like this.  My Python is bad."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 264.96,
+            "end": 273.06,
+            "text": " They bring doubts like this.  No.  Otherwise first make your mistake.  What is wrong with my Python?  My computer is bad."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 273.08,
+            "end": 281.46,
+            "text": " People get doubts in programming.  They start talking like this.  Yes, things can be bad.  But I mean you are understanding.  Now I will tell you what is happening here."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 281.48,
+            "end": 291.5,
+            "text": " When we write x is equal to input enter first number.  So what happens?  Whatever we input in x comes.  But there is a rule for this.  What is that rule?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 291.52,
+            "end": 302.7,
+            "text": " The rule is that whatever will come in x will come as a string.  Meaning if you input a number.  I have said it already.  So, the input function of Python is not intelligent enough  that it will detect your number."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 302.74,
+            "end": 317.15999999999997,
+            "text": " That you have entered a number.  I shouldn't take it as a string but as a number.  No.  Python's input function says that whatever you enter I will take it as a string.  Now if you are entering a number,"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 317.18,
+            "end": 325.91999999999996,
+            "text": " type it in the int.  I had read about typecasting.  Convert it from one data type to another data type.  So, x will be a string.  y will be a string."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 325.94,
+            "end": 343.14,
+            "text": " And string will be a string.  When string is added in Python, we haven't read the string yet but let me tell you.  When I am doing x plus y as a string,  then Python literally adds those two strings, concatenates them.  That means if we add 12 and 100, if someone asks what will happen if we add 1, 2 and 1, 2, 0?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 343.14,
+            "end": 359.64,
+            "text": " See, if there is an integer, then 112 will come.  This kid from the 4th class also knows it.  And if someone is watching the kid from the 4th class and is commenting now,  and if this is a string 12 and 100, then what will happen?  12, 1, 0, 0 will print like this."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 359.64,
+            "end": 372.14,
+            "text": " That means these strings will be concatenated.  If we add in Harry, if we add lovish, then Harry will be lovish.  It will be like this.  If we add Rohan in Harry, then Harry will be Rohan.  It will be like this as a string."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 372.14,
+            "end": 381.64,
+            "text": " Now, Harry is not a number, Rohan is not a number,  that a new number will come out of it.  So, by doing x plus y, we get 12 and 100 here.  It is natural.  What is it?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 381.64,
+            "end": 397.64,
+            "text": " It is natural.  Now, you see here that if I want to take 112,  then I will print it like this.  I will say, look, x but as an integer.  y but as an integer."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 397.64,
+            "end": 406.64,
+            "text": " And connect these two.  Now, I will run this program.  First of all, it will ask the name above.  I wrote Harry.  I put 45 in the first number."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 406.64,
+            "end": 415.14,
+            "text": " And in the second number, I put 8.  It will come 53.  Okay?  And this is the print x plus y.  It came 458."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 415.14,
+            "end": 426.14,
+            "text": " It put 8 equal to 45.  Okay?  So, this is concatenation.  And this is actual arithmetic operation between two integers.  So, arithmetic operation will happen when both the integers are there."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 426.14,
+            "end": 439.14,
+            "text": " And here, both the integers, you can see x and y,  both the integers were not there.  And here, we made them integers.  Now, I will tell you one more case.  And I will tell you its solution in the same course,"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 439.14,
+            "end": 447.14,
+            "text": " in 100 days of code.  But now, I will not tell you its solution.  And I will give you a hint.  If anyone wants to see, they can see.  Assume that I gave the first number 89."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 447.14,
+            "end": 455.14,
+            "text": " And I gave the second number Harry.  You will say, wait a minute, Harry is not a number.  I just gave it.  It is my wish.  It happens that some people are made to break."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 455.14,
+            "end": 464.14,
+            "text": " They break things.  They spoil things.  Whatever is there, whatever they have,  they drop it in their hands.  And when it breaks, they blame the manufacturer."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 464.14,
+            "end": 471.14,
+            "text": " That it is not made like this.  I mean, it should not break even after dropping.  Okay?  So, I will hit enter.  So, here, see, it came from red color."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 471.14,
+            "end": 477.14,
+            "text": " This is the error in Python.  Python is saying, I have done it.  I have made my hands stand.  What did Python do?  It has made its hands stand."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 477.14,
+            "end": 484.14,
+            "text": " Python said, I am not able to do it.  It is mine.  Now, you see.  Python means, it happened like this.  Python fell."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 484.14,
+            "end": 490.14,
+            "text": " Okay?  Python died instantly.  Okay?  Python said, I am not able to do it.  Now, you see."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 490.14,
+            "end": 499.14,
+            "text": " I am not able to do it.  Okay?  Think of it as something like this.  So, here, most recent call file min.py line 8 in module.  This is the most recent call."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 499.14,
+            "end": 508.14,
+            "text": " It is saying, see, I have converted x to int.  How can I convert harry to int?  I mean, what does this mean?  It is completely lost.  It is completely lost."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 508.14,
+            "end": 513.14,
+            "text": " Okay?  It fell to the ground.  Okay?  It happened like this.  So, here, Python is saying, this is a value error."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 513.14,
+            "end": 518.14,
+            "text": " It is not like this that it just falls.  It tells you that what is the problem?  Why did I get lost?  So, Python is saying, this is a value error.  You have given invalid literal in integer."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 518.14,
+            "end": 523.14,
+            "text": " Brother, in integer, we give such a string in int function, right?  Which I can convert into integer.  What did harry hold me?  So, this is the value error.  So, here, I am not able to do it."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 523.14,
+            "end": 530.38,
+            "text": " I am not able to do it.  Now, I am looking at the input function, which I can convert into integer, what did harry  hold me?  So, this is the error in Python.  Okay?"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 530.38,
+            "end": 541.52,
+            "text": " We can also display text using input function.  This will make input function.  We have seen it.  We can display text in this way.  And here, we can also convert it to float."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 541.52,
+            "end": 560.1,
+            "text": " So, whenever you are adding two numbers, you are doing arithmetic operation between them,  then what you should do is, you should convert them into integer and float and whatever number  you are converting them to, you should convert it.  So, in this way, we can take input.  in Python programming and now I want you to make a program to carry out an arithmetic operation."
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 560.1,
+            "end": 584.1,
+            "text": " Remember what we did in exercise 1, plus, minus, times, divide, exponential, all the operators  I told you. I want you to apply all those operators here. That if we are taking as a string,  that is, if we are directly applying those operators in X or Y, then what is happening?  And if we are doing this thing, then what is happening? I want you to do this and show me.  So that's all for now in this video. If you have done Python, which the playlist has not accessed,"
+        },
+        {
+            "number": "10",
+            "title": "Taking User Input in Python",
+            "start": 584.1,
+            "end": 615.1,
+            "text": " then I would like you to access it and click here to bookmark it. Right now click here and save.  That's all for now in this video. Thank you so much guys for watching this video and I will see you next time.  Thank you."
+        }
+    ],
+    "text": " You guys have done a great job in 100 days of code. The tempo of everyone is very high. So today I am going to tell you how we can take user input. If you interact with any program and it responds after that, then you will enjoy it a lot. You know why the game is so addictive, why children play games. Because whatever inputs they are giving to the computer, the computer responds to them according to their inputs. And then they like this thing very much that we are giving input and the computer is responding. You can also give inputs like this to your Python programs. I will tell you how this is done. How the Python program is given input from your keyboard. Let's go to the computer screen and let's get started. The user input in Python programming is taken with the help of input function. Now the input function is, the user takes a string prompt from you in Python programming. That means it asks you what input you want to give. You can put any message in it. I will show you exactly how these things work. Let's zoom out a little. Let's zoom out a little. Okay, I zoomed in a little too much. Okay, so I zoomed out a little bit. I zoomed out a little bit so that it looks a little bit and it is fun. So it is a very simple thing. To take user input, we use the input function. Input function. What is the input function? It is a very simple thing. What you have to do is, you have to do a variable is equal to input in this way. In Python, we can take user input directly using input function. The input function gives a return value as string character. Hence, we have to pass that into the variable. Now I will tell you what it means. See, it is a very simple thing. If I write a is equal to input. Just write this much. And then after that, I write print a. So we have made this the most basic program to take input in Python. Now I will write Harry here. And I am entering. So it says, Harry has been printed. Here I could have done something like this. I could have said that my name is and after that I will write a. So my name is Harry will be printed. Because Harry is in a. Okay. So this thing was very simple. And you guys understood. Okay, I will write Harry first. And after that my name is Harry will be written. This thing was very simple. You understood it. It is good. It is very good. Okay. But what you guys can do. You can also give a string in it. I can do something like this. I will give it enter your name and colon space. So here you will write enter your name. That is, the string I have put in the input. It will show me this literally. And if I write Harry here. So my name is Harry. Something like this will show. This means that the input function assigns a string in a variable. That string which input the user. Like I have written a is equal to input. So the string which the user is going to write will come in a. And your program waits if you have not given any string in the input. And if you have given a string, then that string shows. And after that the program waits for you to input something from your keyboard. Okay. This is the input function. My name is a. You guys wrote it. So my name is Harry. So everyone is clear till here. Now what happens is that a lot of people make a program. I mean in Python programming I will say that this is the biggest doubt for people. One of the. Biggest doubts that people come up with. Now I will tell you what happens. People say that b is equal to input. Enter first number. Okay. I will in fact make this x. Okay. I will make this y. And here I will write input second number. Okay. So first number will come in x. Second number will come in y. Now you print x plus y. And I also got a comment. I don't know whose comment was that. But I got this comment with this problem. Now I will tell you what was this. Now see if you print first number 10. And second number 3. Suppose I print 100. Print first number. In fact it is running on the top. So I will write Harry now. Now it says first number 2. I gave 12. Second number 100. What should come? 112 should come. 100 and 12 is 112. But no. 12 is 100. Now you will say that what is going on. Python is bad. That means it is a mess. Many people talk like this. My Python is bad. They bring doubts like this. No. Otherwise first make your mistake. What is wrong with my Python? My computer is bad. People get doubts in programming. They start talking like this. Yes, things can be bad. But I mean you are understanding. Now I will tell you what is happening here. When we write x is equal to input enter first number. So what happens? Whatever we input in x comes. But there is a rule for this. What is that rule? The rule is that whatever will come in x will come as a string. Meaning if you input a number. I have said it already. So, the input function of Python is not intelligent enough that it will detect your number. That you have entered a number. I shouldn't take it as a string but as a number. No. Python's input function says that whatever you enter I will take it as a string. Now if you are entering a number, type it in the int. I had read about typecasting. Convert it from one data type to another data type. So, x will be a string. y will be a string. And string will be a string. When string is added in Python, we haven't read the string yet but let me tell you. When I am doing x plus y as a string, then Python literally adds those two strings, concatenates them. That means if we add 12 and 100, if someone asks what will happen if we add 1, 2 and 1, 2, 0? See, if there is an integer, then 112 will come. This kid from the 4th class also knows it. And if someone is watching the kid from the 4th class and is commenting now, and if this is a string 12 and 100, then what will happen? 12, 1, 0, 0 will print like this. That means these strings will be concatenated. If we add in Harry, if we add lovish, then Harry will be lovish. It will be like this. If we add Rohan in Harry, then Harry will be Rohan. It will be like this as a string. Now, Harry is not a number, Rohan is not a number, that a new number will come out of it. So, by doing x plus y, we get 12 and 100 here. It is natural. What is it? It is natural. Now, you see here that if I want to take 112, then I will print it like this. I will say, look, x but as an integer. y but as an integer. And connect these two. Now, I will run this program. First of all, it will ask the name above. I wrote Harry. I put 45 in the first number. And in the second number, I put 8. It will come 53. Okay? And this is the print x plus y. It came 458. It put 8 equal to 45. Okay? So, this is concatenation. And this is actual arithmetic operation between two integers. So, arithmetic operation will happen when both the integers are there. And here, both the integers, you can see x and y, both the integers were not there. And here, we made them integers. Now, I will tell you one more case. And I will tell you its solution in the same course, in 100 days of code. But now, I will not tell you its solution. And I will give you a hint. If anyone wants to see, they can see. Assume that I gave the first number 89. And I gave the second number Harry. You will say, wait a minute, Harry is not a number. I just gave it. It is my wish. It happens that some people are made to break. They break things. They spoil things. Whatever is there, whatever they have, they drop it in their hands. And when it breaks, they blame the manufacturer. That it is not made like this. I mean, it should not break even after dropping. Okay? So, I will hit enter. So, here, see, it came from red color. This is the error in Python. Python is saying, I have done it. I have made my hands stand. What did Python do? It has made its hands stand. Python said, I am not able to do it. It is mine. Now, you see. Python means, it happened like this. Python fell. Okay? Python died instantly. Okay? Python said, I am not able to do it. Now, you see. I am not able to do it. Okay? Think of it as something like this. So, here, most recent call file min.py line 8 in module. This is the most recent call. It is saying, see, I have converted x to int. How can I convert harry to int? I mean, what does this mean? It is completely lost. It is completely lost. Okay? It fell to the ground. Okay? It happened like this. So, here, Python is saying, this is a value error. It is not like this that it just falls. It tells you that what is the problem? Why did I get lost? So, Python is saying, this is a value error. You have given invalid literal in integer. Brother, in integer, we give such a string in int function, right? Which I can convert into integer. What did harry hold me? So, this is the value error. So, here, I am not able to do it. I am not able to do it. Now, I am looking at the input function, which I can convert into integer, what did harry hold me? So, this is the error in Python. Okay? We can also display text using input function. This will make input function. We have seen it. We can display text in this way. And here, we can also convert it to float. So, whenever you are adding two numbers, you are doing arithmetic operation between them, then what you should do is, you should convert them into integer and float and whatever number you are converting them to, you should convert it. So, in this way, we can take input. in Python programming and now I want you to make a program to carry out an arithmetic operation. Remember what we did in exercise 1, plus, minus, times, divide, exponential, all the operators I told you. I want you to apply all those operators here. That if we are taking as a string, that is, if we are directly applying those operators in X or Y, then what is happening? And if we are doing this thing, then what is happening? I want you to do this and show me. So that's all for now in this video. If you have done Python, which the playlist has not accessed, then I would like you to access it and click here to bookmark it. Right now click here and save. That's all for now in this video. Thank you so much guys for watching this video and I will see you next time. Thank you."
+}

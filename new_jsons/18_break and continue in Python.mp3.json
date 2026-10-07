@@ -1,0 +1,460 @@
+{
+    "chunks": [
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 0.0,
+            "end": 20.0,
+            "text": " It's fun in this 100 days of code python series.  In today's video, I will tell you that when and why do we use break and continue statements in python.  Whenever we use any loop, we want it to exit here.  In this way, we use break.  Sometimes we want to skip a particular iteration of a loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 20.0,
+            "end": 45.0,
+            "text": " Then we use continue.  But we won't understand it so well.  So let's go to the computer screen and let's get started.  So guys, as I told you in the last video that I will tell you about break and continue.  See, loops work iteration by iteration."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 45.0,
+            "end": 60.0,
+            "text": " You will see one iteration executed first.  Then the next iteration will come.  Then after that, the next iteration will come.  Sometimes you want to exit the loop on a particular iteration.  And sometimes you want to exit the loop on a particular iteration."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 60.0,
+            "end": 81.0,
+            "text": " Sometimes you want to exit the loop on a particular iteration.  Just for that iteration, the loop body code, you can skip it.  And continue with the next iteration.  So this type of work is done by using break and continue statements.  Let's see how it works."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 81.0,
+            "end": 95.0,
+            "text": " So first of all, what I will do here is, I will open my main.by file.  So, do you know what is the best thing about rapid?  I will close it and I will close it.  So this is the console, I can take it here.  So smooth navigation, I will close it."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 95.0,
+            "end": 107.0,
+            "text": " And these three things are open side by side.  Ok, it's very nice.  Now you guys see here, break statement enables the program to skip over a part of the code.  The break statement terminates the very loop it lies within.  Means it breaks the loop that is inside."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 107.0,
+            "end": 122.0,
+            "text": " Now see, suppose I wrote for i in range 12.  And I write print i here.  Ok, and I am writing print i.  Let us say I am writing here.  I am writing print 5 multiply by i."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 122.0,
+            "end": 136.0,
+            "text": " Ok, so I will write here 5 multiply by.  And after that I will write i.  And in fact, I will do something like this.  i and after that I will write is equal to.  And after that, means basically you know what I am doing."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 136.0,
+            "end": 150.0,
+            "text": " I am trying to generate 5t table.  And I will write here 5 multiply by i plus 1.  In fact, I will do plus 1, otherwise it will start from 0.  So, if you want to take multiplication table, then you can take it.  It's not a big deal."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 150.0,
+            "end": 165.0,
+            "text": " Now see, I have printed the multiplication table here.  In fact, I should have removed this space.  And you do i plus 1.  Otherwise, you know what, it doesn't feel good.  Now suppose I go, for some reason, i is equal to 1."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 165.0,
+            "end": 174.0,
+            "text": " Let this work, let this work for 2.  But after 10, it will break.  Means I just want to see it till here.  So, I can put a condition here.  If i equal to equal to."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 174.0,
+            "end": 186.0,
+            "text": " If i equal to equal to 10.  Then what should I do?  Break it.  Now, do you know what this break statement will do?  Break statement will say, means I am telling you in very basic language."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 186.0,
+            "end": 201.0,
+            "text": " Break statement will say, leave this loop and go.  What will it say? Everyone write it in the comment below.  Break statement will say, leave this loop and go.  Leave this loop and go.  And here, I will print and write."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 201.0,
+            "end": 213.0,
+            "text": " Leave this loop and go.  Leave this loop and go.  I have written very basic Hindi.  But you must be able to understand.  Leave this loop and go."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 213.0,
+            "end": 225.0,
+            "text": " And here, i is equal to 10.  But we have executed i is equal to 10.  For 10, it was into 11.  But if I put this thing up here.  Then what will happen?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 225.0,
+            "end": 233.0,
+            "text": " That this thing will be executed for i is equal to 0.  i is equal to 1.  i is equal to 2.  i is equal to 3.  What is written here for 3?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 233.0,
+            "end": 244.0,
+            "text": " 5 into 4 is equal to 5 into 4 which is 20.  20.  Now, I made a mistake here.  Table is coming wrong because I did not use brackets properly.  So, what is he doing?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 244.0,
+            "end": 251.0,
+            "text": " First, he is multiplying 5 with i.  And after that, he is adding 1 in it.  Which is wrong.  Now, see, it will be correct.  5."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 251.0,
+            "end": 258.0,
+            "text": " Oops, I made a mistake again.  I put the brackets wrong.  What am I doing?  What happened to me today?  Ok."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 258.0,
+            "end": 263.0,
+            "text": " Now, it is correct.  See, now the table will be correct.  I know the table of 5.  Trust me, I know.  Trust me, I know."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 263.0,
+            "end": 268.0,
+            "text": " Ok.  5 into i is equal to 5.  10, 15.  All these came till 10.  Then I left the loop and left."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 268.0,
+            "end": 273.0,
+            "text": " I wrote this.  Ok.  So, what is happening?  i is equal to 10.  As it will be."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 273.0,
+            "end": 290.0,
+            "text": " See, when i is equal to 9, then this thing will be printed.  Do you believe this or not?  Because when i is equal to 9, then only 5 into 10 will be displayed here or not?  Now, as soon as i's value becomes 10 here, it will get a break statement.  Break means leave the loop and go."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 290.0,
+            "end": 298.0,
+            "text": " Leave the loop and go.  And it will leave the loop and go.  So, this is happened.  This was the break statement.  Can I use this with while loop?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 298.0,
+            "end": 307.0,
+            "text": " Absolutely, I can do.  Same thing will happen.  It will leave the loop and go.  But what will happen in continue?  Leave the iteration."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 307.0,
+            "end": 320.0,
+            "text": " Now, understand this one thing.  I am going to say one thing, that will tell you the break and continuous statement.  Break means leave the loop and go.  And Continue means leave the iteration and go.  Now, I am going to say a thing in loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 320.0,
+            "end": 342.0,
+            "text": " Now, leaving the loop and leaving the iteration is the difference.  What is the difference? Let's see.  Now, if I remove this here, and write continue here.  And here I write, in fact, this thing I have written,  this is fine."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 342.0,
+            "end": 360.0,
+            "text": " Ctrl Y, Ctrl Y, okay.  Now, I write continue here.  And here, I write in English, I become a little professional here.  Skip the iteration, okay.  Now, what will happen, as soon as the value of i is 10,"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 360.0,
+            "end": 375.0,
+            "text": " this iteration will be skipped, because this is a continue statement here.  Continue means, whatever has been executed till here,  nothing below it will be executed for i is equal to 10, okay.  And it will go back to the next value.  So, see what happened here."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 375.0,
+            "end": 386.0,
+            "text": " As soon as i is equal to 10,  i is equal to 0 here,  I do one thing, I revert it again.  I remove i plus 1, I let i be.  This will be easy for you to understand."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 386.0,
+            "end": 398.0,
+            "text": " So, see here, in range 12, the value of i will be 0.  I run it again.  If the value of i is 0, then you will see 5 multiplied by 0 is equal to 0.  Then, if the value of i is 1, then you will see this.  If the value of i is 2, then you will see this."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 398.0,
+            "end": 409.0,
+            "text": " For 3, this.  For 4, 5, 6, 7, 8, 9.  But, as soon as 10 happens, it is saying skip the iteration.  So, what is happening, as soon as the value of i is 10, it will go inside this loop.  It will see, skip the iteration is written."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 409.0,
+            "end": 418.0,
+            "text": " Even if I write this, then also there is no problem.  This will be executed.  Because this is above continue.  Whatever is above continue statement will be executed.  As soon as it saw continue,"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 418.0,
+            "end": 428.0,
+            "text": " it means, now for this value, for this particular iteration,  nothing will be executed below this.  Take the next value directly.  What was the next value? i is equal to 11.  So, it took the next value."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 428.0,
+            "end": 440.0,
+            "text": " Okay. I hope you understood.  The iteration skips continuously.  And the loop breaks completely from break.  Okay.  We say in programming, breaking out of the loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 440.0,
+            "end": 450.0,
+            "text": " That means we come out of the loop.  Okay.  I hope this thing will be clear to all of you.  Now, here I have given examples.  And the third argument of range is also written here."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 450.0,
+            "end": 460.0,
+            "text": " Okay.  So, here you can see this example.  You will understand it very well.  So, this was break statement.  Similarly, this is also written about continue statement."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 460.0,
+            "end": 468.0,
+            "text": " Continue statement skips the rest of the loop statement.  And causes the next iteration to occur.  It directly jumps on the next iteration.  Okay.  It is a simple thing."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 468.0,
+            "end": 481.0,
+            "text": " And as soon as you run it, you will get to see this output.  So, this was break end statement.  Now, I am coming back to the same thing that I told you in the last day.  That is, I had told you in the day 18.  Emulate do while loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 481.0,
+            "end": 490.0,
+            "text": " I am coming to that rappel.  I am coming.  Okay.  In that rappel, I had asked you a question.  And that was to emulate do while loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 490.0,
+            "end": 495.0,
+            "text": " That was in day 18.  It was in day 18.  Okay.  And I had asked you a question in that rappel.  And that was to emulate do while loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 495.0,
+            "end": 502.0,
+            "text": " Now, what was in day 18?  To emulate do while loop.  Now, see how to emulate do while loop.  I had told you do while loop.  That once loop will run."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 502.0,
+            "end": 512.0,
+            "text": " Okay.  What happens in do while loop?  Once loop will run irrespective of whether condition is true or not.  Whether condition is true or false.  Your loop will run."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 512.0,
+            "end": 523.0,
+            "text": " Okay.  And after that, what will happen?  That the next iteration will run if condition is true.  Otherwise, it will not run.  Okay."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 523.0,
+            "end": 530.0,
+            "text": " So, how do we emulate do while loop?  How can we emulate do while loop?  By using an infinite while loop.  Okay.  So, let's do this now."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 530.0,
+            "end": 540.0,
+            "text": " So, I will comment out this now.  I will not delete it because I have to give you the code also.  I will write while true.  So, while true is infinite loop.  We had seen this in the previous day."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 540.0,
+            "end": 554.0,
+            "text": " After writing while true, I will write here that if condition is false.  Suppose, I want to put condition here.  I%100 is equal to equal to 0.  Okay.  So, what will I do?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 554.0,
+            "end": 566.0,
+            "text": " I will check that if your i is divisible by 100, then what will you do?  You will break it.  Otherwise, what will you do?  Otherwise, you will print i from the letter.  Okay."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 566.0,
+            "end": 577.0,
+            "text": " Very simple thing.  So, what I did here?  I wrote that I% and I have to initialize and I has to do i is equal to i plus 1.  And here I will write i is equal to i plus 1.  Okay."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 577.0,
+            "end": 585.0,
+            "text": " So, I wrote here that if i%100 is equal to equal to 0, then break.  Now, see.  If I will run this, then what will happen?  First, i value is 0.  It has printed from 0 to 99."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 585.0,
+            "end": 590.0,
+            "text": " Why did I do this?  Because as soon as i value is 100, what happened?  It broke.  Okay.  So, for i value is 100, it came out of this loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 590.0,
+            "end": 595.0,
+            "text": " That means it got emulated on do while loop.  Okay.  So, first of all, what will happen?  Whatever condition, be it true or false, we don't care.  This is our condition."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 595.0,
+            "end": 600.0,
+            "text": " Whether it is true or false, this loop will work.  Then after that, condition will be checked every time.  So, what will happen?  So, what will happen?  So, what will happen?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 600.0,
+            "end": 605.0,
+            "text": " So, what will happen?  So, what will happen?  So, what will happen?  So, what will happen?  So, what will happen?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 605.0,
+            "end": 610.0,
+            "text": " So, what will happen?  Finally, when i value is 99, then here, it becomes 100.  This is i value.  And we will come out of the loop.  Okay."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 610.0,
+            "end": 617.0,
+            "text": " This question is asked, emulate do while loop.  If you are getting confused, then you see in the previous video.  I have clearly told what do while loop is.  And study this portion.  You can do previous next from here."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 617.0,
+            "end": 622.0,
+            "text": " And as always, I will tell you that do while loop is not important.  But, do while loop is important.  Do while loop is important.  Do while loop is a good thing.  And, if you don't have it, then you can analyze it."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 622.0,
+            "end": 641.28,
+            "text": " So, if you don't have it, then you can analyze it.  That is why I have told you that do while loop is important.  If you have it, then you have to do it.  I will tell you that if you want code then click on the fork rappel button.  Many people are confused about this too."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 642.28,
+            "end": 654.08,
+            "text": " That how to get the code of any rappel.  If you do fork rappel then that rappel will be yours.  Then you can work easily in that.  You will see this on the page.  So I hope this is clear to everyone."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 654.28,
+            "end": 676.8399999999999,
+            "text": " Now we will read a little bit about do while loop and then we will continue the video.  Do while loop is a loop in which a set of instructions will execute at least one.  Irrespective of the condition that at least once it will work.  What happens is that it is written like this in C++, Java and C languages.  But you see here and then the repetition of the loop's body will depend on the condition passed at the end of the while loop."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 677.04,
+            "end": 685.92,
+            "text": " Which is here.  If this condition is true then the loop body will be executed again.  If it is true then it will be executed again.  This is how the loop will continue.  How to emulate this in Python?"
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 686.1199999999999,
+            "end": 693.1199999999999,
+            "text": " I have told you that you do something like this.  Put the condition here.  If the condition is not satisfying you.  Then break out of the loop.  Okay."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 693.3199999999999,
+            "end": 704.3199999999999,
+            "text": " So we will use the break statement.  So here is an example.  You all run it and see.  I want you to come back to day 18 rappel and see it.  Okay."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 704.52,
+            "end": 710.3199999999999,
+            "text": " That's all for this video.  If you haven't accessed the playlist yet.  Then access it now or click on it and bookmark it.  Or click on it and save it.  That's all for this video."
+        },
+        {
+            "number": "18",
+            "title": "break and continue in Python",
+            "start": 710.3199999999999,
+            "end": 722.68,
+            "text": " Thank you so much guys for watching this video.  You have to watch this video in 1X only.  And I will see you next time.  Bye."
+        }
+    ],
+    "text": " It's fun in this 100 days of code python series. In today's video, I will tell you that when and why do we use break and continue statements in python. Whenever we use any loop, we want it to exit here. In this way, we use break. Sometimes we want to skip a particular iteration of a loop. Then we use continue. But we won't understand it so well. So let's go to the computer screen and let's get started. So guys, as I told you in the last video that I will tell you about break and continue. See, loops work iteration by iteration. You will see one iteration executed first. Then the next iteration will come. Then after that, the next iteration will come. Sometimes you want to exit the loop on a particular iteration. And sometimes you want to exit the loop on a particular iteration. Sometimes you want to exit the loop on a particular iteration. Just for that iteration, the loop body code, you can skip it. And continue with the next iteration. So this type of work is done by using break and continue statements. Let's see how it works. So first of all, what I will do here is, I will open my main.by file. So, do you know what is the best thing about rapid? I will close it and I will close it. So this is the console, I can take it here. So smooth navigation, I will close it. And these three things are open side by side. Ok, it's very nice. Now you guys see here, break statement enables the program to skip over a part of the code. The break statement terminates the very loop it lies within. Means it breaks the loop that is inside. Now see, suppose I wrote for i in range 12. And I write print i here. Ok, and I am writing print i. Let us say I am writing here. I am writing print 5 multiply by i. Ok, so I will write here 5 multiply by. And after that I will write i. And in fact, I will do something like this. i and after that I will write is equal to. And after that, means basically you know what I am doing. I am trying to generate 5t table. And I will write here 5 multiply by i plus 1. In fact, I will do plus 1, otherwise it will start from 0. So, if you want to take multiplication table, then you can take it. It's not a big deal. Now see, I have printed the multiplication table here. In fact, I should have removed this space. And you do i plus 1. Otherwise, you know what, it doesn't feel good. Now suppose I go, for some reason, i is equal to 1. Let this work, let this work for 2. But after 10, it will break. Means I just want to see it till here. So, I can put a condition here. If i equal to equal to. If i equal to equal to 10. Then what should I do? Break it. Now, do you know what this break statement will do? Break statement will say, means I am telling you in very basic language. Break statement will say, leave this loop and go. What will it say? Everyone write it in the comment below. Break statement will say, leave this loop and go. Leave this loop and go. And here, I will print and write. Leave this loop and go. Leave this loop and go. I have written very basic Hindi. But you must be able to understand. Leave this loop and go. And here, i is equal to 10. But we have executed i is equal to 10. For 10, it was into 11. But if I put this thing up here. Then what will happen? That this thing will be executed for i is equal to 0. i is equal to 1. i is equal to 2. i is equal to 3. What is written here for 3? 5 into 4 is equal to 5 into 4 which is 20. 20. Now, I made a mistake here. Table is coming wrong because I did not use brackets properly. So, what is he doing? First, he is multiplying 5 with i. And after that, he is adding 1 in it. Which is wrong. Now, see, it will be correct. 5. Oops, I made a mistake again. I put the brackets wrong. What am I doing? What happened to me today? Ok. Now, it is correct. See, now the table will be correct. I know the table of 5. Trust me, I know. Trust me, I know. Ok. 5 into i is equal to 5. 10, 15. All these came till 10. Then I left the loop and left. I wrote this. Ok. So, what is happening? i is equal to 10. As it will be. See, when i is equal to 9, then this thing will be printed. Do you believe this or not? Because when i is equal to 9, then only 5 into 10 will be displayed here or not? Now, as soon as i's value becomes 10 here, it will get a break statement. Break means leave the loop and go. Leave the loop and go. And it will leave the loop and go. So, this is happened. This was the break statement. Can I use this with while loop? Absolutely, I can do. Same thing will happen. It will leave the loop and go. But what will happen in continue? Leave the iteration. Now, understand this one thing. I am going to say one thing, that will tell you the break and continuous statement. Break means leave the loop and go. And Continue means leave the iteration and go. Now, I am going to say a thing in loop. Now, leaving the loop and leaving the iteration is the difference. What is the difference? Let's see. Now, if I remove this here, and write continue here. And here I write, in fact, this thing I have written, this is fine. Ctrl Y, Ctrl Y, okay. Now, I write continue here. And here, I write in English, I become a little professional here. Skip the iteration, okay. Now, what will happen, as soon as the value of i is 10, this iteration will be skipped, because this is a continue statement here. Continue means, whatever has been executed till here, nothing below it will be executed for i is equal to 10, okay. And it will go back to the next value. So, see what happened here. As soon as i is equal to 10, i is equal to 0 here, I do one thing, I revert it again. I remove i plus 1, I let i be. This will be easy for you to understand. So, see here, in range 12, the value of i will be 0. I run it again. If the value of i is 0, then you will see 5 multiplied by 0 is equal to 0. Then, if the value of i is 1, then you will see this. If the value of i is 2, then you will see this. For 3, this. For 4, 5, 6, 7, 8, 9. But, as soon as 10 happens, it is saying skip the iteration. So, what is happening, as soon as the value of i is 10, it will go inside this loop. It will see, skip the iteration is written. Even if I write this, then also there is no problem. This will be executed. Because this is above continue. Whatever is above continue statement will be executed. As soon as it saw continue, it means, now for this value, for this particular iteration, nothing will be executed below this. Take the next value directly. What was the next value? i is equal to 11. So, it took the next value. Okay. I hope you understood. The iteration skips continuously. And the loop breaks completely from break. Okay. We say in programming, breaking out of the loop. That means we come out of the loop. Okay. I hope this thing will be clear to all of you. Now, here I have given examples. And the third argument of range is also written here. Okay. So, here you can see this example. You will understand it very well. So, this was break statement. Similarly, this is also written about continue statement. Continue statement skips the rest of the loop statement. And causes the next iteration to occur. It directly jumps on the next iteration. Okay. It is a simple thing. And as soon as you run it, you will get to see this output. So, this was break end statement. Now, I am coming back to the same thing that I told you in the last day. That is, I had told you in the day 18. Emulate do while loop. I am coming to that rappel. I am coming. Okay. In that rappel, I had asked you a question. And that was to emulate do while loop. That was in day 18. It was in day 18. Okay. And I had asked you a question in that rappel. And that was to emulate do while loop. Now, what was in day 18? To emulate do while loop. Now, see how to emulate do while loop. I had told you do while loop. That once loop will run. Okay. What happens in do while loop? Once loop will run irrespective of whether condition is true or not. Whether condition is true or false. Your loop will run. Okay. And after that, what will happen? That the next iteration will run if condition is true. Otherwise, it will not run. Okay. So, how do we emulate do while loop? How can we emulate do while loop? By using an infinite while loop. Okay. So, let's do this now. So, I will comment out this now. I will not delete it because I have to give you the code also. I will write while true. So, while true is infinite loop. We had seen this in the previous day. After writing while true, I will write here that if condition is false. Suppose, I want to put condition here. I%100 is equal to equal to 0. Okay. So, what will I do? I will check that if your i is divisible by 100, then what will you do? You will break it. Otherwise, what will you do? Otherwise, you will print i from the letter. Okay. Very simple thing. So, what I did here? I wrote that I% and I have to initialize and I has to do i is equal to i plus 1. And here I will write i is equal to i plus 1. Okay. So, I wrote here that if i%100 is equal to equal to 0, then break. Now, see. If I will run this, then what will happen? First, i value is 0. It has printed from 0 to 99. Why did I do this? Because as soon as i value is 100, what happened? It broke. Okay. So, for i value is 100, it came out of this loop. That means it got emulated on do while loop. Okay. So, first of all, what will happen? Whatever condition, be it true or false, we don't care. This is our condition. Whether it is true or false, this loop will work. Then after that, condition will be checked every time. So, what will happen? So, what will happen? So, what will happen? So, what will happen? So, what will happen? So, what will happen? So, what will happen? So, what will happen? So, what will happen? Finally, when i value is 99, then here, it becomes 100. This is i value. And we will come out of the loop. Okay. This question is asked, emulate do while loop. If you are getting confused, then you see in the previous video. I have clearly told what do while loop is. And study this portion. You can do previous next from here. And as always, I will tell you that do while loop is not important. But, do while loop is important. Do while loop is important. Do while loop is a good thing. And, if you don't have it, then you can analyze it. So, if you don't have it, then you can analyze it. That is why I have told you that do while loop is important. If you have it, then you have to do it. I will tell you that if you want code then click on the fork rappel button. Many people are confused about this too. That how to get the code of any rappel. If you do fork rappel then that rappel will be yours. Then you can work easily in that. You will see this on the page. So I hope this is clear to everyone. Now we will read a little bit about do while loop and then we will continue the video. Do while loop is a loop in which a set of instructions will execute at least one. Irrespective of the condition that at least once it will work. What happens is that it is written like this in C++, Java and C languages. But you see here and then the repetition of the loop's body will depend on the condition passed at the end of the while loop. Which is here. If this condition is true then the loop body will be executed again. If it is true then it will be executed again. This is how the loop will continue. How to emulate this in Python? I have told you that you do something like this. Put the condition here. If the condition is not satisfying you. Then break out of the loop. Okay. So we will use the break statement. So here is an example. You all run it and see. I want you to come back to day 18 rappel and see it. Okay. That's all for this video. If you haven't accessed the playlist yet. Then access it now or click on it and bookmark it. Or click on it and save it. That's all for this video. Thank you so much guys for watching this video. You have to watch this video in 1X only. And I will see you next time. Bye."
+}

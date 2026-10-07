@@ -19,12 +19,12 @@ def create_embeddings(all_texts):
 
 if __name__=="__main__":
 
-    json_dir = sorted(os.listdir("json"))
+    json_dir = sorted(os.listdir("new_jsons"))
 
     my_dicts=[]
     chunk_id=0
     for json_file in json_dir:
-        with open(f"json/{json_file}", "r") as f:
+        with open(f"new_jsons/{json_file}", "r") as f:
             data=json.load(f)
         print(f"Creating embeddings for {json_file}")
 

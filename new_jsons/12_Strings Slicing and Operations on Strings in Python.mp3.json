@@ -1,0 +1,362 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 0.0,
+            "end": 16.0,
+            "text": " In 100 days of code, everyone's tempo is very high.  And today's topic is how to do string slicing.  Remember we had read about string, we had seen how good this data type is.  How useful this data type is.  You guys can make any project, you will see string using in some way or the other."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 16.0,
+            "end": 42.0,
+            "text": " Today I will tell you about string slicing.  And I will tell you about some more interesting things about string.  Which will make it easier for you to play with string.  Let's go to the computer screen and let's get started.  So today we are going to see again our old topic which was strings."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 42.0,
+            "end": 60.0,
+            "text": " So first of all I will open this rappel in my strings.  And today we are going to see how string slicing is done.  Suppose we have a string named Harry.  And it is made up of 5 characters H, A, R, R, Y.  Suppose you want to access from R to Y."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 60.0,
+            "end": 77.0,
+            "text": " And if you don't like this example.  Suppose I give you a string which has 5 names.  I will quickly come to my rappel and explain to you what I am talking about.  Suppose I have a name.  I will give you H, A, R, R, Y, S, H, U, B, H, A, M."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 77.0,
+            "end": 89.0,
+            "text": " In fact I will give it names.  Suppose I have comma separated names.  I want to have only Harry.  So I can do something like this.  Print names and after this I want to take 5 characters from the beginning."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 89.0,
+            "end": 101.0,
+            "text": " Start with Harry.  How will I take 5 characters from the beginning?  First of all I will specify the starting index.  And after this I will specify the ending index.  I will say that I want to start with starting index."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 101.0,
+            "end": 119.0,
+            "text": " By the way index starts with 0.  Whenever we count something in our life we start with 1.  When we count fingers we start with 1, 2, 3, 4, 5.  Whatever we do counting starts with 1.  In programming whatever you do counting starts with 0 not with 1."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 119.0,
+            "end": 128.0,
+            "text": " Because most of the programming languages starts with 0.  This is clear now.  Now I have started counting from 0.  And what I will do here?  I will write 6."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 128.0,
+            "end": 136.0,
+            "text": " Now why did you write 6?  In the beginning we need 5 characters.  So why did you write 6?  I will write 5.  So I will get 5 characters."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 136.0,
+            "end": 150.0,
+            "text": " So I will get from 0 to 4.  See here if you hover like this.  So see here this replete tells you a lot.  But now I will tell you about all these things.  I will tell you how it works."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 150.0,
+            "end": 161.0,
+            "text": " From 0 to n-1.  The value of n is 5.  It gives you indices by printing.  Like it did 0, 1, 2, 3, 4.  It didn't do 5."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 161.0,
+            "end": 169.0,
+            "text": " I am going to remember this.  Now I have written such an interesting tutorial for you.  See here.  Length of a string.  We can find the length of a string using length function."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 169.0,
+            "end": 182.0,
+            "text": " Before all this I want to tell you that if you want to find the length of any string.  Like this string is named names.  I want its length.  So I will use length function.  I will put string in it."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 182.0,
+            "end": 191.0,
+            "text": " 13 is here.  You can count it.  2, 2, 4, 2, 6, 2, 8, 2, 10, 2, 12, and 1, 13.  13.  13 characters are here."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 191.0,
+            "end": 201.0,
+            "text": " Ok.  So you can find the length of this string like this.  I have given an example here.  We can try it out.  Mango is a 5 character word."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 201.0,
+            "end": 207.0,
+            "text": " 5 letter word.  Ok.  So we have 5 letters in mango.  So mango is a 5 letter word.  Ok."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 207.0,
+            "end": 245.0,
+            "text": " Entre streets 2 and 3 are given here.  personagem 3 begger 3.  rude word,  Roberto is a cute girl.  Suppose I want to get the initial two characters of fruit, then I will write fruit and then I will write print fruit and I will put square bracket notation."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 245.0,
+            "end": 278.0,
+            "text": " Make sure you don't use parenthesis, we use parenthesis for functions but we use square brackets for slicing.  Square brackets are on your keyboard, on the right side of P, you can see it on your keyboard.  And from 0 to 4, suppose I write till 4, then I get four characters initially.  I am basically saying from this line that give me the zeroth index, first index, second index, third index.  You will not see the fourth index, you will not see the fourth index, you will see it from 0 to 3."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 278.0,
+            "end": 297.0,
+            "text": " 0, 1, 2 and 3, these four characters I will run and show you, M, A, N, G will be its output.  What will happen if I don't put this zero? I can skip this zero.  If I don't put this zero, then what will Python do? It will automatically put zero here.  If I set it to zero, then it will automatically put zero here.  I will skip this zero, this is a very good feature of Python."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 297.0,
+            "end": 318.0,
+            "text": " Now what will happen if I want to start from 1, I want index from 1, then I will write 4 from 1.  So I will get A, N and G.  Now see here I got A, N and G.  But here I will write something like this, index and here colon and 4.  So here automatically Python is so smart that it will put zero."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 318.0,
+            "end": 330.0,
+            "text": " So here it will put zero and you will get mang again.  If I remove 4 here, then what will Python do?  It will put its length, length of root.  What is length of root? Length of root is 5.  So it will put 5."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 330.0,
+            "end": 350.0,
+            "text": " So see here if I don't put 5, then I will get mango and if I put 5, then also I will get mango.  So this is how slicing works.  Now I want to tell you one more thing about slicing, negative slicing.  If I write minus 1 here, I will make it zero again because I will not write anything there,  then zero will come automatically."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 350.0,
+            "end": 362.0,
+            "text": " And if I write minus 3 here, then what will happen?  You see the output and I will tell you why this output came.  It is ma output.  Now why did ma output come?  See how Python interprets this, let's understand."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 362.0,
+            "end": 381.0,
+            "text": " The minus 3 here, here length of root, Python interpreter puts this automatically.  Length of root, how much is length of root? 5.  We saw that it is 5 here.  Length of root is 5 and 5 minus 3 is 2.  So 0 to 2 means?"
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 381.0,
+            "end": 399.0,
+            "text": " 0m and then 1 means a.  Ok, 0 on index is m and 1 to index is a.  So ma is printed, this also ma will be printed.  Ok.  As I told you for clarity that if I write this, or write this, it will be the same thing."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 399.0,
+            "end": 413.0,
+            "text": " Ok, ma will be printed because Python automatically puts length of root here.  But what about negative slicing here.  If I add minus 1 here, what will be printed?  Wait a minute, I will write it in a new line, so that.  I am writing in D line so that you don't get confused."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 413.0,
+            "end": 430.0,
+            "text": " If I don't write anything here then this and this are equivalent.  Because Python automatically puts a line of root for negative slicing.  And if I do minus 1 here then what will happen?  Then you see that I will do one thing here.  I will comment it out so that you will know exactly what is printing."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 430.0,
+            "end": 446.0,
+            "text": " So if I do something like this and print minus 1 here then see  5 prints are there and nothing is printed here.  Now let's understand what is this.  So I wrote line of root minus 3 and here I wrote minus 1.  So what will happen is that Python interpreter will automatically put a line of root here."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 446.0,
+            "end": 468.0,
+            "text": " So Python interpreter will interpret it like this.  Python interpreter will say that line of root is 5 so 5 minus 1 is 4 and 5 minus 3 is 2.  So there is no sense of 4 to 2.  However if I do it in reverse, that is if I do minus 3 here and minus 1 here then what will happen?  And I don't need to put a line of root."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 468.0,
+            "end": 484.0,
+            "text": " That is just like I was telling you that Python automatically puts a line of root.  If I run it then you will see that NG is coming here.  How does NG come? Let's decode it.  First of all, Python will make it line of root minus 3 here.  Which will be 5 minus 3 is 2."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 484.0,
+            "end": 499.0,
+            "text": " So here 2 will be there and here 4 will be there.  So it will start from the second index and will go till the third.  Remember that Python starts from here and goes till this minus 1.  So 0, 1, 2 means N will come.  Then 3 will also come which means G will come."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 499.0,
+            "end": 519.0,
+            "text": " NG and the fourth index is ignored.  I told you including this but not including this.  And I want to write this thing.  I want to write this thing that including 0 but not 4.  In fact I will write this thing here also so that you don't think that this is 0."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 519.0,
+            "end": 533.0,
+            "text": " So there is no special case in this.  No, there is no special case of 0.  In which you will get the same thing for 1 by pasting here.  So if you can see here, if you did 4 from 0 then including 0 but not 4.  Including 1 but not 4."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 533.0,
+            "end": 541.0,
+            "text": " Meaning from 1 to 3.  And this is the index.  Meaning this is the number which starts counting from 0.  If you will start counting from 0.  Meaning instead of 0 is M."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 541.0,
+            "end": 549.0,
+            "text": " Instead of 1 is A.  Instead of 2 is N.  Instead of 3 is G.  And instead of 4 is O.  So in this way string slicing can be done."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 549.0,
+            "end": 560.0,
+            "text": " All examples are given here.  Now many people explain negative slicing in different ways.  They say do the opposite counting and do this and that.  But I think the best explanation is that you write line of root here.  And that's about it."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 560.0,
+            "end": 573.0,
+            "text": " Your work has to be done.  Ok.  Now we saw how to do loop through in string.  And you guys did this in the last video.  And in the coming videos we will see which are the methods of string."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 573.0,
+            "end": 584.0,
+            "text": " But I want you guys to solve a quick quiz for me.  And don't tell in comment section this time.  This time you guys tag me on Instagram by giving the answer of this quiz.  Ok.  So let's do this exercise."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 584.0,
+            "end": 593.0,
+            "text": " Ok.  What you have to do is you have to tell the output of this program and explain it to me.  Ok.  I am writing a very simple program.  Ok."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 593.0,
+            "end": 601.0,
+            "text": " You have to write this as quick quiz.  Quick quiz.  What you have to do is and don't cheat.  Ok.  Don't cheat."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 601.0,
+            "end": 613.0,
+            "text": " Don't tell me the output by running.  It is H-A-R-R-Y.  Ok.  So if I print N-M and suppose I am writing here minus 2 to N-M.  Ok."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 613.0,
+            "end": 623.0,
+            "text": " From 2 to minus 4 to minus 2.  So you have to tell me what will be the print.  Ok.  Will you tell me this?  You have to tell me this."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 623.0,
+            "end": 634.0,
+            "text": " Ok.  From minus 4 to minus 2 what will be the print?  And I challenge you that you are going to tag me on Instagram with your phone.  You will not do this after running.  You don't have to run this."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 634.0,
+            "end": 645.0,
+            "text": " It shouldn't happen that you have run this.  That's why I comment out this also so that you don't say that we have run this and the output came here.  The output will not come if you have this comment.  Ok.  And after that you have to understand what I have told you."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 645.0,
+            "end": 656.0,
+            "text": " You have to do exactly that.  And I will not tell you again what is length and what is what.  You can watch the video again but I want the correct answer.  And this is what I am achieving.  I want the correct answer."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 656.0,
+            "end": 661.0,
+            "text": " Ok.  And if you have explained it.  Explanation is optional.  You give me the answer.  Explanation is optional."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 661.0,
+            "end": 671.0,
+            "text": " Ok.  If you want you can give a very quick explanation.  I will feel good with a lot of heart.  If you have not accessed the playlist yet then do access it.  And Instagram is H-A-R-R-Y."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 671.0,
+            "end": 678.0,
+            "text": " And Instagram handle is codewithharry.  I want to tell you this also.  Ok.  So you can search codewithharry on Instagram.  You will get it."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 678.0,
+            "end": 702.0,
+            "text": " Do access the playlist or click and bookmark it or click and save it.  That's all for this video for now guys.  Thank you so much guys for watching this video.  And I will see you next time.  Bye."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 702.0,
+            "end": 707.0,
+            "text": " Bye.  Bye.  Bye.  Bye.  Bye."
+        },
+        {
+            "number": "12",
+            "title": "Strings Slicing and Operations on Strings in Python",
+            "start": 707.0,
+            "end": 708.0,
+            "text": " Bye."
+        }
+    ],
+    "text": " In 100 days of code, everyone's tempo is very high. And today's topic is how to do string slicing. Remember we had read about string, we had seen how good this data type is. How useful this data type is. You guys can make any project, you will see string using in some way or the other. Today I will tell you about string slicing. And I will tell you about some more interesting things about string. Which will make it easier for you to play with string. Let's go to the computer screen and let's get started. So today we are going to see again our old topic which was strings. So first of all I will open this rappel in my strings. And today we are going to see how string slicing is done. Suppose we have a string named Harry. And it is made up of 5 characters H, A, R, R, Y. Suppose you want to access from R to Y. And if you don't like this example. Suppose I give you a string which has 5 names. I will quickly come to my rappel and explain to you what I am talking about. Suppose I have a name. I will give you H, A, R, R, Y, S, H, U, B, H, A, M. In fact I will give it names. Suppose I have comma separated names. I want to have only Harry. So I can do something like this. Print names and after this I want to take 5 characters from the beginning. Start with Harry. How will I take 5 characters from the beginning? First of all I will specify the starting index. And after this I will specify the ending index. I will say that I want to start with starting index. By the way index starts with 0. Whenever we count something in our life we start with 1. When we count fingers we start with 1, 2, 3, 4, 5. Whatever we do counting starts with 1. In programming whatever you do counting starts with 0 not with 1. Because most of the programming languages starts with 0. This is clear now. Now I have started counting from 0. And what I will do here? I will write 6. Now why did you write 6? In the beginning we need 5 characters. So why did you write 6? I will write 5. So I will get 5 characters. So I will get from 0 to 4. See here if you hover like this. So see here this replete tells you a lot. But now I will tell you about all these things. I will tell you how it works. From 0 to n-1. The value of n is 5. It gives you indices by printing. Like it did 0, 1, 2, 3, 4. It didn't do 5. I am going to remember this. Now I have written such an interesting tutorial for you. See here. Length of a string. We can find the length of a string using length function. Before all this I want to tell you that if you want to find the length of any string. Like this string is named names. I want its length. So I will use length function. I will put string in it. 13 is here. You can count it. 2, 2, 4, 2, 6, 2, 8, 2, 10, 2, 12, and 1, 13. 13. 13 characters are here. Ok. So you can find the length of this string like this. I have given an example here. We can try it out. Mango is a 5 character word. 5 letter word. Ok. So we have 5 letters in mango. So mango is a 5 letter word. Ok. Entre streets 2 and 3 are given here. personagem 3 begger 3. rude word, Roberto is a cute girl. Suppose I want to get the initial two characters of fruit, then I will write fruit and then I will write print fruit and I will put square bracket notation. Make sure you don't use parenthesis, we use parenthesis for functions but we use square brackets for slicing. Square brackets are on your keyboard, on the right side of P, you can see it on your keyboard. And from 0 to 4, suppose I write till 4, then I get four characters initially. I am basically saying from this line that give me the zeroth index, first index, second index, third index. You will not see the fourth index, you will not see the fourth index, you will see it from 0 to 3. 0, 1, 2 and 3, these four characters I will run and show you, M, A, N, G will be its output. What will happen if I don't put this zero? I can skip this zero. If I don't put this zero, then what will Python do? It will automatically put zero here. If I set it to zero, then it will automatically put zero here. I will skip this zero, this is a very good feature of Python. Now what will happen if I want to start from 1, I want index from 1, then I will write 4 from 1. So I will get A, N and G. Now see here I got A, N and G. But here I will write something like this, index and here colon and 4. So here automatically Python is so smart that it will put zero. So here it will put zero and you will get mang again. If I remove 4 here, then what will Python do? It will put its length, length of root. What is length of root? Length of root is 5. So it will put 5. So see here if I don't put 5, then I will get mango and if I put 5, then also I will get mango. So this is how slicing works. Now I want to tell you one more thing about slicing, negative slicing. If I write minus 1 here, I will make it zero again because I will not write anything there, then zero will come automatically. And if I write minus 3 here, then what will happen? You see the output and I will tell you why this output came. It is ma output. Now why did ma output come? See how Python interprets this, let's understand. The minus 3 here, here length of root, Python interpreter puts this automatically. Length of root, how much is length of root? 5. We saw that it is 5 here. Length of root is 5 and 5 minus 3 is 2. So 0 to 2 means? 0m and then 1 means a. Ok, 0 on index is m and 1 to index is a. So ma is printed, this also ma will be printed. Ok. As I told you for clarity that if I write this, or write this, it will be the same thing. Ok, ma will be printed because Python automatically puts length of root here. But what about negative slicing here. If I add minus 1 here, what will be printed? Wait a minute, I will write it in a new line, so that. I am writing in D line so that you don't get confused. If I don't write anything here then this and this are equivalent. Because Python automatically puts a line of root for negative slicing. And if I do minus 1 here then what will happen? Then you see that I will do one thing here. I will comment it out so that you will know exactly what is printing. So if I do something like this and print minus 1 here then see 5 prints are there and nothing is printed here. Now let's understand what is this. So I wrote line of root minus 3 and here I wrote minus 1. So what will happen is that Python interpreter will automatically put a line of root here. So Python interpreter will interpret it like this. Python interpreter will say that line of root is 5 so 5 minus 1 is 4 and 5 minus 3 is 2. So there is no sense of 4 to 2. However if I do it in reverse, that is if I do minus 3 here and minus 1 here then what will happen? And I don't need to put a line of root. That is just like I was telling you that Python automatically puts a line of root. If I run it then you will see that NG is coming here. How does NG come? Let's decode it. First of all, Python will make it line of root minus 3 here. Which will be 5 minus 3 is 2. So here 2 will be there and here 4 will be there. So it will start from the second index and will go till the third. Remember that Python starts from here and goes till this minus 1. So 0, 1, 2 means N will come. Then 3 will also come which means G will come. NG and the fourth index is ignored. I told you including this but not including this. And I want to write this thing. I want to write this thing that including 0 but not 4. In fact I will write this thing here also so that you don't think that this is 0. So there is no special case in this. No, there is no special case of 0. In which you will get the same thing for 1 by pasting here. So if you can see here, if you did 4 from 0 then including 0 but not 4. Including 1 but not 4. Meaning from 1 to 3. And this is the index. Meaning this is the number which starts counting from 0. If you will start counting from 0. Meaning instead of 0 is M. Instead of 1 is A. Instead of 2 is N. Instead of 3 is G. And instead of 4 is O. So in this way string slicing can be done. All examples are given here. Now many people explain negative slicing in different ways. They say do the opposite counting and do this and that. But I think the best explanation is that you write line of root here. And that's about it. Your work has to be done. Ok. Now we saw how to do loop through in string. And you guys did this in the last video. And in the coming videos we will see which are the methods of string. But I want you guys to solve a quick quiz for me. And don't tell in comment section this time. This time you guys tag me on Instagram by giving the answer of this quiz. Ok. So let's do this exercise. Ok. What you have to do is you have to tell the output of this program and explain it to me. Ok. I am writing a very simple program. Ok. You have to write this as quick quiz. Quick quiz. What you have to do is and don't cheat. Ok. Don't cheat. Don't tell me the output by running. It is H-A-R-R-Y. Ok. So if I print N-M and suppose I am writing here minus 2 to N-M. Ok. From 2 to minus 4 to minus 2. So you have to tell me what will be the print. Ok. Will you tell me this? You have to tell me this. Ok. From minus 4 to minus 2 what will be the print? And I challenge you that you are going to tag me on Instagram with your phone. You will not do this after running. You don't have to run this. It shouldn't happen that you have run this. That's why I comment out this also so that you don't say that we have run this and the output came here. The output will not come if you have this comment. Ok. And after that you have to understand what I have told you. You have to do exactly that. And I will not tell you again what is length and what is what. You can watch the video again but I want the correct answer. And this is what I am achieving. I want the correct answer. Ok. And if you have explained it. Explanation is optional. You give me the answer. Explanation is optional. Ok. If you want you can give a very quick explanation. I will feel good with a lot of heart. If you have not accessed the playlist yet then do access it. And Instagram is H-A-R-R-Y. And Instagram handle is codewithharry. I want to tell you this also. Ok. So you can search codewithharry on Instagram. You will get it. Do access the playlist or click and bookmark it or click and save it. That's all for this video for now guys. Thank you so much guys for watching this video. And I will see you next time. Bye. Bye. Bye. Bye. Bye. Bye. Bye."
+}

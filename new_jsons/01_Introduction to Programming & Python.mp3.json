@@ -1,0 +1,467 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 0.0,
+            "end": 17.0,
+            "text": " Welcome to 100 days of code guys  In 100 days of code we are going to learn Python programming from zero to job ready  If you have given 100 days dedicated 100 days  Then I will tell you in bite size lesson  Python programming we will take it to zero to advance"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 17.0,
+            "end": 29.0,
+            "text": " In starting you will feel that how easy it is  It is a play of kids and after that videos will go ahead  And we will go to day 100  We will raise the bar like anything  We will work on complex projects"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 29.0,
+            "end": 43.0,
+            "text": " We will work on things which are used in industry  So it will be very exciting and fun  Python is a dynamically typed object oriented programming language  Which was made by Guido Van Rossum in 1991  Guido Van Rossum was watching a show named Monty Python Circus on TV"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 43.0,
+            "end": 55.0,
+            "text": " When he was working on this language  And he thought why not I will give it a name Python  And since then his name is Python  In this course we will do a lot of practice along with theory  A lot of exercises and quizzes are going to come in it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 55.0,
+            "end": 67.0,
+            "text": " And we are waiting for a lot of challenges for you guys  So that's why I am saying  I will enter my computer in a bottle  And will introduce you to Python's unique and unique nature  So right now you like this video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 67.0,
+            "end": 79.0,
+            "text": " And turn on the notifications by subscribing  So that you don't miss any day  And you keep getting notifications every day  Because it is very easy to get lost in YouTube's sea  So you all have accepted 100 days of code challenge right now"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 79.0,
+            "end": 99.0,
+            "text": " Write in the comment section below  I accept the 100 days of code challenge  Let's get started  So I have come here in Google Chrome browser  And I will tell you how to download and install Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 99.0,
+            "end": 110.0,
+            "text": " So as soon as you write Python  You will come to python.org  And here according to your platform  You will get the latest download of Python  As you can see I am in Mac OS"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 110.0,
+            "end": 120.0,
+            "text": " So for Mac OS Python 3.11 is giving  So I will download it  And as soon as it will be downloaded  You can use your favorite IDE, VS code  Or you can download anything"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 120.0,
+            "end": 133.0,
+            "text": " Python to use in your computer  But I will use you for the Rapplet  And you can use Rapplet  It is a collaborative browser based IDE  I am using it because"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 133.0,
+            "end": 147.0,
+            "text": " I find it very easy to use  And along with that  It is going to be very easy for me to give you code  So here I will sign in from my Google account  And after that I will be redirected on this screen"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 147.0,
+            "end": 157.0,
+            "text": " So as you can see  All my Rappels are here  Rapplet basically gives you an online way to write code  If your computer is not fast  Or you have any problem"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 157.0,
+            "end": 167.0,
+            "text": " Compute wise  That means your computer lacks a lot  So you just need a browser tab  And you can follow me  And because I will be using Rapplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 167.0,
+            "end": 180.0,
+            "text": " It will be easy for you to follow me  So here I will go to my Rappels  I have already made some Rappels  And I will scroll down and find it  And I will go to my Python 0 to Job Ready folder"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 180.0,
+            "end": 195.0,
+            "text": " And this is our Rappel of Day 1  So as you can see here  My video will be shown in floating pane  And here will be our content  And here we will write our code"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 195.0,
+            "end": 205.0,
+            "text": " So I will keep the console here  And along with that  The code that I will show you  I will close it  I will write the code here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 205.0,
+            "end": 217.0,
+            "text": " And here I will write the output of that code  So I will quickly create a new file  So I will click here  And open main.py  And I actually want to open main.py here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 217.0,
+            "end": 227.0,
+            "text": " So you can see how easy it is to use it  Here will be the tutorial  Here we will write the code  Here will be the output  And here will be our video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 227.0,
+            "end": 237.0,
+            "text": " Which you can watch  Now here I have put a demo video  You will get to see our video of the day  If you are thinking that I have made this video  How I have done it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 237.0,
+            "end": 247.0,
+            "text": " Then I will give you a link in the description  You will get to know how to do this  In case any teacher is watching this  So let's talk about Python quickly  But before that"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 247.0,
+            "end": 259.0,
+            "text": " I want to talk about what is programming  So as you can see  Programming is a way for us to tell computers what to do  We want to tell computers what to do  And we do that with the help of programming"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 259.0,
+            "end": 268.0,
+            "text": " If you have a calculator  So the calculator is programmed  So that we can tell it  How much is 5 plus 9  Now you will say that 5 plus 9 is 14"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 268.0,
+            "end": 276.0,
+            "text": " I know that  So why should I use a calculator  But how about 2 3 4 5 3 4 5  3 multiplied by 5 6  4 5 6"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 276.0,
+            "end": 284.0,
+            "text": " You can calculate it  But not as fast as a computer can do  So in this way  A proper communication with a computer  Is very important"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 284.0,
+            "end": 294.0,
+            "text": " And for this we use programming  Just like me and you are talking in Hindi  You must be talking in English with your friends  You must be talking in Spanish  Or you must be talking in any other language"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 294.0,
+            "end": 300.0,
+            "text": " We talk to the computer  We use programming languages  For example  Python  C"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 300.0,
+            "end": 310.0,
+            "text": " C++  Java  And many other programming languages in the market  But this course is dedicated to Python  And it is because Python is very easy"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 310.0,
+            "end": 321.0,
+            "text": " Python is the easiest to learn programming language  Because when you learn Python  And then you start doing things  Then you enjoy a different level  Python is dynamically typed"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 321.0,
+            "end": 331.0,
+            "text": " It is a general purpose programming language  It supports object oriented paradigm  And also supports functional approach  If you don't know what these two are  Then we are going to learn in this course"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 331.0,
+            "end": 343.0,
+            "text": " Now this is interpreted  It is a high level programming language  And Guido van Rossum started working on this in 1989  Many people ask  When was Python developed"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 343.0,
+            "end": 352.0,
+            "text": " So it was not a day or a year  From 1989 to over the period of years  Guido van Rossum created this  So in some places you will see 1991  In some places you will see 1992"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 352.0,
+            "end": 359.0,
+            "text": " In some places you will see 1989  But the truth is  It was created from 1989  Over the period of years  What are the features of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 359.0,
+            "end": 370.0,
+            "text": " The first thing I will tell you  It is simple  It is the simplest programming language  I think this is the best feature of Python  And after that you can do anything with it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 370.0,
+            "end": 381.0,
+            "text": " Platform is independent  And it means  If you write code in Windows  Then you can run it in Linux  And if you write code in Mac"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 381.0,
+            "end": 391.0,
+            "text": " Then you can run it in Windows  And you can run it in any platform  I am writing code in my browser  It doesn't mean anything to me  Because I am using the applet platform"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 391.0,
+            "end": 401.0,
+            "text": " But if I write code in my Mac  Then you can run it anywhere  It is very easy for you  It is an open source programming language  The most important thing is"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 401.0,
+            "end": 411.0,
+            "text": " You don't have to pay for using Python  Which is amazing  And Python provides very big library support  So many people use this easy language  Which is very easy to use"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 411.0,
+            "end": 423.0,
+            "text": " And because of this  All the people are working on some project  And all the people's project  The code written by them  The hard work written by them"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 423.0,
+            "end": 432.0,
+            "text": " Maybe someone made something in one year  And you can use it in one minute  This is very good  If I talk from the learning point of view  If I talk from the error point of view"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 432.0,
+            "end": 440.0,
+            "text": " Then I will say  Maybe the error you are getting today  Maybe someone came 10 years ago  And he broke it  And put it on a website like Stack Overflow"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 440.0,
+            "end": 450.0,
+            "text": " It is very easy for you  It is very easy for you  To find the solution of that problem  Python provides a very big library support  Then after that"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 450.0,
+            "end": 460.0,
+            "text": " It is very easy to integrate it  With other programming languages  Like C language  It can be linked very well  Then after that"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 460.0,
+            "end": 469.0,
+            "text": " It has some applications  Which I have written here  That you can work on database  You can work on data science  You can work on machine learning"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 469.0,
+            "end": 479.0,
+            "text": " You can make very serious complex applications  And to make your business  To move forward  You can do many complex mathematical operations  With the help of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 479.0,
+            "end": 489.0,
+            "text": " Now I am using the rapplet here  Because it is very easy to share the code  It is very easy to install Python in local  Simply you  On any platform"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 489.0,
+            "end": 499.0,
+            "text": " You can simply  Install it  Like any game  And if you are in Mac  Then the installation is as simple as"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 499.0,
+            "end": 509.0,
+            "text": " You are watching in the computer  But if you are in Windows  Then you must install Python  And remember one thing  If you are installing in your computer"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 509.0,
+            "end": 519.0,
+            "text": " That you must check the path variable  At Python 3 point  Which is the version  Because if you don't check it  Then you may not be able to use"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 519.0,
+            "end": 529.0,
+            "text": " Python from the terminal  So if I open my terminal  Whether you are in Windows or anywhere  And I will write Python  Then it is written here that"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 529.0,
+            "end": 539.0,
+            "text": " We have to solve this problem  If you are in Linux or Mac  Then if you write Python  Then you will get this error  So if you write Python 3"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 539.0,
+            "end": 549.0,
+            "text": " Then you will get  Python's rappel  Rappel is full form of  Read, evaluate, print, loop  And here you can use Python as a calculator"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 549.0,
+            "end": 559.0,
+            "text": " You can run commands like this  If you don't know  What is print statement  Then we are going to read  Over the period of days"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 559.0,
+            "end": 569.0,
+            "text": " And slowly slowly  I want to digest things  So if you want to come out of rappel  That is if you want to come out of  Read, evaluate, print, loop"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 569.0,
+            "end": 579.0,
+            "text": " Then you exit and come out  But you know what I am going to do  I am going to use  Rapplet  And in Rapplet"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 579.0,
+            "end": 589.0,
+            "text": " Whatever we make files and projects  That is called rappel  And this rappel name came from here  Read, evaluate, print, loop  Which is of Python"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 589.0,
+            "end": 599.0,
+            "text": " And in Rapplet  This name is derived from there  So if I write hello world  And then click on run  So you see it is so easy to run"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 599.0,
+            "end": 609.0,
+            "text": " I want to see its output  And its output has come  Hello world  Now if I  Print 7 or 5"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 609.0,
+            "end": 619.0,
+            "text": " And run it  So here it will run  And then I will see 5  So basically it is done  I am writing code here"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 619.0,
+            "end": 629.0,
+            "text": " And its output is here  In this way even if my computer is slow  Then I can run Python very well  And I can make new files  I can make new files"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 629.0,
+            "end": 639.0,
+            "text": " I can open new files  And here I can read this text  I can watch this video  I can keep it anywhere  Up, down, front, back"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 639.0,
+            "end": 649.0,
+            "text": " Or if I don't want to watch this video  I am practicing something  Then you can make it small  And park it here  And whenever you want to see it"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 649.0,
+            "end": 659.0,
+            "text": " Then you can do it  So it will be a very good learning experience  So I will request you all  That all of you  The playlist of python which I am going to make official"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 659.0,
+            "end": 669.0,
+            "text": " The playlist of 100 days of code  Do access it  Like the video  Subscribe the channel  So that you don't miss any day"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 669.0,
+            "end": 679.0,
+            "text": " This is the journey of 100 days of code  I don't want you to miss any day  Access the playlist of python  Bookmark it  And day 2 is going to be dedicated"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 679.0,
+            "end": 689.0,
+            "text": " To some very interesting thing  So you guys wait for day 2  And we will meet after that  That's all for now in this video  Thank you so much guys for watching this video"
+        },
+        {
+            "number": "1",
+            "title": "Introduction to Programming & Python",
+            "start": 689.0,
+            "end": 709.0,
+            "text": " And I will see you next time  Bye"
+        }
+    ],
+    "text": " Welcome to 100 days of code guys In 100 days of code we are going to learn Python programming from zero to job ready If you have given 100 days dedicated 100 days Then I will tell you in bite size lesson Python programming we will take it to zero to advance In starting you will feel that how easy it is It is a play of kids and after that videos will go ahead And we will go to day 100 We will raise the bar like anything We will work on complex projects We will work on things which are used in industry So it will be very exciting and fun Python is a dynamically typed object oriented programming language Which was made by Guido Van Rossum in 1991 Guido Van Rossum was watching a show named Monty Python Circus on TV When he was working on this language And he thought why not I will give it a name Python And since then his name is Python In this course we will do a lot of practice along with theory A lot of exercises and quizzes are going to come in it And we are waiting for a lot of challenges for you guys So that's why I am saying I will enter my computer in a bottle And will introduce you to Python's unique and unique nature So right now you like this video And turn on the notifications by subscribing So that you don't miss any day And you keep getting notifications every day Because it is very easy to get lost in YouTube's sea So you all have accepted 100 days of code challenge right now Write in the comment section below I accept the 100 days of code challenge Let's get started So I have come here in Google Chrome browser And I will tell you how to download and install Python So as soon as you write Python You will come to python.org And here according to your platform You will get the latest download of Python As you can see I am in Mac OS So for Mac OS Python 3.11 is giving So I will download it And as soon as it will be downloaded You can use your favorite IDE, VS code Or you can download anything Python to use in your computer But I will use you for the Rapplet And you can use Rapplet It is a collaborative browser based IDE I am using it because I find it very easy to use And along with that It is going to be very easy for me to give you code So here I will sign in from my Google account And after that I will be redirected on this screen So as you can see All my Rappels are here Rapplet basically gives you an online way to write code If your computer is not fast Or you have any problem Compute wise That means your computer lacks a lot So you just need a browser tab And you can follow me And because I will be using Rapplet It will be easy for you to follow me So here I will go to my Rappels I have already made some Rappels And I will scroll down and find it And I will go to my Python 0 to Job Ready folder And this is our Rappel of Day 1 So as you can see here My video will be shown in floating pane And here will be our content And here we will write our code So I will keep the console here And along with that The code that I will show you I will close it I will write the code here And here I will write the output of that code So I will quickly create a new file So I will click here And open main.py And I actually want to open main.py here So you can see how easy it is to use it Here will be the tutorial Here we will write the code Here will be the output And here will be our video Which you can watch Now here I have put a demo video You will get to see our video of the day If you are thinking that I have made this video How I have done it Then I will give you a link in the description You will get to know how to do this In case any teacher is watching this So let's talk about Python quickly But before that I want to talk about what is programming So as you can see Programming is a way for us to tell computers what to do We want to tell computers what to do And we do that with the help of programming If you have a calculator So the calculator is programmed So that we can tell it How much is 5 plus 9 Now you will say that 5 plus 9 is 14 I know that So why should I use a calculator But how about 2 3 4 5 3 4 5 3 multiplied by 5 6 4 5 6 You can calculate it But not as fast as a computer can do So in this way A proper communication with a computer Is very important And for this we use programming Just like me and you are talking in Hindi You must be talking in English with your friends You must be talking in Spanish Or you must be talking in any other language We talk to the computer We use programming languages For example Python C C++ Java And many other programming languages in the market But this course is dedicated to Python And it is because Python is very easy Python is the easiest to learn programming language Because when you learn Python And then you start doing things Then you enjoy a different level Python is dynamically typed It is a general purpose programming language It supports object oriented paradigm And also supports functional approach If you don't know what these two are Then we are going to learn in this course Now this is interpreted It is a high level programming language And Guido van Rossum started working on this in 1989 Many people ask When was Python developed So it was not a day or a year From 1989 to over the period of years Guido van Rossum created this So in some places you will see 1991 In some places you will see 1992 In some places you will see 1989 But the truth is It was created from 1989 Over the period of years What are the features of Python The first thing I will tell you It is simple It is the simplest programming language I think this is the best feature of Python And after that you can do anything with it Platform is independent And it means If you write code in Windows Then you can run it in Linux And if you write code in Mac Then you can run it in Windows And you can run it in any platform I am writing code in my browser It doesn't mean anything to me Because I am using the applet platform But if I write code in my Mac Then you can run it anywhere It is very easy for you It is an open source programming language The most important thing is You don't have to pay for using Python Which is amazing And Python provides very big library support So many people use this easy language Which is very easy to use And because of this All the people are working on some project And all the people's project The code written by them The hard work written by them Maybe someone made something in one year And you can use it in one minute This is very good If I talk from the learning point of view If I talk from the error point of view Then I will say Maybe the error you are getting today Maybe someone came 10 years ago And he broke it And put it on a website like Stack Overflow It is very easy for you It is very easy for you To find the solution of that problem Python provides a very big library support Then after that It is very easy to integrate it With other programming languages Like C language It can be linked very well Then after that It has some applications Which I have written here That you can work on database You can work on data science You can work on machine learning You can make very serious complex applications And to make your business To move forward You can do many complex mathematical operations With the help of Python Now I am using the rapplet here Because it is very easy to share the code It is very easy to install Python in local Simply you On any platform You can simply Install it Like any game And if you are in Mac Then the installation is as simple as You are watching in the computer But if you are in Windows Then you must install Python And remember one thing If you are installing in your computer That you must check the path variable At Python 3 point Which is the version Because if you don't check it Then you may not be able to use Python from the terminal So if I open my terminal Whether you are in Windows or anywhere And I will write Python Then it is written here that We have to solve this problem If you are in Linux or Mac Then if you write Python Then you will get this error So if you write Python 3 Then you will get Python's rappel Rappel is full form of Read, evaluate, print, loop And here you can use Python as a calculator You can run commands like this If you don't know What is print statement Then we are going to read Over the period of days And slowly slowly I want to digest things So if you want to come out of rappel That is if you want to come out of Read, evaluate, print, loop Then you exit and come out But you know what I am going to do I am going to use Rapplet And in Rapplet Whatever we make files and projects That is called rappel And this rappel name came from here Read, evaluate, print, loop Which is of Python And in Rapplet This name is derived from there So if I write hello world And then click on run So you see it is so easy to run I want to see its output And its output has come Hello world Now if I Print 7 or 5 And run it So here it will run And then I will see 5 So basically it is done I am writing code here And its output is here In this way even if my computer is slow Then I can run Python very well And I can make new files I can make new files I can open new files And here I can read this text I can watch this video I can keep it anywhere Up, down, front, back Or if I don't want to watch this video I am practicing something Then you can make it small And park it here And whenever you want to see it Then you can do it So it will be a very good learning experience So I will request you all That all of you The playlist of python which I am going to make official The playlist of 100 days of code Do access it Like the video Subscribe the channel So that you don't miss any day This is the journey of 100 days of code I don't want you to miss any day Access the playlist of python Bookmark it And day 2 is going to be dedicated To some very interesting thing So you guys wait for day 2 And we will meet after that That's all for now in this video Thank you so much guys for watching this video And I will see you next time Bye"
+}

@@ -1,0 +1,572 @@
+{
+    "chunks": [
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 0.0,
+            "end": 13.540000000000001,
+            "text": " Sometimes in our life we have to repeat some things.  For example, we cook daily, we do only one thing daily.  Sometimes we have to do some work like this,  which we do for a given client.  For example, if your mom has given you a job,"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 13.56,
+            "end": 25.64,
+            "text": " then keep all these bottles full of water in the fridge.  Then you will do work for every bottle.  In programming also we have to do some work, we have to repeat it.  For example, keep printing every number.  1, 2, 3, 4, for all natural numbers."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 25.66,
+            "end": 36.78,
+            "text": " And then natural numbers until 100.  If you start printing every number,  then your program will be very long.  And you will get tired of writing print 1, print 2, print 3, print 4, print 5.  I am still tired of saying it."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 36.8,
+            "end": 48.64,
+            "text": " So you want to use loops.  In today's video I will give you an introduction of loops.  And I will tell you about for loops,  how for loops works in Python.  The concept of looping makes Python programming very strong."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 48.66,
+            "end": 69.26,
+            "text": " And saves the time of programmer very much.  How? Let's go to the computer screen and I will tell you.  So this is the first time we are talking about loops.  And first of all I will tell you about loops.  What is loops?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 69.28,
+            "end": 85.3,
+            "text": " After that we will talk about other things.  So see, sometimes a programmer wants to execute a group of statements a certain number of times.  Suppose I told you that I want numbers printed from 1 to 20.  You will say that it is simple.  What kind of question is this?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 85.32,
+            "end": 96.78,
+            "text": " Come on.  You will say that print is very simple.  Print this, print 2, print 3, print 3.  In this way you will work hard and do it till 20.  I am not doing it."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 96.8,
+            "end": 103.52,
+            "text": " You do it.  Assume you have done it till 20.  You will work hard.  There will be some problem.  If I give you till 5, there will be no problem."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 103.53999999999999,
+            "end": 110.24,
+            "text": " You will work hard till 20.  You will work hard till 100.  I know you will also trust me.  But don't do it.  Wait a minute."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 110.25999999999999,
+            "end": 115.56,
+            "text": " Don't do it.  Don't do it.  Wait a minute.  Listen to me.  I am trying to keep some points."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 115.58,
+            "end": 123.08000000000001,
+            "text": " What if you are told that  you do it till 20,000.  Then what will you do?  Then there will be a problem.  20,000 is a big number."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 123.10000000000001,
+            "end": 168.54,
+            "text": " If I tell you to print till 20,000.  1,2,3,4,5,6,7,8,9,10,11,12,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,40,40,40,41,42,44,45,47,49,49,50,50,51,52,52,53,54,55,56,57,59,50,52,56,57,59,60,61,62,62,63,63,63,63,64,67,61,62,67,62,67,68,68,68,68,68, 69,79,80,11,12,12,13,13,14,15,16,17,20,22,23,24,35,46,37,18,19,21,22,23,24,36,37  So, this is how you can understand. Based on implementation loops classified are in for loop and while loop.  Mainly there are two types of loops for loop and while loop.  We can also see nested loops that is while in for and while in for."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 168.54,
+            "end": 186.54,
+            "text": " We can do that. We have entered one for and we have put while loop in it and one more for in it.  That will continue to work. There is no tension in that. We can do that.  But we understand the basics of for loop.  What does for loop do? Can iterate over a sequence of iterable objects in Python.  What did you say? First we talked about sequence."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 186.54,
+            "end": 206.54,
+            "text": " Now we understood what sequence is. What does iterable object in Python mean?  Look, there are some iterable objects in Python which we can loop.  Like we can loop in list. We can access every element of list one by one.  We can also loop string. We can access every element of it one by one.  We have many more objects in Python in the same way."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 206.54,
+            "end": 223.54,
+            "text": " When we will read more data types, I will tell you. We can access elements one by one.  Here if I write for.  Suppose I in name. In fact I will copy this program.  There is no point in typing. I will copy it.  I wrote name is equal to abhishek for I in name."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 223.54,
+            "end": 237.54,
+            "text": " And I am printing I.  And I have put end is equal to this so that it will come with comma.  By the way if you are confused with this, even if I don't put this,  I will get to see some output like this.  A, B, H, I, S, H, E, K. I will get these one by one."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 237.54,
+            "end": 251.54,
+            "text": " Now you see here. What did it do? It said for I in name.  Name has a name.  Every character of name.  Now name is a string. So for string it will be every character.  What will happen for list? For list it will be every element."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 251.54,
+            "end": 270.53999999999996,
+            "text": " In the same way for different I triple objects this thing will be different.  Here for I in name means one by one I value will go from A to K.  Here I value is A. Here I value is B. Here I value is C.  And here what I can do? I can do anything with I.  I will correct its indent. And this is indent."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 270.53999999999996,
+            "end": 280.54,
+            "text": " I have given space here.  This means I have entered into for.  If I put if in it. If I is equal to equal to B.  Assume I am doing something like this.  And I will put colon and enter."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 280.54,
+            "end": 288.54,
+            "text": " Automatically I came one step further inside.  See I came inside of if also.  So I am inside of for.  I came inside of if also.  Now if I write print."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 288.54,
+            "end": 297.54,
+            "text": " This is something special.  Assume I want to write whenever B comes.  This is something special I got to see.  So here it will not be for A.  It will come after B."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 297.54,
+            "end": 306.54,
+            "text": " This is something special because this condition match.  Obviously program doesn't make much sense.  I have written just random thing here.  If I is equal to B then print this.  So it did."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 306.54,
+            "end": 317.54,
+            "text": " You have to make sense.  You have to make logic.  Computer will simply do whatever you want.  So this is for string.  So this way we can iterate strings."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 317.54,
+            "end": 326.54,
+            "text": " What if it is list?  See here what is the example of list?  This is the example of list.  See I am commenting this one.  So that you guys focus is here."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 326.54,
+            "end": 336.54,
+            "text": " One by one we want to take all colors.  I wrote forex in colors.  So one by one string will come.  This will come, then this will come, then this will come in value of x.  In fact we will make our program more readable."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 336.54,
+            "end": 346.54,
+            "text": " So we will write color in colors.  Whatever variable you are using above.  That same variable you have to use here.  Then only you will get this color in for loop.  Now if I will run this."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 346.54,
+            "end": 359.54,
+            "text": " So obviously I will get to see red, green, blue and yellow in output.  This was very straight forward thing.  But I can do anything with this color inside.  Maybe I want to iterate color also.  Do you understand?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 359.54,
+            "end": 369.54,
+            "text": " Like red's red.  Because now color is a string.  This was a list which had many strings.  Now suppose I say here.  I will correct its indent."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 369.54,
+            "end": 378.54,
+            "text": " Now indentation is in your hand.  See I have done indentation with one space.  I have done indentation with one tab.  If I want I can do indentation with one space.  It will be my wish."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 378.54,
+            "end": 391.54,
+            "text": " Now see here I wrote print color.  And after this I wrote for i in color.  And I will write here if print i.  So what will happen?  I will get all these values one by one."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 391.54,
+            "end": 399.54,
+            "text": " R, E, D.  Just remember one thing.  Take this value and this value separately.  If you have taken color then take i or care.  And then use care inside also."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 399.54,
+            "end": 408.54,
+            "text": " If I will run this.  First red will be printed then R, E, D.  Then green then G, R, E, E, N.  Blue B, L, U, E.  Yellow Y, E, L, L, O, W."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 408.54,
+            "end": 416.54,
+            "text": " So in this way you can iterate a list.  If this was tuple.  If there were dictionary keys.  We have many other iterable objects.  About which we will talk further."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 416.54,
+            "end": 424.54,
+            "text": " Use of for loop.  We will do a lot of for loop.  In fact I will say any big project.  Use of for loop.  And yes use of for loop."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 424.54,
+            "end": 433.54,
+            "text": " While also use of for loop.  I want to tell you this from my programming experience.  Ok.  Ok great.  Now let's talk about range."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 433.54,
+            "end": 439.54,
+            "text": " What is range?  Remember I told you 20,000.  20,000.  Ok remember that question.  You will say ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 439.54,
+            "end": 447.54,
+            "text": " You have printed Abhishek.  You have printed colors inside the list.  How will that 20,000 question be printed?  In which we will get up to 20,000.  How will we get up to 20,000."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 447.54,
+            "end": 452.54,
+            "text": " We had to print characters.  We had to print numbers.  Sorry.  How will that happen?  Ok let's talk about that."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 452.54,
+            "end": 459.54,
+            "text": " That will happen with range function.  I want to print before 20,000.  Till 5.  Ok.  So what does range function do?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 459.54,
+            "end": 469.54,
+            "text": " I can write something like this.  That 4k in range.  I wrote 4k in range.  5 means it will go from 0 to 4.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 469.54,
+            "end": 476.54,
+            "text": " Range 5 means it will go from 0 to 4.  Range 7 means it will go from 0 to 6.  Remember this.  I will run this.  So I will print range from 0 to 4."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 476.54,
+            "end": 485.54,
+            "text": " This will give me value of k from 0 to 4.  But I want to print range from 1 to 5.  It doesn't matter.  You print k plus 1.  Print k plus 1."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 485.54,
+            "end": 492.54,
+            "text": " You don't have any problem.  You will get range from 1 to 5.  Ok.  So it depends on your use case.  This is not a big rocket science."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 492.54,
+            "end": 503.54,
+            "text": " You can easily print range from plus 1.  If you want range from 2 to 6,  then print range from plus 2 inside.  But not just this.  You can give your arguments in range function as well."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 503.54,
+            "end": 512.54,
+            "text": " You can tell that.  You can tell where to start and where to end.  Means I want to start from 1 and end at 9.  Ok.  So it will go from 1 to 8."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 512.54,
+            "end": 520.54,
+            "text": " It won't go till 9.  Remember this.  This is very memorable thing.  It goes from 1 to 9.  Because I have written k plus 1."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 520.54,
+            "end": 527.54,
+            "text": " I am also confused.  I said what is this?  Ok.  So k value will go from 1 to 8.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 527.54,
+            "end": 535.54,
+            "text": " If you have printed k plus 1, k plus 2,  then obviously it will increment in value for every value.  And it will go from 2 to 10.  Or whatever you have printed.  Whatever you have printed, you will get to see."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 535.54,
+            "end": 546.54,
+            "text": " Ok.  So in this way, you can print numbers between two numbers.  And I told you from 1 to 20,000.  So I will write here 20,000.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 546.54,
+            "end": 554.54,
+            "text": " I don't know this program will get bigger.  But still wish me luck.  I am running it.  Ok.  It will print from 1 to 20,000."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 554.54,
+            "end": 559.54,
+            "text": " 20,000.  Sorry.  And it is done.  Are you seeing?  It has printed from 1 to 20,000."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 559.54,
+            "end": 568.54,
+            "text": " And just think that if a person sits to type,  by printing 1 and printing 2,  then how much time will it take?  Now one more thing I would like to tell you.  See here, this console has cleared."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 568.54,
+            "end": 574.54,
+            "text": " Around 18962.  Ok.  So console has cleared.  But our program is running.  I just wanted to tell you this."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 574.54,
+            "end": 582.54,
+            "text": " Ok.  In case you are wondering,  why is it starting from 18663?  It actually started from 1.  But our console has cleared."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 582.54,
+            "end": 589.54,
+            "text": " If you want to see this thing,  then run it again.  And you will get to see it from 1.  And then the console will keep clearing.  See it has gone from 1 to 5."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 589.54,
+            "end": 598.54,
+            "text": " All the way till 20,000.  20,000 is not printed because it goes till n-1.  If it is written from 1 to n,  then it goes till n-1.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 598.54,
+            "end": 604.54,
+            "text": " I hope it is clear.  There is no problem.  So understand something like this.  When we run a range function,  with just one argument,"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 604.54,
+            "end": 611.54,
+            "text": " then automatically python will do this.  0 to 5.  Ok.  This is just for your convenience.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 611.54,
+            "end": 617.54,
+            "text": " Now see,  there are three parameters in this range function.  One is start.  One is stop.  And one is step."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 617.54,
+            "end": 623.54,
+            "text": " Step.  What does step do?  Step is to explore you.  In fact, I have given a quick quiz here.  What is step argument?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 623.54,
+            "end": 631.54,
+            "text": " You have to explore that.  Ok.  What will it do?  It will omit some values.  How will it do?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 631.54,
+            "end": 637.54,
+            "text": " You see it through trial and error.  Otherwise, search on the internet.  Ok.  It is a very simple thing.  Because I want you to learn how to explore here."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 637.54,
+            "end": 646.54,
+            "text": " Ok.  So when we are running a range function with one parameter,  then automatically python will make it 0 to 5.  Ok.  If we are running with two,"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 646.54,
+            "end": 652.54,
+            "text": " then python will start from 1.  And this will go till n-1.  Ok.  And after that,  if we are putting three arguments,"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 652.54,
+            "end": 659.54,
+            "text": " then you guys tell me what it will do.  If we are running with x, y, z,  then what will it do?  Ok.  In fact, I will run a random program."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 659.54,
+            "end": 665.54,
+            "text": " Whenever I want to explore,  I run a random program.  So what will I do here?  I will do till 12.  And here I will write 1."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 665.54,
+            "end": 670.54,
+            "text": " Or I will write 2 here.  Ok.  And I will run this.  When I will run this,  in fact,"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 670.54,
+            "end": 675.54,
+            "text": " I had to comment out this.  Oh God!  Why didn't I comment out this?  No problem.  Now see,"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 675.54,
+            "end": 684.54,
+            "text": " 1, 3, 5, 7, 9, 11.  What if I do this 3 times?  If I had to comment out this,  now I will run this.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 684.54,
+            "end": 690.54,
+            "text": " You see,  I have commented out this.  1, 4, 7, 10.  Do you understand?  Do you understand?"
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 690.54,
+            "end": 696.54,
+            "text": " Do you understand?  Ok.  1, 4, 7, 10.  You tell yourself what this is.  It was for 2."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 696.54,
+            "end": 702.54,
+            "text": " 1, 3, 5, 7.  Now it is 1, 4, 7.  What is going on?  You tell me.  Ok."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 702.54,
+            "end": 707.54,
+            "text": " You have to tell this.  Ok.  Now you see this.  What it does.  Tell me."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 707.54,
+            "end": 713.54,
+            "text": " Where will you tell?  You will tell me on Instagram.  You will tag me on codewithharry.  Ok.  At the rate codewithharry."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 713.54,
+            "end": 718.54,
+            "text": " You will put a story on it.  You will tag me.  And you will tell me.  This is a task.  You will have to do it."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 718.54,
+            "end": 723.54,
+            "text": " Ok.  I don't know.  So you have to do this quick quiz.  Explore about third parameter of range.  And I want the answer of this on Instagram."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 723.54,
+            "end": 728.54,
+            "text": " And I want to give it to everyone.  Ok.  Codewithharry Instagram handle.  Ok.  You guys tag me there."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 728.54,
+            "end": 733.54,
+            "text": " And tell me that you have solved this.  You will explain me.  Tell me what is this.  Don't say that 1, 4, 7, 10 comes.  If you do 3, then this happens."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 733.54,
+            "end": 738.54,
+            "text": " You will explain it properly.  And at least you will explain it in words.  This is also a art.  At least explain it in words.  I hope you guys understood."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 738.54,
+            "end": 743.54,
+            "text": " And I hope you guys tag me on Instagram.  After solving this question.  If you haven't accessed the playlist yet.  Then definitely access the playlist quickly.  Because all the videos are going to be added in this playlist."
+        },
+        {
+            "number": "16",
+            "title": "For Loops in Python",
+            "start": 743.54,
+            "end": 780.54,
+            "text": " Of future also.  That's all for now in this video guys.  Thank you so much guys for watching this video.  And I will see you next time.  Bye bye."
+        }
+    ],
+    "text": " Sometimes in our life we have to repeat some things. For example, we cook daily, we do only one thing daily. Sometimes we have to do some work like this, which we do for a given client. For example, if your mom has given you a job, then keep all these bottles full of water in the fridge. Then you will do work for every bottle. In programming also we have to do some work, we have to repeat it. For example, keep printing every number. 1, 2, 3, 4, for all natural numbers. And then natural numbers until 100. If you start printing every number, then your program will be very long. And you will get tired of writing print 1, print 2, print 3, print 4, print 5. I am still tired of saying it. So you want to use loops. In today's video I will give you an introduction of loops. And I will tell you about for loops, how for loops works in Python. The concept of looping makes Python programming very strong. And saves the time of programmer very much. How? Let's go to the computer screen and I will tell you. So this is the first time we are talking about loops. And first of all I will tell you about loops. What is loops? After that we will talk about other things. So see, sometimes a programmer wants to execute a group of statements a certain number of times. Suppose I told you that I want numbers printed from 1 to 20. You will say that it is simple. What kind of question is this? Come on. You will say that print is very simple. Print this, print 2, print 3, print 3. In this way you will work hard and do it till 20. I am not doing it. You do it. Assume you have done it till 20. You will work hard. There will be some problem. If I give you till 5, there will be no problem. You will work hard till 20. You will work hard till 100. I know you will also trust me. But don't do it. Wait a minute. Don't do it. Don't do it. Wait a minute. Listen to me. I am trying to keep some points. What if you are told that you do it till 20,000. Then what will you do? Then there will be a problem. 20,000 is a big number. If I tell you to print till 20,000. 1,2,3,4,5,6,7,8,9,10,11,12,12,13,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,39,40,40,40,41,42,44,45,47,49,49,50,50,51,52,52,53,54,55,56,57,59,50,52,56,57,59,60,61,62,62,63,63,63,63,64,67,61,62,67,62,67,68,68,68,68,68, 69,79,80,11,12,12,13,13,14,15,16,17,20,22,23,24,35,46,37,18,19,21,22,23,24,36,37 So, this is how you can understand. Based on implementation loops classified are in for loop and while loop. Mainly there are two types of loops for loop and while loop. We can also see nested loops that is while in for and while in for. We can do that. We have entered one for and we have put while loop in it and one more for in it. That will continue to work. There is no tension in that. We can do that. But we understand the basics of for loop. What does for loop do? Can iterate over a sequence of iterable objects in Python. What did you say? First we talked about sequence. Now we understood what sequence is. What does iterable object in Python mean? Look, there are some iterable objects in Python which we can loop. Like we can loop in list. We can access every element of list one by one. We can also loop string. We can access every element of it one by one. We have many more objects in Python in the same way. When we will read more data types, I will tell you. We can access elements one by one. Here if I write for. Suppose I in name. In fact I will copy this program. There is no point in typing. I will copy it. I wrote name is equal to abhishek for I in name. And I am printing I. And I have put end is equal to this so that it will come with comma. By the way if you are confused with this, even if I don't put this, I will get to see some output like this. A, B, H, I, S, H, E, K. I will get these one by one. Now you see here. What did it do? It said for I in name. Name has a name. Every character of name. Now name is a string. So for string it will be every character. What will happen for list? For list it will be every element. In the same way for different I triple objects this thing will be different. Here for I in name means one by one I value will go from A to K. Here I value is A. Here I value is B. Here I value is C. And here what I can do? I can do anything with I. I will correct its indent. And this is indent. I have given space here. This means I have entered into for. If I put if in it. If I is equal to equal to B. Assume I am doing something like this. And I will put colon and enter. Automatically I came one step further inside. See I came inside of if also. So I am inside of for. I came inside of if also. Now if I write print. This is something special. Assume I want to write whenever B comes. This is something special I got to see. So here it will not be for A. It will come after B. This is something special because this condition match. Obviously program doesn't make much sense. I have written just random thing here. If I is equal to B then print this. So it did. You have to make sense. You have to make logic. Computer will simply do whatever you want. So this is for string. So this way we can iterate strings. What if it is list? See here what is the example of list? This is the example of list. See I am commenting this one. So that you guys focus is here. One by one we want to take all colors. I wrote forex in colors. So one by one string will come. This will come, then this will come, then this will come in value of x. In fact we will make our program more readable. So we will write color in colors. Whatever variable you are using above. That same variable you have to use here. Then only you will get this color in for loop. Now if I will run this. So obviously I will get to see red, green, blue and yellow in output. This was very straight forward thing. But I can do anything with this color inside. Maybe I want to iterate color also. Do you understand? Like red's red. Because now color is a string. This was a list which had many strings. Now suppose I say here. I will correct its indent. Now indentation is in your hand. See I have done indentation with one space. I have done indentation with one tab. If I want I can do indentation with one space. It will be my wish. Now see here I wrote print color. And after this I wrote for i in color. And I will write here if print i. So what will happen? I will get all these values one by one. R, E, D. Just remember one thing. Take this value and this value separately. If you have taken color then take i or care. And then use care inside also. If I will run this. First red will be printed then R, E, D. Then green then G, R, E, E, N. Blue B, L, U, E. Yellow Y, E, L, L, O, W. So in this way you can iterate a list. If this was tuple. If there were dictionary keys. We have many other iterable objects. About which we will talk further. Use of for loop. We will do a lot of for loop. In fact I will say any big project. Use of for loop. And yes use of for loop. While also use of for loop. I want to tell you this from my programming experience. Ok. Ok great. Now let's talk about range. What is range? Remember I told you 20,000. 20,000. Ok remember that question. You will say ok. You have printed Abhishek. You have printed colors inside the list. How will that 20,000 question be printed? In which we will get up to 20,000. How will we get up to 20,000. We had to print characters. We had to print numbers. Sorry. How will that happen? Ok let's talk about that. That will happen with range function. I want to print before 20,000. Till 5. Ok. So what does range function do? I can write something like this. That 4k in range. I wrote 4k in range. 5 means it will go from 0 to 4. Ok. Range 5 means it will go from 0 to 4. Range 7 means it will go from 0 to 6. Remember this. I will run this. So I will print range from 0 to 4. This will give me value of k from 0 to 4. But I want to print range from 1 to 5. It doesn't matter. You print k plus 1. Print k plus 1. You don't have any problem. You will get range from 1 to 5. Ok. So it depends on your use case. This is not a big rocket science. You can easily print range from plus 1. If you want range from 2 to 6, then print range from plus 2 inside. But not just this. You can give your arguments in range function as well. You can tell that. You can tell where to start and where to end. Means I want to start from 1 and end at 9. Ok. So it will go from 1 to 8. It won't go till 9. Remember this. This is very memorable thing. It goes from 1 to 9. Because I have written k plus 1. I am also confused. I said what is this? Ok. So k value will go from 1 to 8. Ok. If you have printed k plus 1, k plus 2, then obviously it will increment in value for every value. And it will go from 2 to 10. Or whatever you have printed. Whatever you have printed, you will get to see. Ok. So in this way, you can print numbers between two numbers. And I told you from 1 to 20,000. So I will write here 20,000. Ok. I don't know this program will get bigger. But still wish me luck. I am running it. Ok. It will print from 1 to 20,000. 20,000. Sorry. And it is done. Are you seeing? It has printed from 1 to 20,000. And just think that if a person sits to type, by printing 1 and printing 2, then how much time will it take? Now one more thing I would like to tell you. See here, this console has cleared. Around 18962. Ok. So console has cleared. But our program is running. I just wanted to tell you this. Ok. In case you are wondering, why is it starting from 18663? It actually started from 1. But our console has cleared. If you want to see this thing, then run it again. And you will get to see it from 1. And then the console will keep clearing. See it has gone from 1 to 5. All the way till 20,000. 20,000 is not printed because it goes till n-1. If it is written from 1 to n, then it goes till n-1. Ok. I hope it is clear. There is no problem. So understand something like this. When we run a range function, with just one argument, then automatically python will do this. 0 to 5. Ok. This is just for your convenience. Ok. Now see, there are three parameters in this range function. One is start. One is stop. And one is step. Step. What does step do? Step is to explore you. In fact, I have given a quick quiz here. What is step argument? You have to explore that. Ok. What will it do? It will omit some values. How will it do? You see it through trial and error. Otherwise, search on the internet. Ok. It is a very simple thing. Because I want you to learn how to explore here. Ok. So when we are running a range function with one parameter, then automatically python will make it 0 to 5. Ok. If we are running with two, then python will start from 1. And this will go till n-1. Ok. And after that, if we are putting three arguments, then you guys tell me what it will do. If we are running with x, y, z, then what will it do? Ok. In fact, I will run a random program. Whenever I want to explore, I run a random program. So what will I do here? I will do till 12. And here I will write 1. Or I will write 2 here. Ok. And I will run this. When I will run this, in fact, I had to comment out this. Oh God! Why didn't I comment out this? No problem. Now see, 1, 3, 5, 7, 9, 11. What if I do this 3 times? If I had to comment out this, now I will run this. Ok. You see, I have commented out this. 1, 4, 7, 10. Do you understand? Do you understand? Do you understand? Ok. 1, 4, 7, 10. You tell yourself what this is. It was for 2. 1, 3, 5, 7. Now it is 1, 4, 7. What is going on? You tell me. Ok. You have to tell this. Ok. Now you see this. What it does. Tell me. Where will you tell? You will tell me on Instagram. You will tag me on codewithharry. Ok. At the rate codewithharry. You will put a story on it. You will tag me. And you will tell me. This is a task. You will have to do it. Ok. I don't know. So you have to do this quick quiz. Explore about third parameter of range. And I want the answer of this on Instagram. And I want to give it to everyone. Ok. Codewithharry Instagram handle. Ok. You guys tag me there. And tell me that you have solved this. You will explain me. Tell me what is this. Don't say that 1, 4, 7, 10 comes. If you do 3, then this happens. You will explain it properly. And at least you will explain it in words. This is also a art. At least explain it in words. I hope you guys understood. And I hope you guys tag me on Instagram. After solving this question. If you haven't accessed the playlist yet. Then definitely access the playlist quickly. Because all the videos are going to be added in this playlist. Of future also. That's all for now in this video guys. Thank you so much guys for watching this video. And I will see you next time. Bye bye."
+}

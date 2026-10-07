@@ -1,0 +1,684 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 0.0,
+            "end": 9.76,
+            "text": " Oh, what's up, friends?  You are here in Day 6 as well.  100 days of good, that's what I wanted.  Today I'll tell you what are variables.  Variables are like a container."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 9.78,
+            "end": 21.240000000000002,
+            "text": " Like there are containers in your kitchen  which contain lentils, flour, rice and all these things.  Variables are also like that in Python programming language.  This analogy fits perfectly on variables.  If I have a container here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 21.26,
+            "end": 36.0,
+            "text": " and in this container there is lentils  and after that I put rice in this container.  So, I basically changed the content of this container.  On the other hand, if I assume that I bring another container  and now I put water in it"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 36.019999999999996,
+            "end": 47.86,
+            "text": " and after that I put milk in it  then I can change its content.  This is absolutely the same in Python  that you make containers and store them in it.  This data is stored in memory."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 47.879999999999995,
+            "end": 59.379999999999995,
+            "text": " It is stored in what you call RAM.  What is data type?  Like if there is a container, it can be liquid, solid,  it can be lentils, it can be sugar,  it can be something that is edible,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 59.38,
+            "end": 69.64,
+            "text": " it can be something that is not edible.  Like we have a lot of things  like a cleaning liquid, it is not edible.  So, there are different types of everything.  Similarly, there are different types in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 69.66,
+            "end": 78.36,
+            "text": " There are data types.  Let's go to the computer screen quickly  and see what exactly are data types  and how they work.  Let's get started."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 87.76,
+            "end": 97.91999999999999,
+            "text": " So, what exactly is this variable?  First of all, let's understand about this.  Variable is like a container as I have already told you.  But what kind of container is this?  This container is in memory."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 97.94,
+            "end": 112.52,
+            "text": " Now, if you find all these things confusing,  then you come here in main.py.  See what I am doing here in main.py.  And then you will know exactly how to make a variable in Python  and why it is necessary to make a variable in Python."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 112.53999999999999,
+            "end": 121.38,
+            "text": " Okay.  See, if I write a is equal to 1 here,  I just need to do this much and I have printed a.  So, basically I am saying that,  in memory, that is in RAM,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 121.4,
+            "end": 130.46,
+            "text": " in my computer's RAM,  store 1.  That is, in the actual memory,  store 1 in that.  And where is the store?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 130.48,
+            "end": 139.14,
+            "text": " Give that address to a.  Okay.  Now, it will seem a little complex to you to listen to.  But by writing a is equal to 1,  whenever I will use a,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 139.16,
+            "end": 149.04,
+            "text": " that is whenever I will want to refer the value inside it,  I will print it.  Now, you will say that I remember a is equal to 1.  I should not print 1 directly.  Why should I run this program?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 149.14,
+            "end": 157.45999999999998,
+            "text": " How about this?  If I do this to you,  then in a way, you have made a program to save a number.  Okay.  You have saved a number here and it is being printed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 157.48,
+            "end": 166.32,
+            "text": " So, by writing a is equal to this,  this number gets stored in a  and by printing a, it gets printed.  Can I do something like this?  b is equal to harry."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 166.33999999999997,
+            "end": 178.95999999999998,
+            "text": " The answer is yes, I can do it.  Okay.  But if I run it, I will get this number only.  And if I print b,  then you will see that I will get this harry also printed."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 178.96,
+            "end": 189.20000000000002,
+            "text": " Which is great.  Which is great.  Because this is a different data type and this is a different data type.  Now, you will say that when you have written 1, 2, 3, 4, 4 in harry,  then you have not used double quotes."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 189.22,
+            "end": 201.64000000000001,
+            "text": " But when you have written harry, why didn't you write it like this?  You didn't write it like this because you will get an error.  Now, why will you get an error?  You will say that I could have written harry directly also.  But we have to use double quotes because"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 201.66,
+            "end": 211.4,
+            "text": " whenever we represent a string data type,  so that if you have done it like this,  it is possible that someone might have said like this,  that harry is equal to 9.  Now, someone says b is equal to harry."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 211.42000000000002,
+            "end": 224.22,
+            "text": " Now, how will he know that you want to print harry string or 9?  If I run this program,  then I will get 9 printed.  You will see that 9 will be printed here.  So, it is possible that you literally want to print harry,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 224.24,
+            "end": 232.88000000000002,
+            "text": " but print 9.  That's why there are some rules in Python.  I will erase it now.  I will write b is equal to double quote harry.  So, whatever will be in double quotes will be printed directly."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 232.9,
+            "end": 242.26000000000002,
+            "text": " As you can see here.  Now, what I have written for you guys here,  I will tell you that.  So, what is a variable?  Variable is like a container that holds data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 242.28,
+            "end": 254.20000000000002,
+            "text": " A container that holds data.  Very similar to how our containers in kitchen holds sugar.  Like in your kitchen,  salt, sugar, salt, all these things  are used to hold boxes."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 254.22,
+            "end": 263.58000000000004,
+            "text": " Okay?  Creating a variable is just like creating a placeholder in memory,  assigning it some value.  And here I have shown you 4 types of variables.  I have declared them to you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 263.6,
+            "end": 273.58000000000004,
+            "text": " Now, these 4 are different types of variables.  That means, their types are different.  Like,  Let's assume that you are a bird, okay?  A doggy is also a bird."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 273.6,
+            "end": 280.7,
+            "text": " Okay?  A cat is also a bird.  But we all are different types of birds.  Okay?  Similarly, a is equal to 1 is a different type of variable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 280.72,
+            "end": 288.66,
+            "text": " B is equal to true is a different type of variable.  C is equal to harry is a different type of variable.  D is equal to none is a different type of variable.  Okay?  You are looking at this video on 1X only."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 288.68,
+            "end": 297.94,
+            "text": " Now, if I did a is equal to 1,  then an integer got stored in a.  If I did b is equal to true,  then a Boolean got stored in b.  C is equal to harry, so string."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 297.94,
+            "end": 307.94,
+            "text": " and d is equal to none type  name of  d is equal to none so none type  variable is made here.  So there are 4 different types of data types."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 307.94,
+            "end": 317.94,
+            "text": " What is data type?  And why we need data type?  Now see why we need data type?  I have told you that we need data type  so that we can store different types of"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 317.94,
+            "end": 327.94,
+            "text": " values in memory.  Ok, we know this.  Data type specifies type of  value which a variable can hold.  This is required in programming"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 327.94,
+            "end": 337.94,
+            "text": " to perform operations.  Suppose if I write  print a plus b  ok, so will Harry  add this? Now see an error will come here."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 337.94,
+            "end": 347.94,
+            "text": " It says that one is your integer  and the other is your string.  How will you add this? What do you want?  If I make this a little smaller  How will you add Harry in 123?"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 347.94,
+            "end": 357.94,
+            "text": " What do you want?  What is your plan? Python is saying this.  What? What?  And we are telling python that  we want to concatenate actually."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 357.94,
+            "end": 367.94,
+            "text": " So python will say what is this?  You want to concatenate but you are adding plus.  How will I know that you are not  concatenating but doing something else?  Ok, so that's why what we do here"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 367.94,
+            "end": 377.94,
+            "text": " is that when we do a plus b  then two should be the same type  of data type then we can do it.  So I will do one thing.  I will make a variable named a1"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 377.94,
+            "end": 387.94,
+            "text": " and write 9. If I do a plus a1  then this operation will perform perfectly.  And here you see it will come with 132.  Ok, so this thing is very simple.  You all would know."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 387.94,
+            "end": 397.94,
+            "text": " But we need data type so that  we can do various operations  without causing an error.  Without causing an error.  In python we can print the type of operator"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 397.94,
+            "end": 407.94,
+            "text": " using type function.  Suppose a variable is made and I want to know  what is its type.  So I can know it like this.  I can say the type of a is"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 407.94,
+            "end": 419.94,
+            "text": " and here I can  write a comma and type of a.  Ok, so I have  made a bracket of type of a  and I have made a bracket of"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 419.94,
+            "end": 429.94,
+            "text": " this opening parenthesis of print.  If I run it then you all see  that type of a is  class int. So a is an integer.  Let's see that"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 429.94,
+            "end": 439.94,
+            "text": " we can do this work with b  or not.  I will run it and  you all see that type of b is  class str."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 439.94,
+            "end": 449.94,
+            "text": " And I will do the same thing here.  Type of c  is class str.  And here see what is the type of c.  There is nothing of c."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 449.94,
+            "end": 459.94,
+            "text": " Let's see what type of a1 is.  Let me do one thing.  Let me make c.  Let me make all these four variables directly at once.  Ok, so all the"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 459.94,
+            "end": 469.94,
+            "text": " a, b, c, d are over.  Now if I run this  type of c is will come to me.  What is this?  Print a plus a1 is written."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 469.94,
+            "end": 479.94,
+            "text": " No problem, I will define a1 too.  Because I have to give this program to you all.  Understanding is important for you all.  So you all did a is equal to 1.  1, 2, 10, type of a is int,"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 479.94,
+            "end": 489.94,
+            "text": " type of b is bool, type of c is  str. Ok. These three types  they have printed.  So it is very good.  The story till here was very clear."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 489.94,
+            "end": 499.94,
+            "text": " Now in Python there are some built in data types.  Let me tell you all.  The first built in data type is  number which I have told you all.  Ok. Int float complex."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 499.94,
+            "end": 509.94,
+            "text": " If I do this a is equal to  1.1. You all saw that  type of a was showing this integer.  If I do this as 1.1 then  this type of a is float will be shown."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 509.94,
+            "end": 519.94,
+            "text": " And if I write this as  I write this as  8 plus 2i  then this is a complex number.  Actually to make a complex number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 519.94,
+            "end": 529.94,
+            "text": " I have to do something like this.  I will do 8 comma 2  and as I will do this  then it will become a complex number.  And you all see here that 8 plus 2j"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 529.94,
+            "end": 539.94,
+            "text": " is the complex number.  Ok. If you all don't know  about complex numbers then that's totally fine.  I don't expect you to know  complex numbers. But just I want to tell you all"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 539.94,
+            "end": 549.94,
+            "text": " that you can make complex numbers in Python.  These are basically real part  and imaginary part numbers.  If you have studied in class 12th then complex numbers  are good for you. If you have not studied"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 549.94,
+            "end": 559.94,
+            "text": " in class 11th then what is the complex number?  It is in 11th but  different boards have different  labels so some have 12th  and some 11th. Anyways"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 559.94,
+            "end": 569.94,
+            "text": " class complex is shown here.  I just wanted to show you that  complex number is a complex number.  So here you all see I have written  integer type, floating point number"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 569.94,
+            "end": 579.94,
+            "text": " complex type.  If we talk about string then hello word  is enclosed in double code.  Hello word is enclosed in double code.  Python programming is all string."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 579.94,
+            "end": 589.94,
+            "text": " Ok. If I talk about Boolean data  then it can be true or false.  Now why we want to use this?  Suppose you write a function  and you want to return"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 589.94,
+            "end": 599.94,
+            "text": " from it that you can drive or not.  If you don't know what function is  then I will tell you.  Suppose you want to tell me that  you can drive or not."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 599.94,
+            "end": 609.94,
+            "text": " So you can give me a small information  yes or no.  These Booleans work the same way  as yes or no.  You don't have to directly say that"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 609.94,
+            "end": 619.94,
+            "text": " yes I can drive.  You don't have to give so much information.  You can say yes or no.  Yes means true or false.  Like string has a lot of information"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 619.94,
+            "end": 629.94,
+            "text": " H, A, R, R, Y and many more characters.  But if I tell you that you can drive  or not.  You can say yes or no.  And you should be good."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 629.94,
+            "end": 639.94,
+            "text": " So this is all about Boolean data type.  Why we use it?  When we will use it?  We will see all this in the coming time.  Then there is sequence data."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 639.94,
+            "end": 649.94,
+            "text": " I will talk about list and tuple.  We don't have to go into complex  in list and tuple.  I want to tell you that list and tuple  also exist."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 649.94,
+            "end": 659.94,
+            "text": " List is an ordered collection of data types.  I will not tell you about it here.  If you want to know about list  then be patient.  I will tell you about list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 659.94,
+            "end": 669.94,
+            "text": " What is list?  List is basically collection of  different data elements.  Which can be of different data types.  This is integer, this is float."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 669.94,
+            "end": 679.94,
+            "text": " This is a list in a list.  So list is basically list of  items which can be of different data types.  I will tell you this much.  I will not tell you further."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 679.94,
+            "end": 689.94,
+            "text": " We can change this list.  List is exactly the same thing.  I am telling you in very simple language.  Exactly the same thing except  it is immutable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 689.94,
+            "end": 699.94,
+            "text": " Immutable means it cannot be changed.  People confuse mutable and immutable.  Like many people  tell me,  I am telling you from my experience."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 699.94,
+            "end": 709.94,
+            "text": " Many people tell me that  they are not able to remember  whether they can change mutable or immutable.  We have a problem.  I will tell you how to remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 709.94,
+            "end": 719.94,
+            "text": " Assume that it is mutable.  You will study mutation.  What is mutation?  It means changes.  There is a theory that"
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 719.94,
+            "end": 729.94,
+            "text": " there used to be a human tail.  After that mutations happened.  And from that mutation,  human tail disappeared.  Now I am not teaching biology."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 729.94,
+            "end": 739.94,
+            "text": " I am just telling you.  But mutation means change.  I am telling you this.  If you have studied genetic algorithm.  If you have studied a little bit of biology."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 739.94,
+            "end": 749.94,
+            "text": " Come on.  Mutation means changes.  Earlier it was monkey.  Then it became human.  That is mutation."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 749.94,
+            "end": 759.94,
+            "text": " So mutable means change can be done.  Immutable means change cannot be done.  So you can remember like this.  This is a way to remember.  Maybe you remember."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 759.94,
+            "end": 769.94,
+            "text": " Then you will listen to me and say,  come on bro, I remember.  I was telling for those who don't remember.  Now see here.  I made a list."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 769.94,
+            "end": 779.94,
+            "text": " It is the same.  It is collection of items.  Except the fact that you cannot change it.  If you change it,  then it will give error."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 779.94,
+            "end": 789.94,
+            "text": " Now how we will change it,  what is it,  we will keep it for the video of tuple.  Now I will not tell you.  Then there is another data type."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 789.94,
+            "end": 799.94,
+            "text": " Map data, dictionary.  Is it in your house?  No?  You must know what is dictionary.  Dictionary is collection of key value pairs."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 799.94,
+            "end": 809.94,
+            "text": " You want to see the meaning of abandon.  Abandon is a key.  It has a value.  You want to see the meaning of food.  Food is a key."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 809.94,
+            "end": 819.94,
+            "text": " It has a value.  Food is known to everyone.  Now after this,  one more thing.  You want to see mutable."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 819.94,
+            "end": 829.94,
+            "text": " It has a value.  This is the meaning of mutable.  So key value pairs.  I can store anything as key value pairs.  I can store anything as key value pairs."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 829.94,
+            "end": 839.94,
+            "text": " How many marks are there for each.  Name of the child.  How many marks are there for him.  Ok.  All this information can be stored."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 839.94,
+            "end": 849.94,
+            "text": " I just wanted to tell you.  Now you come here.  And you see here.  I have written dict is equal to name saakshi age 20 canvot true.  It is printed like this."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 849.94,
+            "end": 859.94,
+            "text": " Name is saakshi.  Age is 20. Canvot true.  I will tell more about dictionary in the coming videos.  For now you understand that dictionary is map data.  It is a map of one thing to another."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 859.94,
+            "end": 869.94,
+            "text": " Name saakshi.  How many marks are there.  Can it vote or not.  Is she a good girl or not.  How is she in studies."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 869.94,
+            "end": 879.94,
+            "text": " How many marks does she get.  How is her behavior.  Is she disciplined or not.  Ok.  You understand."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 879.94,
+            "end": 889.94,
+            "text": " All these things have to be put here.  And dictionary will be made.  So tuple list dictionary.  I hope you understood.  I want to say one thing."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 889.94,
+            "end": 899.94,
+            "text": " Which may blow your mind.  It may blow your mind.  Ok.  May not.  But you will understand."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 899.94,
+            "end": 909.94,
+            "text": " In python everything is an object.  Everything.  Yes.  Dictionary is an object.  If you make a dictionary it is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 909.94,
+            "end": 919.94,
+            "text": " If you make a Boolean it is an object.  Integer is an object.  Integer class is an object.  And when we printed it.  We saw that."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 919.94,
+            "end": 929.94,
+            "text": " Look at the top.  Type of A is class complex.  Class pool.  So why is it written class.  It is an object of class."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 929.94,
+            "end": 939.94,
+            "text": " Now you will say what is class.  What are you saying.  In upcoming videos I will tell you everything.  In object oriented programming.  I will tell you everything."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 939.94,
+            "end": 949.94,
+            "text": " For now remember this.  In python everything is an object.  Remember this.  And if you remember this.  Then I will remind you."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 949.94,
+            "end": 959.94,
+            "text": " But for now forget this.  I have not told you this.  But when we will do classes on object.  Then you should remember this.  I said that in python everything is an object."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 959.94,
+            "end": 969.94,
+            "text": " I will explain this.  For now grasp the concept of data types.  There are different types of data types.  Read it properly.  Ok."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 969.94,
+            "end": 979.94,
+            "text": " That's it in this video.  I hope you enjoyed it.  Access the playlist.  Click here and bookmark it.  Click here and save it."
+        },
+        {
+            "number": "6",
+            "title": "Variables and Data Types",
+            "start": 979.94,
+            "end": 1005.94,
+            "text": " That's it for now.  Thank you so much for watching this video.  And I will see you next time.  Bye."
+        }
+    ],
+    "text": " Oh, what's up, friends? You are here in Day 6 as well. 100 days of good, that's what I wanted. Today I'll tell you what are variables. Variables are like a container. Like there are containers in your kitchen which contain lentils, flour, rice and all these things. Variables are also like that in Python programming language. This analogy fits perfectly on variables. If I have a container here and in this container there is lentils and after that I put rice in this container. So, I basically changed the content of this container. On the other hand, if I assume that I bring another container and now I put water in it and after that I put milk in it then I can change its content. This is absolutely the same in Python that you make containers and store them in it. This data is stored in memory. It is stored in what you call RAM. What is data type? Like if there is a container, it can be liquid, solid, it can be lentils, it can be sugar, it can be something that is edible, it can be something that is not edible. Like we have a lot of things like a cleaning liquid, it is not edible. So, there are different types of everything. Similarly, there are different types in Python. There are data types. Let's go to the computer screen quickly and see what exactly are data types and how they work. Let's get started. So, what exactly is this variable? First of all, let's understand about this. Variable is like a container as I have already told you. But what kind of container is this? This container is in memory. Now, if you find all these things confusing, then you come here in main.py. See what I am doing here in main.py. And then you will know exactly how to make a variable in Python and why it is necessary to make a variable in Python. Okay. See, if I write a is equal to 1 here, I just need to do this much and I have printed a. So, basically I am saying that, in memory, that is in RAM, in my computer's RAM, store 1. That is, in the actual memory, store 1 in that. And where is the store? Give that address to a. Okay. Now, it will seem a little complex to you to listen to. But by writing a is equal to 1, whenever I will use a, that is whenever I will want to refer the value inside it, I will print it. Now, you will say that I remember a is equal to 1. I should not print 1 directly. Why should I run this program? How about this? If I do this to you, then in a way, you have made a program to save a number. Okay. You have saved a number here and it is being printed. So, by writing a is equal to this, this number gets stored in a and by printing a, it gets printed. Can I do something like this? b is equal to harry. The answer is yes, I can do it. Okay. But if I run it, I will get this number only. And if I print b, then you will see that I will get this harry also printed. Which is great. Which is great. Because this is a different data type and this is a different data type. Now, you will say that when you have written 1, 2, 3, 4, 4 in harry, then you have not used double quotes. But when you have written harry, why didn't you write it like this? You didn't write it like this because you will get an error. Now, why will you get an error? You will say that I could have written harry directly also. But we have to use double quotes because whenever we represent a string data type, so that if you have done it like this, it is possible that someone might have said like this, that harry is equal to 9. Now, someone says b is equal to harry. Now, how will he know that you want to print harry string or 9? If I run this program, then I will get 9 printed. You will see that 9 will be printed here. So, it is possible that you literally want to print harry, but print 9. That's why there are some rules in Python. I will erase it now. I will write b is equal to double quote harry. So, whatever will be in double quotes will be printed directly. As you can see here. Now, what I have written for you guys here, I will tell you that. So, what is a variable? Variable is like a container that holds data. A container that holds data. Very similar to how our containers in kitchen holds sugar. Like in your kitchen, salt, sugar, salt, all these things are used to hold boxes. Okay? Creating a variable is just like creating a placeholder in memory, assigning it some value. And here I have shown you 4 types of variables. I have declared them to you. Now, these 4 are different types of variables. That means, their types are different. Like, Let's assume that you are a bird, okay? A doggy is also a bird. Okay? A cat is also a bird. But we all are different types of birds. Okay? Similarly, a is equal to 1 is a different type of variable. B is equal to true is a different type of variable. C is equal to harry is a different type of variable. D is equal to none is a different type of variable. Okay? You are looking at this video on 1X only. Now, if I did a is equal to 1, then an integer got stored in a. If I did b is equal to true, then a Boolean got stored in b. C is equal to harry, so string. and d is equal to none type name of d is equal to none so none type variable is made here. So there are 4 different types of data types. What is data type? And why we need data type? Now see why we need data type? I have told you that we need data type so that we can store different types of values in memory. Ok, we know this. Data type specifies type of value which a variable can hold. This is required in programming to perform operations. Suppose if I write print a plus b ok, so will Harry add this? Now see an error will come here. It says that one is your integer and the other is your string. How will you add this? What do you want? If I make this a little smaller How will you add Harry in 123? What do you want? What is your plan? Python is saying this. What? What? And we are telling python that we want to concatenate actually. So python will say what is this? You want to concatenate but you are adding plus. How will I know that you are not concatenating but doing something else? Ok, so that's why what we do here is that when we do a plus b then two should be the same type of data type then we can do it. So I will do one thing. I will make a variable named a1 and write 9. If I do a plus a1 then this operation will perform perfectly. And here you see it will come with 132. Ok, so this thing is very simple. You all would know. But we need data type so that we can do various operations without causing an error. Without causing an error. In python we can print the type of operator using type function. Suppose a variable is made and I want to know what is its type. So I can know it like this. I can say the type of a is and here I can write a comma and type of a. Ok, so I have made a bracket of type of a and I have made a bracket of this opening parenthesis of print. If I run it then you all see that type of a is class int. So a is an integer. Let's see that we can do this work with b or not. I will run it and you all see that type of b is class str. And I will do the same thing here. Type of c is class str. And here see what is the type of c. There is nothing of c. Let's see what type of a1 is. Let me do one thing. Let me make c. Let me make all these four variables directly at once. Ok, so all the a, b, c, d are over. Now if I run this type of c is will come to me. What is this? Print a plus a1 is written. No problem, I will define a1 too. Because I have to give this program to you all. Understanding is important for you all. So you all did a is equal to 1. 1, 2, 10, type of a is int, type of b is bool, type of c is str. Ok. These three types they have printed. So it is very good. The story till here was very clear. Now in Python there are some built in data types. Let me tell you all. The first built in data type is number which I have told you all. Ok. Int float complex. If I do this a is equal to 1.1. You all saw that type of a was showing this integer. If I do this as 1.1 then this type of a is float will be shown. And if I write this as I write this as 8 plus 2i then this is a complex number. Actually to make a complex number I have to do something like this. I will do 8 comma 2 and as I will do this then it will become a complex number. And you all see here that 8 plus 2j is the complex number. Ok. If you all don't know about complex numbers then that's totally fine. I don't expect you to know complex numbers. But just I want to tell you all that you can make complex numbers in Python. These are basically real part and imaginary part numbers. If you have studied in class 12th then complex numbers are good for you. If you have not studied in class 11th then what is the complex number? It is in 11th but different boards have different labels so some have 12th and some 11th. Anyways class complex is shown here. I just wanted to show you that complex number is a complex number. So here you all see I have written integer type, floating point number complex type. If we talk about string then hello word is enclosed in double code. Hello word is enclosed in double code. Python programming is all string. Ok. If I talk about Boolean data then it can be true or false. Now why we want to use this? Suppose you write a function and you want to return from it that you can drive or not. If you don't know what function is then I will tell you. Suppose you want to tell me that you can drive or not. So you can give me a small information yes or no. These Booleans work the same way as yes or no. You don't have to directly say that yes I can drive. You don't have to give so much information. You can say yes or no. Yes means true or false. Like string has a lot of information H, A, R, R, Y and many more characters. But if I tell you that you can drive or not. You can say yes or no. And you should be good. So this is all about Boolean data type. Why we use it? When we will use it? We will see all this in the coming time. Then there is sequence data. I will talk about list and tuple. We don't have to go into complex in list and tuple. I want to tell you that list and tuple also exist. List is an ordered collection of data types. I will not tell you about it here. If you want to know about list then be patient. I will tell you about list. What is list? List is basically collection of different data elements. Which can be of different data types. This is integer, this is float. This is a list in a list. So list is basically list of items which can be of different data types. I will tell you this much. I will not tell you further. We can change this list. List is exactly the same thing. I am telling you in very simple language. Exactly the same thing except it is immutable. Immutable means it cannot be changed. People confuse mutable and immutable. Like many people tell me, I am telling you from my experience. Many people tell me that they are not able to remember whether they can change mutable or immutable. We have a problem. I will tell you how to remember. Assume that it is mutable. You will study mutation. What is mutation? It means changes. There is a theory that there used to be a human tail. After that mutations happened. And from that mutation, human tail disappeared. Now I am not teaching biology. I am just telling you. But mutation means change. I am telling you this. If you have studied genetic algorithm. If you have studied a little bit of biology. Come on. Mutation means changes. Earlier it was monkey. Then it became human. That is mutation. So mutable means change can be done. Immutable means change cannot be done. So you can remember like this. This is a way to remember. Maybe you remember. Then you will listen to me and say, come on bro, I remember. I was telling for those who don't remember. Now see here. I made a list. It is the same. It is collection of items. Except the fact that you cannot change it. If you change it, then it will give error. Now how we will change it, what is it, we will keep it for the video of tuple. Now I will not tell you. Then there is another data type. Map data, dictionary. Is it in your house? No? You must know what is dictionary. Dictionary is collection of key value pairs. You want to see the meaning of abandon. Abandon is a key. It has a value. You want to see the meaning of food. Food is a key. It has a value. Food is known to everyone. Now after this, one more thing. You want to see mutable. It has a value. This is the meaning of mutable. So key value pairs. I can store anything as key value pairs. I can store anything as key value pairs. How many marks are there for each. Name of the child. How many marks are there for him. Ok. All this information can be stored. I just wanted to tell you. Now you come here. And you see here. I have written dict is equal to name saakshi age 20 canvot true. It is printed like this. Name is saakshi. Age is 20. Canvot true. I will tell more about dictionary in the coming videos. For now you understand that dictionary is map data. It is a map of one thing to another. Name saakshi. How many marks are there. Can it vote or not. Is she a good girl or not. How is she in studies. How many marks does she get. How is her behavior. Is she disciplined or not. Ok. You understand. All these things have to be put here. And dictionary will be made. So tuple list dictionary. I hope you understood. I want to say one thing. Which may blow your mind. It may blow your mind. Ok. May not. But you will understand. In python everything is an object. Everything. Yes. Dictionary is an object. If you make a dictionary it is an object. If you make a Boolean it is an object. Integer is an object. Integer class is an object. And when we printed it. We saw that. Look at the top. Type of A is class complex. Class pool. So why is it written class. It is an object of class. Now you will say what is class. What are you saying. In upcoming videos I will tell you everything. In object oriented programming. I will tell you everything. For now remember this. In python everything is an object. Remember this. And if you remember this. Then I will remind you. But for now forget this. I have not told you this. But when we will do classes on object. Then you should remember this. I said that in python everything is an object. I will explain this. For now grasp the concept of data types. There are different types of data types. Read it properly. Ok. That's it in this video. I hope you enjoyed it. Access the playlist. Click here and bookmark it. Click here and save it. That's it for now. Thank you so much for watching this video. And I will see you next time. Bye."
+}

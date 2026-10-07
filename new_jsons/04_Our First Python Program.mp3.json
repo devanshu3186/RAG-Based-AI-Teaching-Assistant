@@ -1,0 +1,278 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 0.0,
+            "end": 19.66,
+            "text": " Guys, welcome back to 100 days of code.  In today's video, we will write our first python program.  Because this is going to be a python program in which we will understand each line.  We will have full understanding of what is happening in our python program.  And we are going to write it from scratch."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 19.68,
+            "end": 42.68,
+            "text": " In our upcoming videos, we will write very dangerous python programs from scratch.  But this is going to be our first program.  Let's go to the computer screen and let's get started.  So, I have come in my day 4 in Apple.  And today we are going to write our first program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 42.7,
+            "end": 55.16,
+            "text": " Now, we had already written our first program.  In fact, we have written many programs.  But this is going to be the program in which character by character, word by word,  I am going to write from scratch.  So, its feeling is different."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 55.18,
+            "end": 63.54,
+            "text": " So, first of all, what you guys do is write print.  Now, what happens in print python programming?  Let me tell you.  Print is a function.  What is a function?"
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 63.56,
+            "end": 82.32,
+            "text": " Function is basically used to perform some task.  Print is a function to invoke any function.  We use this parenthesis in this way.  As you guys can see that after writing PRINT, I opened a parenthesis here.  And after that, I can close it in this way."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 82.34,
+            "end": 94.82,
+            "text": " And whatever I write in it, I will get it printed.  Suppose I write 7 here, then I will get 7 printed here.  But do you know what we will do?  We will write hello word.  And you must have heard hello word in python programming."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 94.84,
+            "end": 107.5,
+            "text": " In any programming language, when any code is written,  then the first program that is written is written of hello word.  Now, you guys see here that as soon as I wrote print hello word,  a red color line came here.  What is this? Invalid syntax."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 107.52,
+            "end": 117.5,
+            "text": " Let's run it and see.  What is this? From the initial error.  Yes, do it from the initial error.  When we will get beaten, we will learn.  So, you guys see here, I wrote print hello word."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 117.52,
+            "end": 132.04000000000002,
+            "text": " I got an error.  Do you know why this error came?  When you use print in python, then you have to give it a valid object.  Hello word is not a valid object in python's eyes.  Python says that it is of hello word, I don't know at all."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 132.06,
+            "end": 143.38,
+            "text": " Yes, but if you close that thing in a double quote,  then python programming knows that you are talking about a string.  Hello word is a string.  And let's run it and see.  And we have written our first program."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 143.4,
+            "end": 155.5,
+            "text": " We are getting to see hello word.  Here you guys are seeing the output.  We are getting to see hello word.  Please clap your hands and write congratulations in the comments.  For me, this is the first program which we have written character by character."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 155.54000000000002,
+            "end": 169.10000000000002,
+            "text": " Very good.  So far so good.  If I write p-r-i-n-t here, after that I write 5 and then run,  then I will get hello word first, then I will get 5.  We had run python in the terminal."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 169.12,
+            "end": 183.86,
+            "text": " We saw that when I write python 3 like this in the terminal,  and then I write print hello word,  then I get a manual error.  I am getting everything manually by typing.  I have to do everything manually by typing."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 183.86,
+            "end": 197.86,
+            "text": " You can see that first I typed hello world.  After that I typed print 5.  So, will I type everything by typing?  No, I don't need to type everything by typing.  I can make a script."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 197.86,
+            "end": 213.86,
+            "text": " I made a script named main.py.  Script means line by line execution of our code.  If I have written hello world then I will get to see that.  5 means it will be executed.  And as I type print by this way and then I will run."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 213.86,
+            "end": 226.86,
+            "text": " So, I will get to see hello world then 5 then by.  Because the script is executing line by line.  Now, how print is written?  We don't have to go into its implementation.  If you want to know what are the other uses of print."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 226.86,
+            "end": 236.86,
+            "text": " So, you see it is telling you here.  As I took my mouse here, it will tell me to give values.  It will be an object.  Put comma and give multiple values.  Something like this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 236.86,
+            "end": 244.86,
+            "text": " Like I did hello world comma 7.  So, you see hello world.  And after that after one space 7 came.  Then the next statement was executed.  Then the next was executed."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 244.86,
+            "end": 256.86,
+            "text": " And our script will be executed line by line.  Can we print only with the help of python programming language?  No, we can't just print.  We can do a lot of things.  And this is the specialty of this course."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 256.86,
+            "end": 267.86,
+            "text": " It is going to tell you what we will do.  But we are starting our first python program.  We are understanding things like what is script.  And when we are here.  We execute a command here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 267.86,
+            "end": 275.86,
+            "text": " Line by line we give it to python interpreter.  Anything.  In rappel.  It is called rappel.  When we write python 3 here."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 275.86,
+            "end": 282.86,
+            "text": " Python 3.  It is called rappel.  It is a read evaluate print loop.  I will give it 8 plus 9.  So, it will write 17."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 282.86,
+            "end": 290.86,
+            "text": " But after that I will have to write something again.  I will get its output.  As I will keep writing things.  I will get its output.  Ideally we don't want to do this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 290.86,
+            "end": 301.86,
+            "text": " Ideally we want to process sequence of instructions.  We want to get it processed by python.  We want to tell python that do this work.  First execute this.  Then execute this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 301.86,
+            "end": 314.86,
+            "text": " Then do this.  And assume that I bought 10 rupees kilo of okra.  And I bought 5 kilos.  Or suppose I bought 17 rupees kilo of okra.  And I bought 13 kilos."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 314.86,
+            "end": 323.86,
+            "text": " So, I will say that python was 17 rupees kilo of okra.  And here I bought 13 kilos.  So, how much is it?  So, python will tell you.  You can do something like this in print."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 323.86,
+            "end": 330.86,
+            "text": " You can do some computation like this.  For multiplication you have to put star.  Don't put X by mistake.  Okay.  You have to put star."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 330.86,
+            "end": 336.86,
+            "text": " For divide it is same.  This one.  And then plus and minus.  These are all simple things.  So, you try this."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 336.86,
+            "end": 346.86,
+            "text": " But here see, 221 rupees are made.  From which I bought vegetables.  Okay.  So, python will give you some computation like this.  In upcoming videos we will learn more things."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 346.86,
+            "end": 356.86,
+            "text": " You stay tuned in this course.  I want to tell you that for whom this course is not for.  If you are not consistent daily.  Or you want to do things in short cut.  Then this course is not for you."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 356.86,
+            "end": 365.86,
+            "text": " Because this course demands consistency.  Demands that you practice.  As you are watching the videos.  And after giving your time.  Come out for a day."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 365.86,
+            "end": 373.86,
+            "text": " And complete 100 days of code challenge.  You have to go till 100 days.  You have to give your attendance in the comments.  That I am present.  I will see each comment."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 373.86,
+            "end": 379.86,
+            "text": " If you want to learn in very less time.  And learn very fast.  And learn without practicing.  Then this course is not for you.  Because it demands practice."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 379.86,
+            "end": 386.86,
+            "text": " And you have to practice.  So, I will tell you.  That it demands practice.  There is no elevator of success.  You have to take stairs for success."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 386.86,
+            "end": 397.86,
+            "text": " And these are the stairs.  And you have to climb these stairs with me for 100 days.  And trust me.  It will be worth it at the end.  I will tell you those things from my years of experience."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 397.86,
+            "end": 405.86,
+            "text": " Which took me a lot of time to learn.  And in upcoming videos.  We will do actual coding.  We will write a lot of code.  Over the next few videos."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 405.86,
+            "end": 416.86,
+            "text": " And in fact over the next a lot of videos.  Because we are going to do this challenge for 100 days.  That's all for now in this video.  If someone has not accessed the playlist.  Then definitely access it."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 416.86,
+            "end": 424.86,
+            "text": " Bookmark it.  And save it.  That's all for now in this video.  Thank you so much guys for watching this video.  And I will see you next time."
+        },
+        {
+            "number": "4",
+            "title": "Our First Python Program",
+            "start": 440.86,
+            "end": 441.86,
+            "text": " Bye Bye."
+        }
+    ],
+    "text": " Guys, welcome back to 100 days of code. In today's video, we will write our first python program. Because this is going to be a python program in which we will understand each line. We will have full understanding of what is happening in our python program. And we are going to write it from scratch. In our upcoming videos, we will write very dangerous python programs from scratch. But this is going to be our first program. Let's go to the computer screen and let's get started. So, I have come in my day 4 in Apple. And today we are going to write our first program. Now, we had already written our first program. In fact, we have written many programs. But this is going to be the program in which character by character, word by word, I am going to write from scratch. So, its feeling is different. So, first of all, what you guys do is write print. Now, what happens in print python programming? Let me tell you. Print is a function. What is a function? Function is basically used to perform some task. Print is a function to invoke any function. We use this parenthesis in this way. As you guys can see that after writing PRINT, I opened a parenthesis here. And after that, I can close it in this way. And whatever I write in it, I will get it printed. Suppose I write 7 here, then I will get 7 printed here. But do you know what we will do? We will write hello word. And you must have heard hello word in python programming. In any programming language, when any code is written, then the first program that is written is written of hello word. Now, you guys see here that as soon as I wrote print hello word, a red color line came here. What is this? Invalid syntax. Let's run it and see. What is this? From the initial error. Yes, do it from the initial error. When we will get beaten, we will learn. So, you guys see here, I wrote print hello word. I got an error. Do you know why this error came? When you use print in python, then you have to give it a valid object. Hello word is not a valid object in python's eyes. Python says that it is of hello word, I don't know at all. Yes, but if you close that thing in a double quote, then python programming knows that you are talking about a string. Hello word is a string. And let's run it and see. And we have written our first program. We are getting to see hello word. Here you guys are seeing the output. We are getting to see hello word. Please clap your hands and write congratulations in the comments. For me, this is the first program which we have written character by character. Very good. So far so good. If I write p-r-i-n-t here, after that I write 5 and then run, then I will get hello word first, then I will get 5. We had run python in the terminal. We saw that when I write python 3 like this in the terminal, and then I write print hello word, then I get a manual error. I am getting everything manually by typing. I have to do everything manually by typing. You can see that first I typed hello world. After that I typed print 5. So, will I type everything by typing? No, I don't need to type everything by typing. I can make a script. I made a script named main.py. Script means line by line execution of our code. If I have written hello world then I will get to see that. 5 means it will be executed. And as I type print by this way and then I will run. So, I will get to see hello world then 5 then by. Because the script is executing line by line. Now, how print is written? We don't have to go into its implementation. If you want to know what are the other uses of print. So, you see it is telling you here. As I took my mouse here, it will tell me to give values. It will be an object. Put comma and give multiple values. Something like this. Like I did hello world comma 7. So, you see hello world. And after that after one space 7 came. Then the next statement was executed. Then the next was executed. And our script will be executed line by line. Can we print only with the help of python programming language? No, we can't just print. We can do a lot of things. And this is the specialty of this course. It is going to tell you what we will do. But we are starting our first python program. We are understanding things like what is script. And when we are here. We execute a command here. Line by line we give it to python interpreter. Anything. In rappel. It is called rappel. When we write python 3 here. Python 3. It is called rappel. It is a read evaluate print loop. I will give it 8 plus 9. So, it will write 17. But after that I will have to write something again. I will get its output. As I will keep writing things. I will get its output. Ideally we don't want to do this. Ideally we want to process sequence of instructions. We want to get it processed by python. We want to tell python that do this work. First execute this. Then execute this. Then do this. And assume that I bought 10 rupees kilo of okra. And I bought 5 kilos. Or suppose I bought 17 rupees kilo of okra. And I bought 13 kilos. So, I will say that python was 17 rupees kilo of okra. And here I bought 13 kilos. So, how much is it? So, python will tell you. You can do something like this in print. You can do some computation like this. For multiplication you have to put star. Don't put X by mistake. Okay. You have to put star. For divide it is same. This one. And then plus and minus. These are all simple things. So, you try this. But here see, 221 rupees are made. From which I bought vegetables. Okay. So, python will give you some computation like this. In upcoming videos we will learn more things. You stay tuned in this course. I want to tell you that for whom this course is not for. If you are not consistent daily. Or you want to do things in short cut. Then this course is not for you. Because this course demands consistency. Demands that you practice. As you are watching the videos. And after giving your time. Come out for a day. And complete 100 days of code challenge. You have to go till 100 days. You have to give your attendance in the comments. That I am present. I will see each comment. If you want to learn in very less time. And learn very fast. And learn without practicing. Then this course is not for you. Because it demands practice. And you have to practice. So, I will tell you. That it demands practice. There is no elevator of success. You have to take stairs for success. And these are the stairs. And you have to climb these stairs with me for 100 days. And trust me. It will be worth it at the end. I will tell you those things from my years of experience. Which took me a lot of time to learn. And in upcoming videos. We will do actual coding. We will write a lot of code. Over the next few videos. And in fact over the next a lot of videos. Because we are going to do this challenge for 100 days. That's all for now in this video. If someone has not accessed the playlist. Then definitely access it. Bookmark it. And save it. That's all for now in this video. Thank you so much guys for watching this video. And I will see you next time. Bye Bye."
+}
